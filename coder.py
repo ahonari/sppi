@@ -8,7 +8,7 @@ import pandas as pd
 import hashlib
 
 from config import Config
-from prompts import get_relevance_prompt, get_coding_prompt
+from prompts import get_coding_prompt
 
 
 class ProtestCoder:
@@ -22,18 +22,29 @@ class ProtestCoder:
         self.model = Config.MODEL_NAME
         self.temperature = Config.TEMPERATURE
         self.max_tokens = Config.MAX_TOKENS
-        self.relevance_prompt = get_relevance_prompt()
         self.coding_prompt = get_coding_prompt()
         
         print(f"✅ Initialized ProtestCoder with model: {self.model}")
     
-    def _get_llm_response(self, prompt: str, system_message: str = "You are a precise data coder.") -> Dict:
+    def _estimate_tokens(self, text: str) -> int:
+        """Rough estimate of token count (1 token ≈ 4 chars for Persian/English)"""
+        return len(text) // 4
+    
+    def _truncate_text(self, text: str, max_chars: int = 8000) -> str:
+        """Truncate text to safe length if needed"""
+        if not text:
+            return text
+        if len(text) <= max_chars:
+            return text
+        return text[:max_chars] + "...[truncated]"
+    
+    def _get_llm_response(self, prompt: str) -> Dict:
         """Get JSON response from LLM"""
         try:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=[
-                    {"role": "system", "content": system_message},
+                    {"role": "system", "content": "You are a precise data coder. Always return valid JSON with English keys and values from the codebook."},
                     {"role": "user", "content": prompt}
                 ],
                 temperature=self.temperature,
@@ -50,47 +61,91 @@ class ProtestCoder:
             print(f"⚠️ API error: {e}")
             return {'_error': str(e)}
     
-    def check_relevance(self, title: str, subtitle: str) -> Tuple[bool, str]:
+    def _prepare_content(self, row: pd.Series) -> Dict:
         """
-        Stage 1: Check if article is relevant using only title and subtitle.
-        Returns: (is_relevant, reason)
+        Prepare and truncate content to avoid context length errors.
+        This is the single fix for token management.
         """
-        prompt = self.relevance_prompt.format(
-            title=title or '',
-            sub_title=subtitle or ''
-        )
+        # Get content
+        title = row.get('title', '')
+        subtitle = row.get('sub_title', '')
+        summary = row.get('summary', '')
+        body = row.get('body', '')
+        date = row.get('date', '')
+        service = row.get('service', '')
+        category = row.get('category', '')
+        tag = row.get('tag', '')
         
-        result = self._get_llm_response(prompt)
+        # Estimate total tokens
+        total_text = f"{title} {subtitle} {summary} {body}"
+        estimated_tokens = self._estimate_tokens(total_text) + 2000  # +2000 for prompt overhead
         
-        if result.get('_error'):
-            print(f"⚠️ Error checking relevance: {result['_error']}")
-            return False, f"Error: {result['_error']}"
+        # Define safe limits based on model
+        # gpt-3.5-turbo: 16K tokens, gpt-4o-mini: 128K tokens, gpt-4o: 128K tokens
+        model_limits = {
+            'gpt-3.5-turbo': 14000,  # Safe margin
+            'gpt-4o-mini': 100000,   # Safe margin
+            'gpt-4o': 100000,        # Safe margin
+        }
         
-        is_relevant = result.get('relevance') == 'Yes'
-        reason = result.get('reason', 'No reason provided')
+        # Get the limit for current model
+        max_safe_tokens = model_limits.get(self.model, 14000)  # Default to 14K
         
-        return is_relevant, reason
+        # If we're over the limit, truncate
+        if estimated_tokens > max_safe_tokens:
+            print(f"   ⚠️ Article too long ({estimated_tokens} tokens estimated), truncating...")
+            
+            # Keep body in priority order, truncate from largest parts
+            # Strategy: Keep title and subtitle intact, truncate summary and body
+            
+            # Truncate body to 60% of max chars
+            body_limit = int(max_safe_tokens * 0.6 * 4)  # 4 chars per token
+            body = self._truncate_text(body, body_limit)
+            
+            # Truncate summary to 20% of max chars
+            summary_limit = int(max_safe_tokens * 0.2 * 4)
+            summary = self._truncate_text(summary, summary_limit)
+            
+            # Truncate title and subtitle if still too long
+            if len(title) > 500:
+                title = title[:500] + "...[truncated]"
+            if len(subtitle) > 500:
+                subtitle = subtitle[:500] + "...[truncated]"
+        
+        return {
+            'title': title,
+            'subtitle': subtitle,
+            'date': date,
+            'summary': summary,
+            'body': body,
+            'service': service,
+            'category': category,
+            'tag': tag
+        }
     
     def code_article(self, row: pd.Series) -> Dict:
         """
-        Stage 2: Full coding of a relevant article
+        Full coding of a relevant article (relevance is pre-classified)
         """
+        # Prepare content with truncation if needed
+        content = self._prepare_content(row)
+        
+        # Create prompt with prepared content
         prompt = self.coding_prompt.format(
-            title=row.get('title', ''),
-            sub_title=row.get('sub_title', ''),
-            date=row.get('date', ''),
-            summary=row.get('summary', ''),
-            body=row.get('body', ''),
-            service=row.get('service', ''),
-            category=row.get('category', ''),
-            tag=row.get('tag', '')
+            title=content['title'],
+            sub_title=content['subtitle'],
+            date=content['date'],
+            summary=content['summary'],
+            body=content['body'],
+            service=content['service'],
+            category=content['category'],
+            tag=content['tag']
         )
         
         result = self._get_llm_response(prompt)
         
         # Ensure duplicate detection works properly
         if result.get('duplicate') == 'Yes':
-            # If duplicate, make sure all other fields are null
             coding_fields = [
                 'protest_ritual', 'violent', 'protest_form_en', 'protest_form_fa',
                 'issue', 'issue_specific', 'local_national_international',
@@ -109,20 +164,19 @@ class ProtestCoder:
             if date_range:
                 result['date_range_start'] = date_range.get('start', '')
                 result['date_range_end'] = date_range.get('end', '')
-            # Estimate duration
             result['days_duration'] = self._estimate_duration(row, date_range)
         
         # Add metadata
         result['_processing_status'] = 'success'
         result['_model_used'] = self.model
         
+        # Always set relevance to Yes since we're only processing relevant articles
+        result['relevance'] = 'Yes'
+        
         return result
     
     def _detect_multi_day(self, row: pd.Series) -> Tuple[bool, Dict]:
-        """
-        Detect if article describes protests over multiple days.
-        Returns: (is_multi_day, date_range_dict)
-        """
+        """Detect if article describes protests over multiple days."""
         text = f"{row.get('title', '')} {row.get('sub_title', '')} {row.get('summary', '')} {row.get('body', '')}"
         
         patterns = [
@@ -146,7 +200,7 @@ class ProtestCoder:
         return False, None
     
     def _estimate_duration(self, row: pd.Series, date_range: Dict) -> int:
-        """Estimate the number of days for a multi-day event"""
+        """Estimate the number of days for a multi-day event."""
         text = f"{row.get('title', '')} {row.get('sub_title', '')} {row.get('summary', '')} {row.get('body', '')}"
         
         patterns = [
@@ -168,19 +222,10 @@ class ProtestCoder:
     
     def process_article(self, row: pd.Series) -> List[Dict]:
         """
-        Complete processing pipeline for one article.
+        Process a pre-classified relevant article.
         Returns list of coded events.
         """
-        # Stage 1: Check relevance using only title and subtitle
-        title = row.get('title', '')
-        subtitle = row.get('sub_title', '')
-        
-        is_relevant, reason = self.check_relevance(title, subtitle)
-        
-        if not is_relevant:
-            return []
-        
-        # Stage 2: Full coding
+        # Full coding (no relevance check)
         coded_result = self.code_article(row)
         
         # Check if it's a duplicate
@@ -209,19 +254,32 @@ class ProtestCoder:
             expanded_events.append(event_copy)
         
         return expanded_events
-    
+        
     def process_batch(self, df: pd.DataFrame) -> pd.DataFrame:
-        """Process a batch of articles."""
+        """Process a batch of articles (all assumed relevant)."""
         all_results = []
+        errors = []
         
         with tqdm(total=len(df), desc="Processing articles") as pbar:
             for idx, row in df.iterrows():
-                coded_events = self.process_article(row)
-                
-                for event in coded_events:
-                    combined = row.to_dict()
-                    combined.update(event)
-                    all_results.append(combined)
+                try:
+                    coded_events = self.process_article(row)
+                    
+                    for event in coded_events:
+                        combined = row.to_dict()
+                        combined.update(event)
+                        # Remove columns that are too large to save space
+                        for col in Config.EXCLUDE_COLUMNS:
+                            if col in combined:
+                                del combined[col]
+                        all_results.append(combined)
+                except Exception as e:
+                    print(f"\n⚠️ Error processing article {idx+1}: {e}")
+                    errors.append({
+                        'id': row.get('id', idx),
+                        'title': row.get('title', 'Unknown')[:50],
+                        'error': str(e)
+                    })
                 
                 pbar.update(1)
                 
@@ -230,8 +288,13 @@ class ProtestCoder:
         
         result_df = pd.DataFrame(all_results)
         
-        if not result_df.empty and 'relevance' in result_df.columns:
-            result_df = result_df[result_df['relevance'] != 'No']
+        # Report errors
+        if errors:
+            print(f"\n⚠️ {len(errors)} articles had errors:")
+            for err in errors[:5]:
+                print(f"   - {err.get('title', 'Unknown')}: {err.get('error', 'Unknown error')[:100]}")
+            if len(errors) > 5:
+                print(f"   ... and {len(errors)-5} more errors")
         
         if not result_df.empty:
             relevant_count = len(result_df[result_df.get('relevance') == 'Yes'])
@@ -240,16 +303,17 @@ class ProtestCoder:
             
             print(f"\n📊 Processing Summary:")
             print(f"   📰 Total articles processed: {len(df)}")
-            print(f"   ✅ Relevant events: {relevant_count}")
+            print(f"   ✅ Events coded: {relevant_count}")
             print(f"   🔄 Duplicates identified: {duplicate_count}")
             print(f"   📅 Expanded multi-day events: {expanded_count}")
+            if errors:
+                print(f"   ❌ Errors: {len(errors)}")
         else:
             print(f"\n📊 Processing Summary:")
             print(f"   📰 Total articles processed: {len(df)}")
-            print(f"   ⚠️  No relevant events found")
+            print(f"   ⚠️  No events coded")
         
         return result_df
-
 
 class DuplicateDetector:
     """Detect duplicate articles and group by event"""
@@ -264,7 +328,7 @@ class DuplicateDetector:
         
         fields = [
             'issue_location_name', 'event_location_name', 'protest_form_en',
-            'issue', 'target', 'size_of_participants'
+            'issue', 'target'
         ]
         
         signature_parts = []
@@ -272,6 +336,9 @@ class DuplicateDetector:
             value = str(row.get(field, ''))
             if value and value not in ['NA', 'Unknown', 'None', '']:
                 signature_parts.append(value)
+        
+        if len(signature_parts) < 3:
+            return ''
         
         signature_parts.sort()
         signature = '|'.join(signature_parts)
@@ -290,12 +357,17 @@ class DuplicateDetector:
             return df
         
         relevant_df['_signature'] = relevant_df.apply(self._create_event_signature, axis=1)
-        signature_groups = relevant_df[relevant_df['_signature'] != ''].groupby('_signature').size()
+        grouped = relevant_df[relevant_df['_signature'] != '']
+        
+        if grouped.empty:
+            return df
+        
+        signature_groups = grouped.groupby('_signature').size()
         duplicate_groups = signature_groups[signature_groups > 1].index
         
         duplicate_map = {}
         for sig in duplicate_groups:
-            group_events = relevant_df[relevant_df['_signature'] == sig]
+            group_events = grouped[grouped['_signature'] == sig]
             group_id = hashlib.md5(sig.encode('utf-8')).hexdigest()
             
             for idx, row in group_events.iterrows():
@@ -333,7 +405,7 @@ class ProtestCoderTest:
     
     @staticmethod
     def get_test_data():
-        """Return sample test data"""
+        """Return sample test data (all marked as relevant)"""
         return pd.DataFrame([
             {
                 'id': 1,
@@ -346,7 +418,8 @@ class ProtestCoderTest:
                 'body': 'جمعی از کارگران شرکت فولاد اهواز امروز با تجمع در مقابل ساختمان مرکزی این شرکت، نسبت به عدم پرداخت حقوق خود اعتراض کردند. این تجمع حدود دو ساعت به طول انجامید و با حضور حدود ۲۰۰ نفر از کارگران همراه بود.',
                 'service': 'ایرنا',
                 'category': 'اجتماعی',
-                'tag': 'کارگری, اعتراضات, اهواز'
+                'tag': 'کارگری, اعتراضات, اهواز',
+                'relevance': 'Yes'
             },
             {
                 'id': 2,
@@ -359,7 +432,8 @@ class ProtestCoderTest:
                 'body': 'کارگران شرکت فولاد اهواز برای دومین روز متوالی با تجمع در مقابل این شرکت، خواستار پرداخت حقوق معوقه خود شدند. این اعتصاب از دیروز آغاز شده است.',
                 'service': 'ایرنا',
                 'category': 'اجتماعی',
-                'tag': 'کارگری, اعتصاب, اهواز'
+                'tag': 'کارگری, اعتصاب, اهواز',
+                'relevance': 'Yes'
             },
             {
                 'id': 3,
@@ -372,46 +446,8 @@ class ProtestCoderTest:
                 'body': 'جمعی از دانشجویان دانشگاه تهران امروز با تجمع در محوطه این دانشگاه، خواستار آزادی فوری زندانیان سیاسی شدند. این تجمع با حضور حدود ۵۰۰ نفر از دانشجویان برگزار شد.',
                 'service': 'خبرگزاری دانشجو',
                 'category': 'سیاسی',
-                'tag': 'دانشجویی, اعتراضات, تهران'
-            },
-            {
-                'id': 4,
-                'title': 'اعتراضات در خارج از ایران: تجمع ایرانیان در برلین',
-                'sub_title': 'ایرانیان مقیم آلمان در برلین تجمع کردند',
-                'date': '1402/11/22',
-                'persian_date': '۲۲ بهمن ۱۴۰۲',
-                'url': 'https://example.com/news/4',
-                'summary': 'جمعی از ایرانیان مقیم آلمان در برلین تجمع کردند.',
-                'body': 'جمعی از ایرانیان مقیم آلمان با تجمع در مقابل سفارت ایران در برلین، خواستار آزادی زندانیان سیاسی شدند.',
-                'service': 'رادیو فردا',
-                'category': 'سیاسی',
-                'tag': 'ایرانیان خارج, اعتراضات, برلین'
-            },
-            {
-                'id': 5,
-                'title': 'تحلیل اعتراضات اخیر کارگری در ایران',
-                'sub_title': 'یک کارشناس مسائل کارگری به بررسی دلایل اعتراضات پرداخت',
-                'date': '1402/11/23',
-                'persian_date': '۲۳ بهمن ۱۴۰۲',
-                'url': 'https://example.com/news/5',
-                'summary': 'یک تحلیل از اعتراضات کارگری اخیر در ایران.',
-                'body': 'در این گفتگو، یک کارشناس مسائل کارگری به تحلیل دلایل اعتراضات اخیر کارگران در ایران پرداخت و راهکارهایی را ارائه کرد.',
-                'service': 'خبرگزاری مهر',
-                'category': 'تحلیل',
-                'tag': 'تحلیل, کارگری'
-            },
-            {
-                'id': 6,
-                'title': 'تجمع کارگران فولاد در اهواز (تکرار)',
-                'sub_title': 'کارگران فولاد خواستار حقوق خود شدند',
-                'date': '1402/10/15',
-                'persian_date': '۱۵ دی ۱۴۰۲',
-                'url': 'https://example.com/news/6',
-                'summary': 'کارگران فولاد اهواز در مقابل شرکت تجمع کردند.',
-                'body': 'کارگران شرکت فولاد اهواز امروز با تجمع در مقابل ساختمان این شرکت اعتراض کردند.',
-                'service': 'خبرگزاری مهر',
-                'category': 'اجتماعی',
-                'tag': 'کارگری, اهواز'
+                'tag': 'دانشجویی, اعتراضات, تهران',
+                'relevance': 'Yes'
             }
         ])
     
@@ -419,11 +455,11 @@ class ProtestCoderTest:
     def run_test():
         """Run a complete test"""
         print("="*60)
-        print("🧪 RUNNING COMPREHENSIVE TEST")
+        print("🧪 RUNNING TEST WITH PRE-CLASSIFIED DATA")
         print("="*60)
         
         test_df = ProtestCoderTest.get_test_data()
-        print(f"\n📄 Test data: {len(test_df)} articles")
+        print(f"\n📄 Test data: {len(test_df)} articles (all pre-classified as relevant)")
         
         print("\n📋 Test articles:")
         for idx, row in test_df.iterrows():
@@ -443,27 +479,25 @@ class ProtestCoderTest:
         print("="*60)
         
         if results.empty:
-            print("⚠️ No relevant events found")
+            print("⚠️ No events coded")
             return results
         
         for idx, row in results.iterrows():
             print(f"\n📰 Article: {row.get('title', 'No title')[:50]}...")
             print(f"   ID: {row.get('id', 'N/A')}")
             
-            if row.get('relevance') == 'Yes':
-                is_duplicate = row.get('duplicate') == 'Yes'
-                print(f"   🔄 Duplicate: {is_duplicate}")
-                
-                if is_duplicate:
-                    print(f"   ⚠️  DUPLICATE - No coding fields filled")
-                else:
-                    print(f"   ✅ Form: {row.get('protest_form_en', 'Unknown')}")
-                    print(f"   ✅ Issue: {row.get('issue', 'Unknown')}")
-                    print(f"   ✅ Location: {row.get('event_location_name', 'Unknown')}")
-                    if row.get('_is_expanded') == 'Yes':
-                        print(f"   📅 Day: {row.get('event_day', 'N/A')} of {row.get('days_duration', 'N/A')}")
+            is_duplicate = row.get('duplicate') == 'Yes'
+            print(f"   🔄 Duplicate: {is_duplicate}")
+            
+            if is_duplicate:
+                print(f"   ⚠️  DUPLICATE - No coding fields filled")
             else:
-                print(f"   ⏭️  Skipped (irrelevant)")
+                print(f"   ✅ Form: {row.get('protest_form_en', 'Unknown')}")
+                print(f"   ✅ Issue: {row.get('issue', 'Unknown')}")
+                print(f"   ✅ Target: {row.get('target', 'Unknown')}")
+                print(f"   ✅ Location: {row.get('event_location_name', 'Unknown')}")
+                if row.get('_is_expanded') == 'Yes':
+                    print(f"   📅 Day: {row.get('event_day', 'N/A')} of {row.get('days_duration', 'N/A')}")
         
         print("\n" + "="*60)
         print("✅ Test completed!")

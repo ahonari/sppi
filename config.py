@@ -9,7 +9,7 @@ class Config:
     
     # API Settings
     OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
-    MODEL_NAME = os.getenv('MODEL_NAME', 'gpt-4-turbo-preview')
+    MODEL_NAME = os.getenv('MODEL_NAME', 'gpt-4o-mini')
     TEMPERATURE = float(os.getenv('TEMPERATURE', '0.1'))
     MAX_TOKENS = int(os.getenv('MAX_TOKENS', '2000'))
     
@@ -23,13 +23,15 @@ class Config:
     RAW_DIR = DATA_DIR / 'raw'
     PROCESSED_DIR = DATA_DIR / 'processed'
     
+    # Relevance column name in your data (match exactly)
+    RELEVANCE_COLUMN = 'relevance'
+    
+    # Columns to exclude from output (saves space)
+    EXCLUDE_COLUMNS = ['body', 'summary', 'url']  # Add any columns you want to skip
+    
     # Ensure directories exist
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     PROCESSED_DIR.mkdir(parents=True, exist_ok=True)
-    
-    # Duplicate detection thresholds
-    DUPLICATE_TITLE_SIMILARITY = 0.85  # Fuzzy match threshold
-    DUPLICATE_SAME_EVENT_THRESHOLD = 0.75  # Combined similarity threshold
     
     @classmethod
     def validate(cls):

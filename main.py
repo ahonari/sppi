@@ -55,8 +55,14 @@ def run_processing_mode(input_file: str = None):
             print("\n📁 Multiple input files found:")
             for i, file in enumerate(excel_files):
                 print(f"   {i+1}. {file.name}")
-            choice = input("\nSelect file number (or press Enter for first): ").strip()
-            if choice:
+            choice = input("\nSelect file number (or press Enter for first, 'a' for all): ").strip().lower()
+            
+            if choice == 'a':
+                # Process all files using batch processor
+                print("\n🔄 Processing all files...")
+                from process_batch import process_batch
+                return process_batch()
+            elif choice:
                 try:
                     idx = int(choice) - 1
                     if 0 <= idx < len(excel_files):
@@ -76,7 +82,7 @@ def run_processing_mode(input_file: str = None):
     print(f"\n📁 Input file: {input_path}")
     
     timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    output_file = Config.PROCESSED_DIR / f'coded_protests_{timestamp}.xlsx'
+    output_file = Config.PROCESSED_DIR / f'coded_{timestamp}.xlsx'
     print(f"📁 Output file: {output_file}")
     
     # Load data
@@ -85,6 +91,21 @@ def run_processing_mode(input_file: str = None):
         df = pd.read_excel(input_path)
         print(f"   ✅ Loaded {len(df)} articles")
         print(f"   Columns: {df.columns.tolist()}")
+        
+        # Filter for relevant articles
+        if Config.RELEVANCE_COLUMN in df.columns:
+            relevant_df = df[df[Config.RELEVANCE_COLUMN].str.lower().isin(['yes', '1', 'true', 'relevant'])]
+            print(f"   📊 Found {len(relevant_df)} relevant articles out of {len(df)}")
+            
+            if len(relevant_df) == 0:
+                print("   ⚠️ No relevant articles found in the data")
+                print(f"   Check your relevance column: {Config.RELEVANCE_COLUMN}")
+                return None
+            
+            df = relevant_df
+        else:
+            print(f"   ⚠️ No '{Config.RELEVANCE_COLUMN}' column found. Processing all articles.")
+    
     except Exception as e:
         print(f"❌ Error loading file: {e}")
         return None
@@ -103,6 +124,12 @@ def run_processing_mode(input_file: str = None):
         detector = DuplicateDetector()
         results_df = detector.detect_duplicates(results_df)
     
+    # Remove large columns before saving
+    if not results_df.empty:
+        for col in Config.EXCLUDE_COLUMNS:
+            if col in results_df.columns:
+                results_df = results_df.drop(columns=[col])
+    
     # Save results
     try:
         print(f"\n💾 Saving results...")
@@ -120,10 +147,12 @@ def run_processing_mode(input_file: str = None):
     print("\n" + "="*60)
     print("📊 PROCESSING SUMMARY")
     print("="*60)
-    print(f"   Total articles: {len(df)}")
+    print(f"   Articles processed: {len(df)}")
     if not results_df.empty:
-        print(f"   Relevant events: {len(results_df[results_df['relevance'] == 'Yes'])}")
+        print(f"   Events coded: {len(results_df[results_df['relevance'] == 'Yes'])}")
         print(f"   Duplicates: {len(results_df[results_df['duplicate'] == 'Yes'])}")
+        print(f"   Unique events: {len(results_df[results_df['duplicate'] != 'Yes'])}")
+        print(f"   Columns excluded: {Config.EXCLUDE_COLUMNS}")
     print(f"   Output saved to: {output_file}")
     
     return results_df
@@ -134,12 +163,15 @@ def main():
     parser = argparse.ArgumentParser(description='Protest Event Coding System')
     parser.add_argument('--test', action='store_true', help='Run in test mode with sample data')
     parser.add_argument('--input', type=str, help='Input Excel file path')
-    parser.add_argument('--output', type=str, help='Output Excel file path')
+    parser.add_argument('--batch', action='store_true', help='Process all files in raw folder')
     
     args = parser.parse_args()
     
     if args.test:
         run_test_mode()
+    elif args.batch:
+        from process_batch import process_batch
+        process_batch()
     else:
         run_processing_mode(args.input)
 
