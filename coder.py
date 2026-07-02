@@ -122,7 +122,7 @@ class ProtestCoder:
             'category': category,
             'tag': tag
         }
-    
+        
     def code_article(self, row: pd.Series) -> Dict:
         """
         Full coding of a relevant article (relevance is pre-classified)
@@ -147,30 +147,25 @@ class ProtestCoder:
         # Ensure duplicate detection works properly
         if result.get('duplicate') == 'Yes':
             coding_fields = [
-                'protest_ritual', 'violent', 'protest_form_en', 'protest_form_fa',
+                'protests_categories', 'protest_ritual', 'violent', 
+                'protest_form_en', 'protest_form_fa',
                 'issue', 'issue_specific', 'local_national_international',
                 'issue_location_name', 'location_category', 'target', 'organizer_type',
                 'civil_society_sector', 'main_political_sector', 'event_location_name',
-                'size_of_participants', 'arena_type', 'event_date',
+                'size_of_participants', 'arena_name', 'arena_type', 'event_date',
                 'is_multi_day', 'date_range_start', 'date_range_end', 'days_duration'
             ]
             for field in coding_fields:
                 result[field] = None
         
-        # Check for multi-day events
-        is_multi_day, date_range = self._detect_multi_day(row)
-        if is_multi_day and result.get('duplicate') != 'Yes':
-            result['is_multi_day'] = 'Yes'
-            if date_range:
-                result['date_range_start'] = date_range.get('start', '')
-                result['date_range_end'] = date_range.get('end', '')
-            result['days_duration'] = self._estimate_duration(row, date_range)
+        # If duplicate is "No", ensure protests_categories is derived from form
+        if result.get('duplicate') != 'Yes' and result.get('protest_form_en'):
+            # This mapping should also be done in post-processing
+            pass
         
         # Add metadata
         result['_processing_status'] = 'success'
         result['_model_used'] = self.model
-        
-        # Always set relevance to Yes since we're only processing relevant articles
         result['relevance'] = 'Yes'
         
         return result
