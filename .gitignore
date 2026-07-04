@@ -23,6 +23,7 @@ build/
 # Data files (optional - you might want to include small data files)
 data/processed/
 data/raw/
+data/test/
 
 # IDE
 .vscode/
