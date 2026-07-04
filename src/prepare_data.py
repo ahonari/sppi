@@ -531,6 +531,40 @@ def prepare_final_data(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # ============================================================
+# INTERACTIVE FILE SELECTION
+# ============================================================
+
+def select_files(files: list) -> list:
+    """Interactive file selection menu"""
+    print("\n📁 Files in data/processed/:")
+    print("-"*60)
+    
+    for i, f in enumerate(files, 1):
+        print(f"   {i}. {f.name}")
+    
+    print("-"*60)
+    
+    choice = input("\nSelect file number (or 'a' for all, 'q' to quit): ").strip().lower()
+    
+    if choice == 'q':
+        return []
+    
+    if choice == 'a':
+        return files
+    
+    try:
+        idx = int(choice) - 1
+        if 0 <= idx < len(files):
+            return [files[idx]]
+        else:
+            print(f"❌ Invalid selection. Please choose 1-{len(files)}")
+            return []
+    except ValueError:
+        print("❌ Invalid input. Please enter a number or 'a'")
+        return []
+
+
+# ============================================================
 # MAIN EXECUTION
 # ============================================================
 
@@ -550,34 +584,45 @@ def main():
         print("   Please make sure you have processed data files in:", PROCESSED_DIR)
         return
     
-    # 2. Merge files
-    print("\n🔄 Step 1: Merging files...")
-    merged_df = merge_files(files)
+    # 2. Interactive file selection
+    selected_files = select_files(files)
+    
+    if not selected_files:
+        print("\n❌ No files selected. Exiting.")
+        return
+    
+    print(f"\n📊 Selected {len(selected_files)} file(s) to process:")
+    for f in selected_files:
+        print(f"   - {f.name}")
+    
+    # 3. Merge selected files
+    print("\n🔄 Step 1: Merging selected files...")
+    merged_df = merge_files(selected_files)
     
     if merged_df.empty:
         print("❌ No data could be merged")
         return
     
-    # 3. Clean column names
+    # 4. Clean column names
     print("\n🧹 Step 2: Cleaning column names...")
     merged_df = clean_column_names(merged_df)
     print(f"   ✅ Columns: {merged_df.columns.tolist()}")
     
-    # 4. Remove duplicates
+    # 5. Remove duplicates
     print("\n🔍 Step 3: Removing duplicates...")
     merged_df = remove_duplicates(merged_df)
     
-    # 5. Geocode locations (using free Nominatim)
+    # 6. Geocode locations (using free Nominatim)
     print("\n📍 Step 4: Geocoding locations...")
     print("   Using free Nominatim (OpenStreetMap) API")
     geocoder = Geocoder()
     merged_df = geocode_locations(merged_df, geocoder)
     
-    # 6. Prepare final data
+    # 7. Prepare final data
     print("\n📊 Step 5: Preparing final data...")
     final_df = prepare_final_data(merged_df)
     
-    # 7. Save final data
+    # 8. Save final data
     print("\n💾 Step 6: Saving final data...")
     
     # Save as CSV (faster loading)
@@ -601,11 +646,11 @@ def main():
     print(f"   Successful: {cache_stats['successful_geocodes']}")
     print(f"   Failed: {cache_stats['failed_geocodes']}")
     
-    # 8. Summary
+    # 9. Summary
     print("\n" + "="*60)
     print("📊 PREPARATION SUMMARY")
     print("="*60)
-    print(f"   Files merged: {len(files)}")
+    print(f"   Files processed: {len(selected_files)}")
     print(f"   Rows after merge: {len(merged_df)}")
     print(f"   Rows with coordinates: {final_df['lat'].notna().sum()}")
     print(f"   Final rows for dashboard: {len(final_df)}")
