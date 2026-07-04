@@ -1,0 +1,1321 @@
+﻿Unnamed: 0,id,title,sub_title,date,persian_date,service,category,agency,relevance,duplicate,protests_categories,protest_ritual,violent,protest_form_en,protest_form_fa,issue,issue_specific,local_national_international,issue_location_name,location_category,target,organizer_type,civil_society_sector,main_political_sector,event_location_name,size_of_participants,arena_name,arena_type,event_date,is_multi_day,date_range_start,date_range_end,days_duration,_processing_status,_model_used,event_day,original_article_id,_is_expanded,duplicate_group_id
+45874,281494,عکس/اعتراض خلاقانه به زباله‌سازی در تهران,,2016-01-01 08:20:02,جمعه ۱۱ دی ۱۳۹۴ - ۱۰:۵۰,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,symbolic demonstrations,اعتراضات نمادین,Environmental,Env_Waste Disposal,Local,Unknown,Capital,Government,Ordinary Citizens,Environmental,Unknown,تهران,unknown,Unknown,Public place,2016-01-01,No,,,1.0,success,gpt-4o-mini,,,,
+45876,270938,کمپین ابتکار برای کاهش آلودگی هوا و گازهای گلخانه‌ای, «دمای 18 درجه»,2016-01-01 08:54:48,جمعه ۱۱ دی ۱۳۹۴ - ۱۱:۲۴,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,National,Unknown,NA,Government,Campaign,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-01,No,2016-01-01,2016-01-01,1.0,success,gpt-4o-mini,,,,
+45887,281554,نامه فعالان محیط زیستی به مجلس و درخواست برای تصویب لایحه هوای پاک,,2016-01-01 12:47:47,جمعه ۱۱ دی ۱۳۹۴ - ۱۵:۱۷,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,National,Unknown,NA,Parliament,NGO/Community,Environmental,Unknown,Unknown,medium group <50,Unknown,Unknown,2016-01-01,No,2016-01-01,2016-01-01,1.0,success,gpt-4o-mini,,,,
+45897,281751,دانشجویان در اعتراض به اعدام شیخ نمر در برابر سفارت عربستان تجمع می‌کنند,به همت بسیج دانشجویی دانشگاه‌های تهران بزرگ؛,2016-01-02 10:48:33,شنبه ۱۲ دی ۱۳۹۴ - ۱۳:۱۸,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,مقابل سفارت عربستان,unknown,مقابل سفارت عربستان,International office/ embassy,2016-01-02,No,2016-01-02,2016-01-02,1.0,success,gpt-4o-mini,,,,
+45907,281859,اعتراض به اعدام شیخ نمر با تجمع در مقابل سفارت عربستان,,2016-01-02 15:46:59,شنبه ۱۲ دی ۱۳۹۴ - ۱۸:۱۶,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Informal Group,Religious,Unknown,تهران,small group < 15,مقابل سفارت عربستان سعودی,International office/ embassy,2016-01-02,No,2016-01-02,2016-01-02,1.0,success,gpt-4o-mini,,,,
+45908,281866,اعتراض نماینده و فعالان مدنی بابل به تخریب آثار تاریخی,,2016-01-02 16:04:20,شنبه ۱۲ دی ۱۳۹۴ - ۱۸:۳۴,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,بابل,City,Local authorities/agencies,NGO/Community,Cultural,Unknown,بابل,medium group < 50,Unknown,Unknown,2016-01-02,No,2016-01-02,2016-01-02,1.0,success,gpt-4o-mini,,,,
+45909,270413,تجمع در اعتراض به اعدام شیخ نمر در مقابل کنسولگری عربستان در مشهد,,2016-01-02 18:01:31,شنبه ۱۲ دی ۱۳۹۴ - ۲۰:۳۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,International Institution/Country,Ordinary Citizens,Religious,Unknown,مشهد,unknown,مقابل کنسولگری عربستان,International office/ embassy,2016-01-02,No,,,1.0,success,gpt-4o-mini,,,,
+45910,270393,واکنش سخنگوی وزارت خارجه به تجمع مقابل سفارت عربستان,,2016-01-02 23:02:04,یکشنبه ۱۳ دی ۱۳۹۴ - ۰۱:۳۲,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,Unknown,Capital,International Institution/Country,Unknown,Unknown,Unknown,تهران,Unknown,مقابل سفارت عربستان,International office/ embassy,2016-01-02,No,,,1.0,success,gpt-4o-mini,,,,
+45911,270406,پایان تجمع اعتراضی مقابل سفارت عربستان با دخالت نیروی انتظامی,,2016-01-02 23:57:42,یکشنبه ۱۳ دی ۱۳۹۴ - ۰۲:۲۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Political,Unknown,تهران,unknown,مقابل سفارت عربستان,International office/ embassy,2016-01-02,No,,,1.0,success,gpt-4o-mini,,,,
+45912,281892,تجمع اعتراضی مقابل سفارت عربستان در تهران ,,2016-01-03 00:17:52,یکشنبه ۱۳ دی ۱۳۹۴ - ۰۲:۴۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Religious,Unknown,تهران,unknown,مقابل سفارت عربستان,International office/ embassy,2016-01-03,No,,,1.0,success,gpt-4o-mini,,,,
+45915,270371,"کمپینی که به \بله به خرید خودروهای ایرانی\"" تبدیل شد!""",,2016-01-03 06:41:32,یکشنبه ۱۳ دی ۱۳۹۴ - ۰۹:۱۱,سرویس استان ها,"
+                        البرز
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,کرج,City,Government,Ordinary Citizens,Economic/trade/business,Unknown,کرج,unknown,Unknown,Unknown,2016-01-03,No,,,1.0,success,gpt-4o-mini,,,,
+45920,281966,تجمع اعتراض آمیز در پی شهادت شیخ النمر امروز برگزار می‌شود,استانداری تهران:,2016-01-03 08:02:44,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۰:۳۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Government,Political Org./Party,Religious,Unknown,میدان فلسطین,small group < 15,میدان فلسطین,Public place,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45921,270302,اعتراضات به شهادت شیخ نمر منطقی و در چارچوب اصول دیپلماتیک باشد,سبحانی‌نیا در گفت‌وگو با ایسنا،,2016-01-03 08:12:21,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۰:۴۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,International Institution/Country,Unknown,Unknown,Unknown,مقابل کنسولگری عربستان در مشهد و سفارت این کشور در تهران,medium group < 50,مقابل کنسولگری عربستان,International office/ embassy,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45924,281979,تجمع طلاب و روحانیون قم در اعتراض به اعدام شیخ نمر,,2016-01-03 08:20:36,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۰:۵۰,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Government,Formal religious group,Religious,Unknown,مسجد اعظم قم,medium group <50,مسجد اعظم قم,Public place,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45928,270208, اعتراض به اعدام شیخ نمر ,,2016-01-03 09:55:27,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۲:۲۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Political,N/A,National,عربستان,City,International Institution/Country,Ordinary Citizens,Political,Unknown,شهرهای مختلف ایران,unknown,سفارت عربستان,International office/ embassy,2016-01-03,No,,,1.0,success,gpt-4o-mini,,,,
+45930,270156,اعتراض به اعدام شیخ نمر,,2016-01-03 11:21:42,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۳:۵۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Religious,N/A,National,عربستان,City,International Institution/Country,Ordinary Citizens,Religious,Unknown,شهرهای مختلف ایران,unknown,سفارت عربستان,International office/ embassy,2016-01-03,No,,,1.0,success,gpt-4o-mini,,,,
+45934,270090,گزارش ایسنا از تجمع روز یک‌شنبه در مقابل سفارت عربستان ,,2016-01-03 13:21:42,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۵:۵۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,Unknown,illegal demonstration (if non-violent),تظاهرات بدون مجوز,Political,N/A,Local,عربستان,Capital,International Institution/Country,Unknown,Unknown,Unknown,تهران,medium group < 50,مقابل سفارت عربستان,International office/ embassy,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45935,270068,تجمع مردم تهران در اعتراض به اعدام شیخ نمر در میدان فلسطین,,2016-01-03 14:00:21,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۶:۳۰,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,عربستان,Capital,International Institution/Country,Diverse,Religious,Unknown,میدان فلسطین,Large Group < 200,میدان فلسطین,Public place,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45937,270020,تجمع اعتراضی به اعدام شیخ نمر - میدان فلسطین,,2016-01-03 14:59:23,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۷:۲۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Human rights,Unknown,میدان فلسطین,medium group <50,میدان فلسطین,Public place,2016-01-03,No,2016-01-03,2016-01-03,1.0,success,gpt-4o-mini,,,,
+45938,282157,تجمع انصار حزب‌الله روبروی کنسولگری عربستان در مشهد,,2016-01-03 15:58:11,یکشنبه ۱۳ دی ۱۳۹۴ - ۱۸:۲۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Religious,N/A,Local,عربستان,City,International Institution/Country,Formal religious group,Religious,Unknown,مشهد,unknown,مقابل کنسولگری عربستان,International office/ embassy,2016-01-03,No,,,1.0,success,gpt-4o-mini,,,,
+45948,269853,راه‌اندازی پویش مردمیِ «نامه‌ای به مدافعین حرم» در تقویت جبهه مقاومت ,,2016-01-04 08:35:40,دوشنبه ۱۴ دی ۱۳۹۴ - ۱۱:۰۵,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,Local,Unknown,Unknown,Unknown,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-04,No,2016-01-04,2016-01-04,1.0,success,gpt-4o-mini,,,,
+45958,282444,تجمع جمعی از بسیجیان در اعتراض به اعدام شیخ نمر - میدان امام حسین (ع),,2016-01-04 15:15:32,دوشنبه ۱۴ دی ۱۳۹۴ - ۱۷:۴۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,عربستان,Capital,International Institution/Country,Ordinary Citizens,Political,Unknown,میدان امام حسین (ع),medium group < 50,میدان امام حسین (ع),Public place,2016-01-04,No,,,1.0,success,gpt-4o-mini,,,,
+45966,269470,چرا باید به کمپین 18 درجه پیوست؟,,2016-01-05 08:17:31,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۰:۴۷,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,National,Unknown,Unknown,Government,Campaign,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-05,No,2016-01-05,2016-01-05,1.0,success,gpt-4o-mini,,,,
+45968,282634,نامه‌ی اعتراضی سه مستندساز به وزیر آموزش و پرورش,,2016-01-05 10:31:29,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۳:۰۱,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,Local,Unknown,Unknown,Ministries,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-05,No,2016-01-05,2016-01-05,1.0,success,gpt-4o-mini,,,,
+45970,269321,شعرهایی در اعتراض به شهادت شیخ نمر,,2016-01-05 10:42:57,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۳:۱۲,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,عربستان سعودی,NA,Government,Ordinary Citizens,Religious,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-05,No,,,1.0,success,gpt-4o-mini,,,,
+45971,269313,تجمعات اعتراضی به اعدام شیخ نمر - استان‌ها,,2016-01-05 11:22:01,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۳:۵۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Government,Ordinary Citizens,Religious,Unknown,اصفهان,medium group <50,Unknown,Public place,2016-01-05,No,2016-01-05,2016-01-05,1.0,success,gpt-4o-mini,,,,
+45972,269280,اعتراض کارتونی به عربستان سعودی,,2016-01-05 11:43:58,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۴:۱۳,سرویس ایسنا+,"
+                        ایسنا+
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,National,عربستان سعودی,Capital,International Institution/Country,Unknown,Human rights,Unknown,مقابل سفارت و کنسول‌گری عربستان,unknown,مقابل سفارت و کنسول‌گری عربستان,International office/ embassy,2016-01-05,No,2016-01-05,2016-01-05,1.0,success,gpt-4o-mini,,,,
+45973,269294,تجمع جمعی ازاهالی کن درمقابل شورا+فیلم,,2016-01-05 12:05:27,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۱۴:۳۵,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Urban,N/A,Local,کن,City,Municipality/ city councils,Ordinary Citizens,Urban,Unknown,شورای شهر تهران,medium group <50,شورای شهر تهران,Municipality/ city councils,2016-01-05,No,2016-01-05,2016-01-05,1.0,success,gpt-4o-mini,,,,
+45986,269145,تجمع اعتراضی به اعدام شیخ نمر - ارومیه ,,2016-01-05 19:10:51,سه‌شنبه ۱۵ دی ۱۳۹۴ - ۲۱:۴۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,عربستان,City,Government,Ordinary Citizens,Religious,Unknown,ارومیه,medium group < 50,Unknown,Public place,2016-01-05,No,,,1.0,success,gpt-4o-mini,,,,
+45991,282822,تظاهرات سراسری در محکومیت جنایات آل سعود و اعدام شیخ نمر,,2016-01-06 07:14:12,چهارشنبه ۱۶ دی ۱۳۹۴ - ۰۹:۴۴,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,demonstration (legal and non-violent),تظاهرات,Political,N/A,National,عربستان,National,International Institution/Country,Campaign,Political,Unknown,سراسر کشور,"thousands, +1000",میعاد گاه های نماز جمعه,Public place,2016-01-06,No,,,1.0,success,gpt-4o-mini,,,,
+45992,282848,برگزاری گردهمایی تشکل‎های دانشجویی حامیان محیط زیست در لرستان,رئیس سازمان دانشجویان جهاد دانشگاهی خبر داد؛,2016-01-06 08:00:39,چهارشنبه ۱۶ دی ۱۳۹۴ - ۱۰:۳۰,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,N/A,Local,لرستان,Province Center,Unknown,Formal student group,Environmental,Unknown,لرستان,unknown,Unknown,Unknown,2016-01-06,No,2016-01-06,2016-01-06,1.0,success,gpt-4o-mini,,,,
+46008,268490,تا ساعتی دیگر تظاهرات مردمی در سراسر کشور برگزار می‌شود,در اعتراض به اعدام رهبر برجستۀ شیعیان عربستان؛,2016-01-08 07:37:14,جمعه ۱۸ دی ۱۳۹۴ - ۱۰:۰۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,National,International Institution/Country,Campaign,Religious,Unknown,سراسر کشور,"thousands, +1000",میعادگاه نماز جمعه,Public place,2016-01-08,No,2016-01-08,2016-01-08,1.0,success,gpt-4o-mini,,,,
+46021,283288,تجمع اعتراضی نمازگزاران جمعه به اعدام شیخ نمر - تهران,,2016-01-08 12:51:29,جمعه ۱۸ دی ۱۳۹۴ - ۱۵:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2016-01-08,No,2016-01-08,2016-01-08,1.0,success,gpt-4o-mini,,,,
+46023,268412,راهپیمایی نمازگزاران در اعتراض به اعدام شیخ نمر - استان ها,,2016-01-08 13:34:17,جمعه ۱۸ دی ۱۳۹۴ - ۱۶:۰۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Human rights,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-08,No,,,1.0,success,gpt-4o-mini,,,,
+46024,268402,راهپیمایی نمازگزاران در اعتراض به اعدام شیخ نمر - استان ها,,2016-01-08 15:42:53,جمعه ۱۸ دی ۱۳۹۴ - ۱۸:۱۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-08,No,2016-01-08,2016-01-08,1.0,success,gpt-4o-mini,,,,
+46051,267922,تجمع مربیان پیش‌دبستانی و حق‌التدریسی در مقابل مجلس,,2016-01-10 07:42:24,یکشنبه ۲۰ دی ۱۳۹۴ - ۱۰:۱۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-01-10,No,,,1.0,success,gpt-4o-mini,,,,
+46078,267364,راه‌اندازی یک کمپین درباره سربازی + فیلم,,2016-01-11 10:15:09,دوشنبه ۲۱ دی ۱۳۹۴ - ۱۲:۴۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Military service,N/A,National,Unknown,Unknown,Government,Campaign,Student Movement,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-11,No,2016-01-11,2016-01-11,1.0,success,gpt-4o-mini,,,,
+46106,266936,بررسی اعتراضات مردم به ایجاد کمپ بازپروری معتادان در برخی مناطق ,در جلسه امروز مجمع تهران انجام می‌شود؛,2016-01-12 11:05:38,سه‌شنبه ۲۲ دی ۱۳۹۴ - ۱۳:۳۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Social,Soc_Addiction,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Social,Unknown,تهران,unknown,Unknown,Unknown,2016-01-12,No,2016-01-12,2016-01-12,1.0,success,gpt-4o-mini,,,,
+46126,249188,برگزاری کمپین «انتخابات» در سیستان و بلوچستان,معاون فرهنگی و امور جوانان استان سیستان و بلوچستان خبر داد,2016-01-13 09:20:06,چهارشنبه ۲۳ دی ۱۳۹۴ - ۱۱:۵۰,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Political,N/A,Local,سیستان و بلوچستان,Province Center,Government,GONGO,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2016-01-13,No,,,1.0,success,gpt-4o-mini,,,,
+46138,249581,نامه جمعی از تشکل‌های دانشجویی به شورایی‌ها و دغدغه‌های شهری آنان,,2016-01-13 16:55:17,چهارشنبه ۲۳ دی ۱۳۹۴ - ۱۹:۲۵,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Urban,N/A,Local,تهران,Capital,Municipality/ city councils,Formal student group,Student Movement,Unknown,تهران,unknown,Unknown,Unknown,2016-01-13,No,,,1.0,success,gpt-4o-mini,,,,
+46147,248730,کمپین مردمی بافت البسه برای مدافعین حرم در قم,,2016-01-15 07:31:38,جمعه ۲۵ دی ۱۳۹۴ - ۱۰:۰۱,سرویس عکس,,isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Unknown,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,گلزاری شهدای علی بن جعفر قم,unknown,گلزاری شهدای علی بن جعفر,Public place,2016-01-15,No,,,1.0,success,gpt-4o-mini,,,,
+46149,248716,کمپین «انتخابات» در سیستان و بلوچستان برگزار می‌شود,,2016-01-15 08:20:05,جمعه ۲۵ دی ۱۳۹۴ - ۱۰:۵۰,سرویس استان ها,"
+                        سیستان و بلوچستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,سیستان و بلوچستان,Province Center,Government,NGO/Community,Youth,Unknown,زاهدان,unknown,Unknown,Public place,2016-01-15,No,,,1.0,success,gpt-4o-mini,,,,
+46174,250038,کمپین نجات گونه‌های بانک ژن منابع طبیعی راه‌اندازی شد,,2016-01-16 11:08:43,شنبه ۲۶ دی ۱۳۹۴ - ۱۳:۳۸,سرویس علمی و دانشگاهی,"
+                        علم و فناوری ایران
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Decrease biodiversity,National,Unknown,Unknown,Unknown,Unknown,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-16,No,2016-01-16,2016-01-16,1.0,success,gpt-4o-mini,,,,
+46178,250138,تشکیل کمیته بررسی اعتراضات مردمی به ایجاد کمپ معتادان در دو منطقه تهران,طلا به ایسنا خبر داد:,2016-01-16 16:04:30,شنبه ۲۶ دی ۱۳۹۴ - ۱۸:۳۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Social,Soc_Addiction,Local,Unknown,City,Municipality/ city councils,Political Org./Party,Social,Reformist,تهران,unknown,Unknown,Unknown,2016-01-16,No,2016-01-16,2016-01-16,1.0,success,gpt-4o-mini,,,,
+46199,250287,تجمع شاکیان پرونده پدیده شاندیز برگزار نشد,به دلیل ممانعت نیروی انتظامی و همزمان با حضور روحانی؛ ,2016-01-17 08:49:44,یکشنبه ۲۷ دی ۱۳۹۴ - ۱۱:۱۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Financial/banking,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Economic/trade/business,Unknown,تهران,unknown,مقابل مجلس شورای اسلامی,Parliament area,2016-01-17,No,2016-01-17,2016-01-17,1.0,success,gpt-4o-mini,,,,
+46255,247396,کمپین اعضای داوطلب هلال احمر در حمایت از آغاز برجام,,2016-01-18 11:58:28,دوشنبه ۲۸ دی ۱۳۹۴ - ۱۴:۲۸,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,International,Intl_Nuclear Technology,National,Unknown,Unknown,Government,Campaign,Unknown,Progovernment,Unknown,unknown,Unknown,Unknown,2016-01-18,No,,,1.0,success,gpt-4o-mini,,,,
+46260,247317,تجمع تعدادی از بازنشستگان تامین اجتماعی مقابل وزارت رفاه,,2016-01-18 14:28:25,دوشنبه ۲۸ دی ۱۳۹۴ - ۱۶:۵۸,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Ministries,Labour Union,Retireds,Unknown,مقابل وزارت تعاون، کار و رفاه اجتماعی و سازمان تامین اجتماعی,small group < 15,مقابل وزارت تعاون، کار و رفاه اجتماعی و سازمان تامین اجتماعی,In front of state buildings,2016-01-18,No,2016-01-18,2016-01-18,1.0,success,gpt-4o-mini,,,,
+46267,247200,"پیام مردم به دولتمردان با کمپین \سه‌شنبه‌های بدون خودرو\""""",,2016-01-19 07:04:02,سه‌شنبه ۲۹ دی ۱۳۹۴ - ۰۹:۳۴,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Air pollution,National,Unknown,Unknown,Government,NGO/Community,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-19,No,2016-01-19,2016-01-19,1.0,success,gpt-4o-mini,,,,
+46289,246908,نامه اعتراضی مطهری به شورای نگهبان درباره رد صلاحیتش,,2016-01-19 12:51:58,سه‌شنبه ۲۹ دی ۱۳۹۴ - ۱۵:۲۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,Judiciary,Political Org./Party,Political,Reformist,تهران,unknown,Unknown,Unknown,2016-01-19,No,2016-01-19,2016-01-19,1.0,success,gpt-4o-mini,,,,
+46292,251111,بسیج اصناف شهدای ترور را معرفی می‌کند,,2016-01-19 13:37:22,سه‌شنبه ۲۹ دی ۱۳۹۴ - ۱۶:۰۷,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,,Ritual,NO,N/A,N/A,Cultural,N/A,Local,همدان,City,Unknown,Formal religious group,Cultural,Unknown,همدان,unknown,Unknown,Unknown,2016-01-19,No,,,1.0,success,gpt-4o-mini,,,,
+46296,251144,نامه جمعی از نمایندگان مجلس به دبیر شورای نگهبان,,2016-01-19 14:32:34,سه‌شنبه ۲۹ دی ۱۳۹۴ - ۱۷:۰۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Political,N/A,National,Unknown,NA,Government,Political Org./Party,Political,Unknown,Unknown,unknown,Unknown,Unknown,2016-01-19,No,2016-01-19,2016-01-19,1.0,success,gpt-4o-mini,,,,
+46298,251192,تاکید دادستان تهران بر لزوم جلوگیری پلیس از تجمعات غیرقانونی,,2016-01-19 21:45:27,چهارشنبه ۳۰ دی ۱۳۹۴ - ۰۰:۱۵,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Law Enforcement,N/A,National,تهران,Capital,Law Enforcement Force,Unknown,Unknown,Unknown,مجتمع فرهنگی - ورزشی شهید بهشتی,medium group <50,مجتمع فرهنگی - ورزشی شهید بهشتی,Public place,2016-01-19,No,2016-01-19,2016-01-19,1.0,success,gpt-4o-mini,,,,
+46377,252032,اعتراض دانشجویان پیام نور مشهد به تغییر زمان پرداخت شهریه‌+ پاسخ مسئولان,,2016-01-23 12:14:13,شنبه ۳ بهمن ۱۳۹۴ - ۱۴:۴۴,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,مشهد,City,University Officials,Formal student group,Student Movement,Unknown,دانشگاه پیام نور مشهد,medium group < 50,دانشگاه پیام نور مشهد,University campuses,2016-01-23,No,2016-01-23,2016-01-23,1.0,success,gpt-4o-mini,,,,
+46384,245599,اعتراض دانشجویان پیام‌نور اهواز به دستورالعمل جدید شهریه و حذف دروس خودخوان,,2016-01-23 14:22:40,شنبه ۳ بهمن ۱۳۹۴ - ۱۶:۵۲,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,اهواز,City,University Officials,Formal student group,Student Movement,Unknown,مقابل دفتر ریاست دانشگاه پیام نور,medium group < 50,مقابل دفتر ریاست دانشگاه پیام نور,University campuses,2016-01-23,No,2016-01-23,2016-01-23,1.0,success,gpt-4o-mini,,,,
+46444,244796,اعتراض خانه موسیقی به حذف عقیلی از جشنواره فجر,,2016-01-25 13:05:13,دوشنبه ۵ بهمن ۱۳۹۴ - ۱۵:۳۵,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Ministries,Formal Group,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-25,No,2016-01-25,2016-01-25,1.0,success,gpt-4o-mini,,,,
+46449,252743,نامه جمعی از خانواده‌های شهدا به فرمانده کل سپاه,,2016-01-25 16:15:08,دوشنبه ۵ بهمن ۱۳۹۴ - ۱۸:۴۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Economic,N/A,National,Unknown,Unknown,Military base,Ordinary Citizens,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-25,No,2016-01-25,2016-01-25,1.0,success,gpt-4o-mini,,,,
+46457,252827,تجمع کارکنان پتروشیمی‌های ماهشهر، عسلویه و هلدینگ خلیج فارس مقابل مجلس ,,2016-01-26 07:34:50,سه‌شنبه ۶ بهمن ۱۳۹۴ - ۱۰:۰۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group <50,مقابل مجلس,Parliament area,2016-01-26,No,2016-01-26,2016-01-26,1.0,success,gpt-4o-mini,,,,
+46491,244112,تشکیل کمپین «به جای سبزه نوروز، سبزی نوروز پرورش دهیم»,در برنامه «سرزمین ما» راه‌اندازی شد,2016-01-27 08:19:30,چهارشنبه ۷ بهمن ۱۳۹۴ - ۱۰:۴۹,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,N/A,Local,Unknown,Unknown,Unknown,Campaign,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-27,No,2016-01-27,2016-01-27,1.0,success,gpt-4o-mini,,,,
+46507,253408,اعتراض مجدد دانشجویان پیام نور مشهد به شهریه‌ها+ پاسخ مسئولان,,2016-01-27 14:33:31,چهارشنبه ۷ بهمن ۱۳۹۴ - ۱۷:۰۳,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,مشهد,City,University Officials,Formal student group,Student Movement,Unknown,مقابل ساختمان شماره پنج دانشگاه پیام نور,small group < 15,مقابل ساختمان شماره پنج دانشگاه پیام نور,University campuses,2016-01-27,No,2016-01-27,2016-01-27,1.0,success,gpt-4o-mini,,,,
+46516,253580,آغاز فعالیت‌های پویش ملی سرطان از امروز ,,2016-01-28 13:47:12,پنجشنبه ۸ بهمن ۱۳۹۴ - ۱۶:۱۷,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Health,N/A,National,زنجان,Province Center,Government,Campaign,Health,Unknown,زنجان,unknown,Unknown,Unknown,2016-01-28,No,,,1.0,success,gpt-4o-mini,,,,
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Political,N/A,National,Unknown,Capital,Government,Formal religious group,Political,Reformist,دانشگاه تهران,"thousands, +1000",مسجد دانشگاه تهران,University campuses,2016-01-28,Yes,2016-01-28,2016-02-08,11.0,success,gpt-4o-mini,1.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,2.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,3.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,4.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,5.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,6.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,7.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,8.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,9.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,10.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46520,253607,روایتی از یک تحصن,,2016-01-28 23:00:29,جمعه ۹ بهمن ۱۳۹۴ - ۰۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مسجد دانشگاه تهران,,,,,,,success,gpt-4o-mini,11.0,253607.0,Yes,c1f2e1a3a9ce7515501cfdba662a339c
+46527,253758,از اینکه صلاحیتم را احراز نکردند متعجبم/ با توجه به درخواست مردم و بزرگان اعتراض می‌کنم,سید حسن خمینی:,2016-01-29 14:15:47,جمعه ۹ بهمن ۱۳۹۴ - ۱۶:۴۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Reformist,جماران,medium group < 50,Unknown,Unknown,2016-01-29,No,,,1.0,success,gpt-4o-mini,,,,
+46541,243103,اعتراض جالب یک روزنامه به سانسور,,2016-01-30 10:31:20,شنبه ۱۰ بهمن ۱۳۹۴ - ۱۳:۰۱,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Censorship,N/A,National,Pakistan,Unknown,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-01-30,No,2016-01-30,2016-01-30,1.0,success,gpt-4o-mini,,,,
+46545,253967,دستگیری 38 تن در تجمع‌ غیرقانونی مقابل وزارت نفت,,2016-01-30 11:27:37,شنبه ۱۰ بهمن ۱۳۹۴ - ۱۳:۵۷,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,illegal demonstration (if non-violent),تظاهرات بدون مجوز,Political,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Political,Unknown,مقابل وزارت نفت,medium group < 50,مقابل وزارت نفت,In front of state buildings,2016-01-30,No,2016-01-30,2016-01-30,1.0,success,gpt-4o-mini,,,,
+46547,243058,نامه جمعی از فعالان نشریات دانشجویی به روحانی,,2016-01-30 12:05:49,شنبه ۱۰ بهمن ۱۳۹۴ - ۱۴:۳۵,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Student/university,N/A,National,Unknown,Unknown,Government,Formal student group,Student Movement,Unknown,Unknown,medium group < 50,Unknown,Unknown,2016-01-30,No,2016-01-30,2016-01-30,1.0,success,gpt-4o-mini,,,,
+46552,254059,توضیحات وزارت نفت درباره یک تجمع,,2016-01-30 15:39:48,شنبه ۱۰ بهمن ۱۳۹۴ - ۱۸:۰۹,سرویس اقتصادی,"
+                        انرژی
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,illegal demonstration (if non-violent),تظاهرات بدون مجوز,Public Order,N/A,Local,Unknown,Capital,Law Enforcement Force,Unknown,Unknown,Unknown,وزارت نفت,small group < 15,مقابل وزارت نفت,In front of state buildings,2016-01-30,No,,,1.0,success,gpt-4o-mini,,,,
+46573,242694,تذکر نمایندگان تهران به وزیر کشور درباره اعتراض دانشجویان به قراردادهای نفتی ,,2016-01-31 09:57:35,یکشنبه ۱۱ بهمن ۱۳۹۴ - ۱۲:۲۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,Unknown,Unknown,2016-01-31,No,2016-01-31,2016-01-31,1.0,success,gpt-4o-mini,,,,
+46588,242409,تجمع عده‌ای از کارگزاران بیمه کشاورزی در مقابل مجلس,,2016-02-01 07:12:55,دوشنبه ۱۲ بهمن ۱۳۹۴ - ۰۹:۴۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-02-01,No,2016-02-01,2016-02-01,1.0,success,gpt-4o-mini,,,,
+46630,241567,اعتراض مردم حکیمیه به ایجاد مراکز نگهداری معتادان,حافظی عنوان کرد:,2016-02-03 00:36:30,چهارشنبه ۱۴ بهمن ۱۳۹۴ - ۰۳:۰۶,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Social,Soc_Addiction,Local,حکیمیه,City,Municipality/ city councils,Ordinary Citizens,Social,Unknown,حکیمیه,unknown,Unknown,Unknown,2016-02-03,No,,,1.0,success,gpt-4o-mini,,,,
+46649,241047,اعتراض «حامد بهداد» در حمایت از خبرنگاران ,در نشست خبری «هفت ماهگی» مطرح شد,2016-02-04 10:55:50,پنجشنبه ۱۵ بهمن ۱۳۹۴ - ۱۳:۲۵,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Organizers of the festival,Unknown,Cultural,Unknown,تالار سعدی کاخ جشنواره,unknown,تالار سعدی کاخ جشنواره,Public place,2016-02-04,No,2016-02-04,2016-02-04,1.0,success,gpt-4o-mini,,,,
+46650,241026,"حضور فعالانه \دانشجو معلمان\"" در تصمیم‌گیری‌ها را پیگیریم""",معاون دانشجویی دانشگاه فرهنگیان:,2016-02-04 11:35:07,پنجشنبه ۱۵ بهمن ۱۳۹۴ - ۱۴:۰۵,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,یزد,Province Center,University Officials,Formal student group,Student Movement,Unknown,پژوهشکده فرهنگیان یزد,unknown,پژوهشکده فرهنگیان یزد,University campuses,2016-02-04,Yes,2016-02-04,2016-02-05,2.0,success,gpt-4o-mini,1.0,241026.0,Yes,1518befb408d45d6c41de85efde2801f
+46650,241026,"حضور فعالانه \دانشجو معلمان\"" در تصمیم‌گیری‌ها را پیگیریم""",معاون دانشجویی دانشگاه فرهنگیان:,2016-02-04 11:35:07,پنجشنبه ۱۵ بهمن ۱۳۹۴ - ۱۴:۰۵,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پژوهشکده فرهنگیان یزد,,,,,,,success,gpt-4o-mini,2.0,241026.0,Yes,1518befb408d45d6c41de85efde2801f
+46651,241032,دیدار جمعی از فعالان رسانه‌ای با آیت‌الله هاشمی رفسنجانی,,2016-02-04 11:44:56,پنجشنبه ۱۵ بهمن ۱۳۹۴ - ۱۴:۱۴,سرویس عکس,,isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-02-04,No,2016-02-04,2016-02-04,1.0,success,gpt-4o-mini,,,,
+46692,255953,‌استارت کمپین مشاوره ژنتیک در البرز زده شد,,2016-02-06 14:09:57,شنبه ۱۷ بهمن ۱۳۹۴ - ۱۶:۳۹,سرویس استان ها,"
+                        البرز
+                        
+                    ",isna,Yes,No,,Ritual,NO,N/A,N/A,Disability,N/A,Local,البرز,Province Center,Unknown,Unknown,Disability rights,Unknown,سالن همایش اداره بهزیستی شهرستان کرج,unknown,سالن همایش اداره بهزیستی شهرستان کرج,Public place,2016-02-06,No,,,1.0,success,gpt-4o-mini,,,,
+46699,240259,هم اندیشی فعالان دانشجویی اراک برای حضور پرشور انتخاباتی,,2016-02-07 07:56:32,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۰:۲۶,سرویس استان ها,"
+                        مرکزی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,اراک,City,Government,Formal student group,Student Movement,Reformist,اراک,unknown,دانشگاه فرهنگیان پردیس شهید باهنر اراک,University campuses,2016-02-07,No,,,1.0,success,gpt-4o-mini,,,,
+46701,256148,اعتراض یک عضو شورای شهر به صدا و سیما,,2016-02-07 09:47:23,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۱۷,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Political,Reformist,تهران,unknown,دویست و سی و پنجمین جلسه شورا,Public place,2016-02-07,No,,,1.0,success,gpt-4o-mini,,,,
+46702,240158,کمپین گالری‌گردی در «نگار مکتب‌خانه»,,2016-02-07 09:51:01,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۲۱,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,Unknown,Campaign,Cultural,Unknown,میدان بهارستان,Large Group < 200,مجموعه فرهنگی شهدای انقلاب اسلامی,Public place,2016-02-07,No,,,1.0,success,gpt-4o-mini,,,,
+46703,240164,"برگزاری نمایشگاه بین المللی محیط زیست با موضوع \پساتحریم\"" """,,2016-02-07 09:53:47,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۲۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Environmental,N/A,National,Unknown,Capital,Unknown,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-02-07,Yes,2016-02-29,2016-03-01,4.0,success,gpt-4o-mini,1.0,240164.0,Yes,
+46703,240164,"برگزاری نمایشگاه بین المللی محیط زیست با موضوع \پساتحریم\"" """,,2016-02-07 09:53:47,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۲۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Environmental,N/A,National,Unknown,Capital,Unknown,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-02-07,Yes,2016-02-29,2016-03-01,4.0,success,gpt-4o-mini,2.0,240164.0,Yes,
+46703,240164,"برگزاری نمایشگاه بین المللی محیط زیست با موضوع \پساتحریم\"" """,,2016-02-07 09:53:47,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۲۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Environmental,N/A,National,Unknown,Capital,Unknown,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-02-07,Yes,2016-02-29,2016-03-01,4.0,success,gpt-4o-mini,3.0,240164.0,Yes,
+46703,240164,"برگزاری نمایشگاه بین المللی محیط زیست با موضوع \پساتحریم\"" """,,2016-02-07 09:53:47,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۲:۲۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Environmental,N/A,National,Unknown,Capital,Unknown,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-02-07,Yes,2016-02-29,2016-03-01,4.0,success,gpt-4o-mini,4.0,240164.0,Yes,
+46709,239972,فراخوان شورای هماهنگی تبلیغات اسلامی برای حضور در راهپیمایی 22 بهمن,,2016-02-07 15:33:46,یکشنبه ۱۸ بهمن ۱۳۹۴ - ۱۸:۰۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Capital,Government,Formal religious group,Political,Progovernment,تهران,"thousands, +1000",میدان آزادی,Public place,2016-02-07,No,,,1.0,success,gpt-4o-mini,,,,
+46800,257139,بیانیه سازمان نظام پزشکی جهت دعوت مردم به حضور گسترده در راهپیمایی 22 بهمن,,2016-02-10 13:43:20,چهارشنبه ۲۱ بهمن ۱۳۹۴ - ۱۶:۱۳,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,NA,Government,Formal religious group,Medical,Progovernment,Unknown,unknown,Unknown,Unknown,2016-02-10,No,,,1.0,success,gpt-4o-mini,,,,
+46813,238767,راهپیمایی 22 بهمن در سراسر کشور,/شادمانه عید انقلاب/,2016-02-11 06:55:41,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۰۹:۲۵,سرویس استان ها,"
+                        تهران
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Ordinary Citizens,Political,Progovernment,تهران,"thousands, +1000",میدان آزادی,Public place,2016-02-11,No,,,1.0,success,gpt-4o-mini,,,,
+46836,238685,برگزاری راهپیمایی ۲۲ بهمن در گلستان,/شادمانه عید اتقلاب/ ,2016-02-11 09:14:06,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۱:۴۴,سرویس استان ها,"
+                        گلستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,National,گلستان,Province Center,Government,Ordinary Citizens,Political,Progovernment,گرگان,unknown,خیابانها,Streets,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46839,238691,راهپیمایی یوم الله ۲۲ بهمن - استانها,,2016-02-11 09:18:37,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۱:۴۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,سراسر استان‌های کشور,unknown,Unknown,Streets,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46840,257264,استاندار لرستان: راهپیمایی 22 بهمن مقدمه‌ای برای حضور گسترده مردم در انتخابات است,/شادمانه عید انقلاب/,2016-02-11 09:30:00,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۲:۰۰,سرویس استان ها,"
+                        لرستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Province Center,Government,Unknown,Unknown,Progovernment,Unknown,unknown,Unknown,Public place,2016-02-11,No,,,1.0,success,gpt-4o-mini,,,,
+46850,238657,راهپیمایی یوم الله ۲۲ بهمن - استانها (۲),,2016-02-11 10:27:00,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۲:۵۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,Unknown,unknown,خیابان‌ها,Streets,2016-02-11,No,,,1.0,success,gpt-4o-mini,,,,
+46856,238646,راهپیمایی یوم الله ۲۲ بهمن - استانها (۳) ,,2016-02-11 11:16:13,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۳:۴۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46860,238617,راهپیمایی یوم الله ۲۲ بهمن - استانها (۴),,2016-02-11 11:44:40,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۴:۱۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,سراسر کشور,unknown,Unknown,Public place,2016-02-11,No,,,1.0,success,gpt-4o-mini,,,,
+46866,257321,راهپیمایی یوم الله ۲۲ بهمن - استانها (۵) ,,2016-02-11 12:20:54,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۴:۵۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,سراسر کشور,unknown,Unknown,Public place,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46867,238602,راهپیمایی یوم الله ۲۲ بهمن - استانها (۶),,2016-02-11 12:50:12,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۵:۲۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,سراسر کشور,"thousands, +1000",Unknown,Public place,2016-02-11,No,,,1.0,success,gpt-4o-mini,,,,
+46871,257329,استاندار کهگیلویه و بویراحمد: ملت در راهپیمایی 22بهمن همدلی را به نمایش گذاشتند,/شادمانه عید انقلاب/,2016-02-11 13:15:59,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۵:۴۵,سرویس استان ها,"
+                        کهگیلویه و بویراحمد
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,کهگیلویه و بویراحمد,Province Center,Government,Ordinary Citizens,Political,Progovernment,یاسوج,unknown,Unknown,Public place,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46872,257333,راهپیمایی یوم الله ۲۲ بهمن - استانها (۷) ,,2016-02-11 13:22:03,پنجشنبه ۲۲ بهمن ۱۳۹۴ - ۱۵:۵۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,National,Government,Unknown,Unknown,Unknown,سراسر استان‌های کشور,unknown,Unknown,Streets,2016-02-11,No,2016-02-11,2016-02-11,1.0,success,gpt-4o-mini,,,,
+46894,257480,امام جمعه زنجان: راهپیمایی 22 بهمن، بیعت مجدد با امام خمینی (ره) بود,,2016-02-12 14:11:40,جمعه ۲۳ بهمن ۱۳۹۴ - ۱۶:۴۱,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Province Center,Government,Unknown,Unknown,Progovernment,زنجان,Large Group < 200,Unknown,Public place,2016-02-12,No,2016-02-12,2016-02-12,1.0,success,gpt-4o-mini,,,,
+46917,257655,وزارت کشور از تعرض به تجمعات قانونی جلوگیری می‌کند,سخنگوی وزارت کشور:,2016-02-13 10:34:31,شنبه ۲۴ بهمن ۱۳۹۴ - ۱۳:۰۴,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-02-13,No,2016-02-13,2016-02-13,1.0,success,gpt-4o-mini,,,,
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,N/A,N/A,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Economic,N/A,National,Unknown,Unknown,Private Companies/organizations,Campaign,Economic/trade/business,Unknown,Unknown,medium group <50,Unknown,Unknown,2016-02-17,Yes,2016-02-17,2016-03-02,14.0,success,gpt-4o-mini,1.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,2.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,3.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,4.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,5.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,6.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,7.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,8.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,9.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,10.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,11.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,12.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,13.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+46989,258996,کمپین «ساخت ایران» دیجی‌کالا,,2016-02-17 11:56:37,چهارشنبه ۲۸ بهمن ۱۳۹۴ - ۱۴:۲۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,14.0,258996.0,Yes,5e4284a924508dc8aeb890986a521941
+47028,235669,کمپین هوای اصفهان سال آینده آغاز به کار می کند,شهردار:,2016-02-20 11:15:52,شنبه ۱ اسفند ۱۳۹۴ - ۱۳:۴۵,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,,,Unknown,,,Environmental,Env_Air pollution,Local,اصفهان,City,Government,Unknown,Environmental,Unknown,اصفهان,Unknown,Unknown,Unknown,2016-02-20,No,2016-02-20,2016-02-20,1.0,success,gpt-4o-mini,,,,
+47035,235493,"برگزاری همایش \اصلاح طلبان و حامیان دولت\""""",,2016-02-20 16:12:20,شنبه ۱ اسفند ۱۳۹۴ - ۱۸:۴۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,electoral assembly,تجمع انتخاباتی,Political,N/A,Local,Unknown,City,Reformists,Political Org./Party,Political,Reformist,Unknown,unknown,Unknown,Unknown,2016-02-20,No,2016-02-20,2016-02-20,1.0,success,gpt-4o-mini,,,,
+47130,233382,اعتراض جالب یک هنرمند به شکار پرندگان,,2016-02-27 01:26:13,شنبه ۸ اسفند ۱۳۹۴ - ۰۳:۵۶,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Decrease biodiversity,Local,مازندران,Province Center,Government,Ordinary Citizens,Environmental,Unknown,بابلسر,unknown,Unknown,Unknown,2016-02-27,No,,,1.0,success,gpt-4o-mini,,,,
+47140,233136,"نمایشگاه بین المللی \محیط زیست\"" ارزشمندترین فرصت در دوران پساتحریم""",مدیرکل حفاظت محیط زیست استان تهران عنوان کرد,2016-02-27 12:15:06,شنبه ۸ اسفند ۱۳۹۴ - ۱۴:۴۵,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,National,Unknown,Capital,Government,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-02-27,No,2016-02-27,2016-02-27,1.0,success,gpt-4o-mini,,,,
+47177,232607,تجمع مالباختگان بنیاد تعاون ناجا در مقابل مجلس ,,2016-02-29 06:48:05,دوشنبه ۱۰ اسفند ۱۳۹۴ - ۰۹:۱۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,National,Unknown,Capital,Parliament,Ordinary Citizens,Financial/banking,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,Parliament area,2016-02-29,No,2016-02-29,2016-02-29,1.0,success,gpt-4o-mini,,,,
+47189,232387,کمپین گسترش لبخند در اینستاگرام,,2016-02-29 13:34:12,دوشنبه ۱۰ اسفند ۱۳۹۴ - ۱۶:۰۴,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Mental Health,N/A,Local,Unknown,Unknown,Unknown,Brand,Health,Unknown,Unknown,Unknown,Unknown,Online,2016-02-29,No,2016-02-29,2016-02-29,1.0,success,gpt-4o-mini,,,,
+47216,262685,نامه جمعی از وکلا به رییس قوه قضاییه ,,2016-03-02 09:01:18,چهارشنبه ۱۲ اسفند ۱۳۹۴ - ۱۱:۳۱,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Human rights,N/A,National,Unknown,Unknown,Judiciary,Lawyers,Lawyers,Unknown,Unknown,Large Group < 200,Unknown,Unknown,2016-03-02,No,2016-03-02,2016-03-02,1.0,success,gpt-4o-mini,,,,
+47233,231437,"برگزاری پویش \یک لحظه زندگی\""""",انتقال خون تهران خبر داد؛,2016-03-03 11:15:40,پنجشنبه ۱۳ اسفند ۱۳۹۴ - ۱۳:۴۵,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Social,N/A,Local,تهران,Capital,Unknown,NGO/Community,Charity,Unknown,تالار امام خمینی (ره) در دانشکاه علوم پزشکی شهید بهشتی,unknown,تالار امام خمینی (ره) در دانشکاه علوم پزشکی شهید بهشتی,Public place,2016-03-03,No,2016-03-03,2016-03-03,1.0,success,gpt-4o-mini,,,,
+47240,231326,اعتراض 900 هزار نفری به حذف از یارانه,,2016-03-04 06:28:34,جمعه ۱۴ اسفند ۱۳۹۴ - ۰۸:۵۸,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,City,Government,Ordinary Citizens,Economic/trade/business,Unknown,Unknown,"massive > 100,000",Unknown,Public place,2016-03-04,No,2016-03-04,2016-03-04,1.0,success,gpt-4o-mini,,,,
+47248,231147,تجمع عزاداران در مقابل منزل و حسینیه آیت الله واعظ طبسی,,2016-03-04 15:41:53,جمعه ۱۴ اسفند ۱۳۹۴ - ۱۸:۱۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Unknown,Ordinary Citizens,Religious,Unknown,مقابل منزل و حسینیه آیت الله واعظ طبسی,medium group <50,مقابل منزل و حسینیه آیت الله واعظ طبسی,Public place,2016-03-04,No,2016-03-04,2016-03-04,1.0,success,gpt-4o-mini,,,,
+47269,230826,اعتراض اصلاح‌طلبان شورا به ندادن فرصت‌ برای تشکر از شرکت مردم در انتخابات,,2016-03-05 13:45:43,شنبه ۱۵ اسفند ۱۳۹۴ - ۱۶:۱۵,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Political Org./Party,Political,Reformist,تهران,medium group < 50,Unknown,Unknown,2016-03-05,No,2016-03-05,2016-03-05,1.0,success,gpt-4o-mini,,,,
+47275,230743,"آغاز کمپین نوروزی \گراد\""""",,2016-03-05 19:59:48,شنبه ۱۵ اسفند ۱۳۹۴ - ۲۲:۲۹,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,N/A,N/A,N/A,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-03-05,No,2016-03-05,2016-03-05,1.0,success,gpt-4o-mini,,,,
+47277,263569,گردهمایی ائتلاف فراگیر اصلاح‌طلبان و حامیان دولت در خراسان رضوی,,2016-03-06 07:00:39,یکشنبه ۱۶ اسفند ۱۳۹۴ - ۰۹:۳۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,خراسان رضوی,Province Center,Government,Political Org./Party,Political,Reformist,خراسان رضوی,unknown,Unknown,Unknown,2016-03-06,No,2016-03-06,2016-03-06,1.0,success,gpt-4o-mini,,,,
+47295,263811,اعتراض برخی مغازه‌داران نسبت به حضور دست‌فروشان,,2016-03-06 15:00:53,یکشنبه ۱۶ اسفند ۱۳۹۴ - ۱۷:۳۰,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,strike,اعتصاب,Business,N/A,Local,Unknown,City,Municipality/ city councils,Ordinary Citizens,Economic/trade/business,Unknown,خیابان امیراکرم,Large Group < 200,بازار پوشاک,Public place,2016-03-06,No,2016-03-06,2016-03-06,1.0,success,gpt-4o-mini,,,,
+47303,263906,پیوستن چهره‌ها به کمپین «امسال کتاب عیدی دهیم» ,,2016-03-07 07:14:29,دوشنبه ۱۷ اسفند ۱۳۹۴ - ۰۹:۴۴,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,Local,Unknown,Capital,Unknown,Campaign,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2016-03-07,No,,,1.0,success,gpt-4o-mini,,,,
+47305,263912,تجمع تعدادی از بازنشستگان پیش از موعد در مقابل مجلس,,2016-03-07 07:16:57,دوشنبه ۱۷ اسفند ۱۳۹۴ - ۰۹:۴۶,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Retireds,Unknown,مقابل مجلس شورای اسلامی,"thousands, +1000",مقابل مجلس شورای اسلامی,In front of state buildings,2016-03-07,No,,,1.0,success,gpt-4o-mini,,,,
+47308,263935,اعتراض به نحوه‌ی پخش یک فیلم ,,2016-03-07 07:52:32,دوشنبه ۱۷ اسفند ۱۳۹۴ - ۱۰:۲۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,International,لهستان,National,Government,Campaign,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-03-07,No,,,1.0,success,gpt-4o-mini,,,,
+47319,264093,متلاشی شدن یک گروه تروریستی در خوزستان,,2016-03-07 12:29:10,دوشنبه ۱۷ اسفند ۱۳۹۴ - ۱۴:۵۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,خوزستان,Province Center,Unknown,Armed/Separatist group,Unknown,Unknown,خوزستان,Unknown,Unknown,Unknown,2016-03-07,No,2016-03-07,2016-03-07,1.0,success,gpt-4o-mini,,,,
+47324,264188,به تعطیلی 2 هفته‌ای روزنامه‌ها اعتراض دارم,محمدمهدی فرقانی:,2016-03-08 00:02:21,سه‌شنبه ۱۸ اسفند ۱۳۹۴ - ۰۲:۳۲,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,National,Unknown,Unknown,Government,Ordinary Citizens,Journalists,Unknown,Unknown,unknown,Unknown,Unknown,2016-03-08,No,2016-03-08,2016-03-08,1.0,success,gpt-4o-mini,,,,
+47336,264443,راه‌اندازی کمپین تحریم برای چهارشنبه‌سوری,,2016-03-08 13:03:33,سه‌شنبه ۱۸ اسفند ۱۳۹۴ - ۱۵:۳۳,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,boycott,تحریم,Cultural,N/A,National,Unknown,Unknown,Government,Online Community,Cultural,Unknown,Unknown,unknown,Unknown,Online,2016-03-08,No,,,1.0,success,gpt-4o-mini,,,,
+47338,264488,تشکیل کمپین جهانی گسترده برای حذف همه سلاح‌های هسته‌ای ,یک پایگاه خبری تحلیلی پیشنهاد داد,2016-03-08 14:47:09,سه‌شنبه ۱۸ اسفند ۱۳۹۴ - ۱۷:۱۷,سرویس سیاسی,"
+                        انرژی هسته‎‌ای
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,International,Int_Nuclear Technology,International,Unknown,Unknown,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-03-08,No,2016-03-08,2016-03-08,1.0,success,gpt-4o-mini,,,,
+47369,265131,عکس / تحصن یک استاد دانشگاه در میرداماد,,2016-03-11 11:34:26,جمعه ۲۱ اسفند ۱۳۹۴ - ۱۴:۰۴,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Human rights,N/A,Local,دانشگاه خواجه نصیرالدین طوسی,University,University Officials,Ordinary Citizens,Human rights,Unknown,خیابان میرداماد,unknown,مقابل دانشگاه خواجه نصیرالدین طوسی,University campuses,2016-03-11,No,,,1.0,success,gpt-4o-mini,,,,
+47370,228780,"برگزاری کمپین ملی \نه به تصادفات جاده‌ای\"" """,,2016-03-11 12:08:14,جمعه ۲۱ اسفند ۱۳۹۴ - ۱۴:۳۸,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Traffic safety,N/A,National,Unknown,Unknown,Government,Campaign,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2016-03-11,No,2016-03-11,2016-03-11,1.0,success,gpt-4o-mini,,,,
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,Unknown,Formal religious group,Religious,Unknown,تهران,unknown,میدان فاطمی,Public place,2016-03-12,Yes,2016-03-12,2016-03-23,12.0,success,gpt-4o-mini,1.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,2.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,3.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,4.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,5.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,6.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,7.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,8.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,9.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,10.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,11.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47385,265344,برنامه تجمع بزرگ عزاداران فاطمی در روز شهادت حضرت زهرا(س),,2016-03-12 12:47:48,شنبه ۲۲ اسفند ۱۳۹۴ - ۱۵:۱۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان فاطمی,,,,,,,success,gpt-4o-mini,12.0,265344.0,Yes,7711cb3ff79f1ff5be6991520dd88410
+47410,265614,‌گیلان به کمپین سراسری «نه به تصادفات جاده‌ای» می‌‍پیوندد,,2016-03-14 06:59:18,دوشنبه ۲۴ اسفند ۱۳۹۴ - ۰۹:۲۹,سرویس استان ها,"
+                        گیلان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Traffic accidents,N/A,Local,گیلان,Province Center,Government,NGO/Community,Other,Unknown,گیلان,Large Group < 200,Unknown,Unknown,2016-03-14,No,,,1.0,success,gpt-4o-mini,,,,
+47452,266154,اعتراض یک عکاس به بی‌بی‌سی فارسی,,2016-03-15 15:25:40,سه‌شنبه ۲۵ اسفند ۱۳۹۴ - ۱۷:۵۵,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,International Institution/Country,Ordinary Citizens,Journalists,Unknown,Unknown,unknown,Unknown,Online,2016-03-15,No,2016-03-15,2016-03-15,1.0,success,gpt-4o-mini,,,,
+47456,266237,اعتراض هومن برق‌نورد به حذف «دودکش 2»,,2016-03-16 07:15:38,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۰۹:۴۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Government,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-03-16,No,2016-03-16,2016-03-16,1.0,success,gpt-4o-mini,,,,
+47463,227313,کمپینی برای مشارکت تولید کتاب صوتی,دعوت هنرمندان از مردم؛,2016-03-16 10:56:54,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۲۶,سرویس فرهنگی و هنری,"
+                        فرهنگ عمومی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,National,Unknown,Unknown,Unknown,Campaign,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2016-03-16,No,2016-03-16,2016-03-16,1.0,success,gpt-4o-mini,,,,
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Traffic accidents,N/A,Local,یزد,Province Center,Public Awareness,NGO/Community,Other,Unknown,یزد,Large Group < 200,Unknown,Unknown,2016-03-16,Yes,2016-02-15,2016-04-03,48.0,success,gpt-4o-mini,1.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,2.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,3.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,4.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,5.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,6.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,7.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,8.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,9.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,10.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,11.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,12.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,13.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,14.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,15.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,16.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,17.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,18.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,19.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,20.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,21.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,22.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,23.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,24.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,25.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,26.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,27.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,28.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,29.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,30.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,31.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,32.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,33.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,34.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,35.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,36.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,37.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,38.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,39.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,40.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,41.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,42.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,43.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,44.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,45.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,46.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,47.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47466,227289,"برگزاری کمپین \نه به تصادفات جاده‌ای‌\"" توسط هلال احمر یزد""",,2016-03-16 11:21:44,چهارشنبه ۲۶ اسفند ۱۳۹۴ - ۱۳:۵۱,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,48.0,227289.0,Yes,00cb53b20bc0c9682ce3500316681ce4
+47522,1578042,"نهاوندیان به کمپین ملی \نه به تصادفات جاده‌ای\"" پیوست""",,2016-03-24 07:51:18,پنجشنبه ۵ فروردین ۱۳۹۵ - ۱۱:۲۱,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Road safety,N/A,National,Unknown,Unknown,Government,Campaign,N/A,Unknown,تنکابن,unknown,پست ایمنی و سلامت جوانان هلال‌احمر,Public place,2016-03-24,No,2016-03-24,2016-03-24,1.0,success,gpt-4o-mini,,,,
+47551,1575605,"راه‌اندازی کمپین \در دسترس خانواده\"" با همکاری برج میلاد""",,2016-03-27 11:07:21,یکشنبه ۸ فروردین ۱۳۹۵ - ۱۳:۳۷,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Social,N/A,Local,Unknown,Capital,Unknown,Campaign,Social,Unknown,برج میلاد تهران,unknown,برج میلاد تهران,Public place,2016-03-27,No,,,1.0,success,gpt-4o-mini,,,,
+47552,1575657,کمپین «همین یک زمین»‏ در بانک ایران زمین,,2016-03-27 12:20:42,یکشنبه ۸ فروردین ۱۳۹۵ - ۱۴:۵۰,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Air pollution,National,Unknown,NA,Government,Campaign,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,2016-03-27,No,2016-03-27,2016-03-27,1.0,success,gpt-4o-mini,,,,
+47558,1575520,راه‌اندازی پویش «رخ یار» برای زائران راهیان نور,,2016-03-28 08:01:25,دوشنبه ۹ فروردین ۱۳۹۵ - ۱۰:۳۱,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,Local,Unknown,Unknown,Unknown,GONGO,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2016-03-28,No,2016-03-28,2016-03-28,1.0,success,gpt-4o-mini,,,,
+47577,1576112,"اقتصاد مقاومتی به‌معنای \نه\"" به تسلیم و تحریم است""",کاظم صدیقی:,2016-04-01 12:00:50,جمعه ۱۳ فروردین ۱۳۹۵ - ۱۴:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,Capital,Government,Formal religious group,Economic/trade/business,Conservative,تهران,unknown,مصلای دانشگاه تهران,Public place,2016-04-01,No,,,1.0,success,gpt-4o-mini,,,,
+47613,1574235,ادامه اجرای پویش «رخ یار» در فرهنگسراهای پایتخت,,2016-04-03 12:10:18,یکشنبه ۱۵ فروردین ۱۳۹۵ - ۱۴:۴۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,Local,Unknown,Capital,Unknown,GONGO,Cultural,Unknown,فرهنگسراهای پایتخت,unknown,فرهنگسرای رضوان,Public place,2016-04-03,No,2016-04-03,2016-04-03,1.0,success,gpt-4o-mini,,,,
+47632,1573752,رونمایی از کمپین زیست‌محیطی بانک تجارت,,2016-04-04 13:09:03,دوشنبه ۱۶ فروردین ۱۳۹۵ - ۱۵:۳۹,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,N/A,N/A,Environmental,N/A,National,Unknown,Unknown,Unknown,Unknown,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-04-04,No,2016-04-04,2016-04-04,1.0,success,gpt-4o-mini,,,,
+47654,1572123,کمپینی برای امانت‌داری از شادی کودکان,,2016-04-06 06:30:33,چهارشنبه ۱۸ فروردین ۱۳۹۵ - ۰۹:۰۰,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Children,N/A,Local,Unknown,City,Unknown,NGO/Community,Children's rights,Unknown,حاشیه پارک لاله,medium group < 50,حاشیه پارک لاله,Public place,2016-04-06,No,2016-04-06,2016-04-06,1.0,success,gpt-4o-mini,,,,
+47666,1571838,فراخوان شرکت در پویش سراسری «کتاب‌خوان مجازی»,,2016-04-06 13:06:56,چهارشنبه ۱۸ فروردین ۱۳۹۵ - ۱۵:۳۶,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,National,Unknown,NA,Unknown,Unknown,Cultural,Unknown,Unknown,unknown,Unknown,Online,2016-04-06,No,,,1.0,success,gpt-4o-mini,,,,
+47679,1573128,بیش از 400 هزار نفر به کمپین نائب‌الزیاره پیوستند,مدیر امور فرهنگی و گردشگری شهرداری مشهد:,2016-04-09 07:30:45,شنبه ۲۱ فروردین ۱۳۹۵ - ۱۰:۰۰,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,Local,Unknown,City,Unknown,Campaign,Cultural,Unknown,مشهد,"thousands, +1000",Unknown,Unknown,2016-04-09,No,,,1.0,success,gpt-4o-mini,,,,
+47688,1571043,گزارش خبرنگار ایسنا از تجمع مقابل موزه هنرهای معاصر,,2016-04-09 14:15:29,شنبه ۲۱ فروردین ۱۳۹۵ - ۱۶:۴۵,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Government,Campaign,Cultural,Unknown,موزه هنرهای معاصر,medium group < 50,مقابل موزه هنرهای معاصر,Public place,2016-04-09,No,2016-04-09,2016-04-09,1.0,success,gpt-4o-mini,,,,
+47690,1571013,اعتراض به تعطیلی یک مرکز فرهنگی هنری,,2016-04-09 16:15:49,شنبه ۲۱ فروردین ۱۳۹۵ - ۱۸:۴۵,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Municipality/ city councils,Ordinary Citizens,Cultural,Unknown,فلکه دوم تهرانپارس,unknown,پارک جوادیه,Public place,2016-04-09,No,,,1.0,success,gpt-4o-mini,,,,
+47691,1571014,تجمع معترضان خصوصی‌سازی موزه هنرهای معاصر,,2016-04-09 16:16:40,شنبه ۲۱ فروردین ۱۳۹۵ - ۱۸:۴۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Cultural,Unknown,موزه هنرهای معاصر,medium group <50,مقابل موزه هنرهای معاصر,Public place,2016-04-09,No,,,1.0,success,gpt-4o-mini,,,,
+47713,1568287,تجمع کارگزاران بیمه کشاورزی در مقابل مجلس,,2016-04-11 07:45:13,دوشنبه ۲۳ فروردین ۱۳۹۵ - ۱۰:۱۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-04-11,No,2016-04-11,2016-04-11,1.0,success,gpt-4o-mini,,,,
+47748,1567253,"هوادران فوتبالی به \کمپین ورزشگاه بدون زباله\"" بپیوندند""",,2016-04-13 09:39:27,چهارشنبه ۲۵ فروردین ۱۳۹۵ - ۱۲:۰۹,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Waste Disposal,Local,Unknown,Capital,Public Awareness,Campaign,Environmental,Unknown,ورزشگاه آزادی,medium group < 50,ورزشگاه آزادی,Public place,2016-04-13,No,2016-04-13,2016-04-13,1.0,success,gpt-4o-mini,,,,
+47751,1567207,تجمع مهندسان سازمان نظام مهندسی مقابل شورای شهر+عکس,,2016-04-13 10:40:32,چهارشنبه ۲۵ فروردین ۱۳۹۵ - ۱۳:۱۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع,Labour,N/A,Local,تهران,Capital,Municipality/ city councils,Labour Union,Labour,Unknown,مقابل شورای شهر تهران,Large Group < 200,مقابل شورای شهر تهران,Municipality/ city councils,2016-04-13,No,2016-04-13,2016-04-13,1.0,success,gpt-4o-mini,,,,
+47781,1570169,تجمع کارگران شرکت «سدید ریخته‌گر» در مقابل مجلس,,2016-04-16 07:49:09,شنبه ۲۸ فروردین ۱۳۹۵ - ۱۰:۱۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,In front of state buildings,2016-04-16,No,,,1.0,success,gpt-4o-mini,,,,
+47785,1570204,کمپین عکس اینستاگرامی فرجام پرواز کیان,,2016-04-16 08:40:10,شنبه ۲۸ فروردین ۱۳۹۵ - ۱۱:۱۰,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Unknown,N/A,Local,Unknown,NA,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-04-16,No,2016-04-16,2016-04-16,1.0,success,gpt-4o-mini,,,,
+47789,1570238,تجمع اعتراضی دیگری برای موزه هنرهای معاصر,,2016-04-16 09:33:43,شنبه ۲۸ فروردین ۱۳۹۵ - ۱۲:۰۳,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,اهواز,City,Ministries,Informal Group,Cultural,Unknown,مقابل موزه هنرهای معاصر اهواز,unknown,مقابل موزه هنرهای معاصر اهواز,Public place,2016-04-16,No,,,1.0,success,gpt-4o-mini,,,,
+47802,1570409,ایرانسل کمپین #بهاروبساز را در اینستاگرام برگزار می‌کند,,2016-04-16 19:14:34,شنبه ۲۸ فروردین ۱۳۹۵ - ۲۱:۴۴,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Unknown,N/A,Local,Unknown,NA,Unknown,Private Companies/organizations,Unknown,Unknown,Unknown,Unknown,Unknown,Online,2016-04-16,No,2016-04-16,2016-06-02,48.0,success,gpt-4o-mini,,,,
+47805,1570448,تجمع بازنشستگان فولاد در مقابل مجلس,,2016-04-17 06:22:38,یکشنبه ۲۹ فروردین ۱۳۹۵ - ۰۸:۵۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,Parliament area,2016-04-17,No,2016-04-17,2016-04-17,1.0,success,gpt-4o-mini,,,,
+47806,1565992,کمپین مجازی برای برکناری مظلومی!,,2016-04-17 07:24:12,یکشنبه ۲۹ فروردین ۱۳۹۵ - ۰۹:۵۴,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Football management,N/A,Local,Unknown,Unknown,Football Club Management,Online Community,Other,Unknown,Unknown,small group < 15,Unknown,Online,2016-04-17,No,2016-04-17,2016-04-17,1.0,success,gpt-4o-mini,,,,
+47816,1570663,از تجمع دستفروشان در پارک سوار غرب تا نگرانی از دیده نشدن شوراها دربرنامه ششم,,2016-04-17 13:35:02,یکشنبه ۲۹ فروردین ۱۳۹۵ - ۱۶:۰۵,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Government,Unknown,Political,Unknown,تهران,unknown,پارک سوار میدان آزادی,Public place,2016-04-17,No,,,1.0,success,gpt-4o-mini,,,,
+47821,1565597,بازنشستگان فولاد مقابل مجلس تجمع کردند,برای دومین روز متوالی؛,2016-04-18 06:24:08,دوشنبه ۳۰ فروردین ۱۳۹۵ - ۰۸:۵۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-04-18,Yes,2016-04-17,2016-04-18,2.0,success,gpt-4o-mini,1.0,1565597.0,Yes,c4f658452f6d155ce3be7cfca43c18df
+47821,1565597,بازنشستگان فولاد مقابل مجلس تجمع کردند,برای دومین روز متوالی؛,2016-04-18 06:24:08,دوشنبه ۳۰ فروردین ۱۳۹۵ - ۰۸:۵۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,2.0,1565597.0,Yes,c4f658452f6d155ce3be7cfca43c18df
+47833,1562020,"ادامه فعالیت کمپین \ورزشگاه بدون زباله\""""",مدیرعامل سازمان مدیریت پسماند شهرداری تهران خبر داد,2016-04-18 13:38:24,دوشنبه ۳۰ فروردین ۱۳۹۵ - ۱۶:۰۸,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Waste Disposal,Local,تهران,Capital,Municipality/ city councils,Campaign,Environmental,Unknown,ورزشگاه,unknown,ورزشگاه,Public place,2016-04-18,No,,,1.0,success,gpt-4o-mini,,,,
+47835,1562237,"کمپین دوستی با زمین \چیلیوری\""""",,2016-04-18 13:46:12,دوشنبه ۳۰ فروردین ۱۳۹۵ - ۱۶:۱۶,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Air pollution,Local,تهران,Capital,Government,NGO/Community,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-04-18,No,,,1.0,success,gpt-4o-mini,,,,
+47842,1562319,ادامه تحصن بازنشستگان فولاد مقابل مجلس,,2016-04-19 06:18:47,سه‌شنبه ۳۱ فروردین ۱۳۹۵ - ۰۸:۴۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-04-19,Yes,2016-04-17,2016-04-19,3.0,success,gpt-4o-mini,1.0,1562319.0,Yes,ce2fd19b80bf7975ecd3738fbb6d946a
+47842,1562319,ادامه تحصن بازنشستگان فولاد مقابل مجلس,,2016-04-19 06:18:47,سه‌شنبه ۳۱ فروردین ۱۳۹۵ - ۰۸:۴۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,2.0,1562319.0,Yes,ce2fd19b80bf7975ecd3738fbb6d946a
+47842,1562319,ادامه تحصن بازنشستگان فولاد مقابل مجلس,,2016-04-19 06:18:47,سه‌شنبه ۳۱ فروردین ۱۳۹۵ - ۰۸:۴۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,3.0,1562319.0,Yes,ce2fd19b80bf7975ecd3738fbb6d946a
+47843,1561872,تجمع عده‌ای از مربیان حق‌التدریس در مقابل مجلس,,2016-04-19 06:42:27,سه‌شنبه ۳۱ فروردین ۱۳۹۵ - ۰۹:۱۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Government,Unknown,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس,In front of state buildings,2016-04-19,No,,,1.0,success,gpt-4o-mini,,,,
+47906,1563149,کمپین خرید صنایع‌دستی ایرانی راه افتاد ,برای حمایت از تولید داخلی,2016-04-23 09:25:45,شنبه ۴ اردیبهشت ۱۳۹۵ - ۱۱:۵۵,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Economic,N/A,National,Unknown,Unknown,Government,Campaign,Economic/trade/business,Unknown,تهران,Unknown,Unknown,Unknown,2016-04-23,No,2016-04-23,2016-04-23,1.0,success,gpt-4o-mini,,,,
+47909,1560558,دستگیری عاملان تیراندازی به گشت پلیس راه خاش در کمتر از 48 ساعت,,2016-04-23 11:12:08,شنبه ۴ اردیبهشت ۱۳۹۵ - ۱۳:۴۲,سرویس استان ها,"
+                        سیستان و بلوچستان
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Law Enforcement Force,N/A,Local,خاش,City,Law Enforcement Force,Unknown,Unknown,Unknown,خاش,unknown,Unknown,Unknown,2016-04-23,No,2016-04-23,2016-04-23,1.0,success,gpt-4o-mini,,,,
+47928,1560185,پلیس به کمپین #بین_خطوط می‌رانم پیوست,رییس پلیس راهورتهران به ایسنا خبر داد,2016-04-24 09:25:36,یکشنبه ۵ اردیبهشت ۱۳۹۵ - ۱۱:۵۵,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Traffic culture,N/A,Local,تهران,Capital,Law Enforcement Force,Campaign,Social,Unknown,تهران,unknown,پلیس راهور,In front of state buildings,2016-04-24,No,2016-04-24,2016-04-24,1.0,success,gpt-4o-mini,,,,
+47929,1563493,"خبر خوش \صندوق جهانی طبیعت\"" برای فعالان محیط زیست""",,2016-04-24 11:23:49,یکشنبه ۵ اردیبهشت ۱۳۹۵ - ۱۳:۵۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Unknown,Unknown,Environmental,Env_Decrease biodiversity,International,Unknown,Unknown,Unknown,Unknown,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-04-24,No,2016-04-24,2016-04-24,1.0,success,gpt-4o-mini,,,,
+47960,1563941,یک کمپین توئیتری برای منع استفاده از موبایل حین رانندگی ,,2016-04-26 06:21:26,سه‌شنبه ۷ اردیبهشت ۱۳۹۵ - ۰۸:۵۱,سرویس اقتصادی,"
+                        ارتباطات و فناوری اطلاعات
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Traffic Safety,N/A,National,Unknown,NA,Government,Campaign,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-04-26,No,2016-04-26,2016-04-26,1.0,success,gpt-4o-mini,,,,
+47978,1559036,اعتراض به افزایش قیمت خودرو,,2016-04-27 03:35:55,چهارشنبه ۸ اردیبهشت ۱۳۹۵ - ۰۶:۰۵,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,Unknown,Government,Unknown,Economic/trade/business,Unknown,Unknown,Unknown,Unknown,Unknown,2016-04-27,No,2016-04-27,2016-04-27,1.0,success,gpt-4o-mini,,,,
+48039,1557733,تجمع آموزشیاران نهضت سواد آموزی در مقابل مجلس ,,2016-05-01 06:30:12,یکشنبه ۱۲ اردیبهشت ۱۳۹۵ - ۰۹:۰۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Unknown,Teachers,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,Parliament area,2016-05-01,No,2016-05-01,2016-05-01,1.0,success,gpt-4o-mini,,,,
+48059,1565340,فرصت‌سازی از کمپین‌های فضای مجازی,,2016-05-01 15:45:52,یکشنبه ۱۲ اردیبهشت ۱۳۹۵ - ۱۸:۱۵,سرویس یادداشت,"
+                        یادداشت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Social,N/A,National,Unknown,Unknown,Government,Online Community,Social,Unknown,Unknown,Unknown,Unknown,Online,2016-05-01,No,2016-05-01,2016-05-01,1.0,success,gpt-4o-mini,,,,
+48092,1555691,تجمع متقاضیان مسکن مهر در مقابل مجلس ,,2016-05-03 10:01:59,سه‌شنبه ۱۴ اردیبهشت ۱۳۹۵ - ۱۲:۳۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Housing,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Unknown,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,In front of state buildings,2016-05-03,No,2016-05-03,2016-05-03,1.0,success,gpt-4o-mini,,,,
+48102,1554203,کمپین بلوط در کنسرت گُلوَنی,,2016-05-04 12:58:07,چهارشنبه ۱۵ اردیبهشت ۱۳۹۵ - ۱۵:۲۸,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Deforestation,Local,Unknown,City,Public Awareness,Campaign,Environmental,Unknown,تالار وحدت,unknown,تالار وحدت,Public place,2016-05-04,No,2016-05-04,2016-05-04,1.0,success,gpt-4o-mini,,,,
+48107,1554126,اعلام حضور پویش امتداد امید برای دعوت از عارف,,2016-05-04 22:06:32,پنجشنبه ۱۶ اردیبهشت ۱۳۹۵ - ۰۰:۳۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Political Party/Politician,Campaign,Political,Reformist,Unknown,Unknown,Unknown,Unknown,2016-05-04,No,2016-05-04,2016-05-04,1.0,success,gpt-4o-mini,,,,
+48138,1553399,راه‌اندازی کمپین «من یک اهداکننده خون هستم»,,2016-05-07 14:20:51,شنبه ۱۸ اردیبهشت ۱۳۹۵ - ۱۶:۵۰,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,N/A,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Health,N/A,Local,خراسان رضوی,Province Center,Unknown,Unknown,Health,Unknown,اداره‌کل انتقال خون خراسان رضوی,unknown,اداره‌کل انتقال خون خراسان رضوی,Public place,2016-05-07,No,2016-05-07,2016-05-07,1.0,success,gpt-4o-mini,,,,
+48151,1556769,باز هم اعتراض به تعهدات استخدامی نفت,,2016-05-08 10:54:16,یکشنبه ۱۹ اردیبهشت ۱۳۹۵ - ۱۳:۲۴,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Labour,Unknown,مقابل وزارت نفت,medium group < 50,مقابل وزارت نفت,In front of state buildings,2016-05-08,No,,,1.0,success,gpt-4o-mini,,,,
+48162,1552794,تجمع آموزش دهندگان نهضت سواد آموزی در مقابل مجلس,,2016-05-09 07:09:11,دوشنبه ۲۰ اردیبهشت ۱۳۹۵ - ۰۹:۳۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2016-05-09,No,,,1.0,success,gpt-4o-mini,,,,
+48187,1551314,راه‌اندازی کمپین ویژه برای توجه به صنایع‌دستی ,,2016-05-10 09:50:42,سه‌شنبه ۲۱ اردیبهشت ۱۳۹۵ - ۱۲:۲۰,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Cultural,N/A,National,Unknown,Unknown,Government,Campaign,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-10,No,,,1.0,success,gpt-4o-mini,,,,
+48190,1551560,پیوستن معاون ترافیک شهر دوچرخه‌ها به پویش «سه‌شنبه‌های بدون خودرو»,,2016-05-10 11:34:44,سه‌شنبه ۲۱ اردیبهشت ۱۳۹۵ - ۱۴:۰۴,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,symbolic demonstrations,اعتراضات نمادین,Environmental,Env_Air pollution,Local,یزد,City,Government,Ordinary Citizens,Environmental,Unknown,میدان امام رضا(ع),medium group < 50,میدان آزادی,Public place,2016-05-10,No,,,1.0,success,gpt-4o-mini,,,,
+48197,1551086,سومین گردهمایی گروههای دانشجویی حامیان محیط زیست کشور در خرم اباد,,2016-05-10 19:01:14,سه‌شنبه ۲۱ اردیبهشت ۱۳۹۵ - ۲۱:۳۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,N/A,Local,Unknown,City,Unknown,Unknown,Environmental,Unknown,خرم اباد,unknown,Unknown,Public place,2016-05-10,No,,,1.0,success,gpt-4o-mini,,,,
+48209,1551796,تلاش برای تشکیل باشگاه حامیان محیط زیست ,‌رئیس سازمان دانشجویان جهاد دانشگاهی خبر داد,2016-05-11 09:54:21,چهارشنبه ۲۲ اردیبهشت ۱۳۹۵ - ۱۲:۲۴,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,National,Unknown,Unknown,Unknown,Formal student group,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-11,No,2016-05-11,2016-05-11,1.0,success,gpt-4o-mini,,,,
+48226,1552068,نامه اعتراضی خانه موسیقی به قوه قضاییه,در پی لغو کنسرت کیهان کلهر ارسال شد,2016-05-12 14:48:56,پنجشنبه ۲۳ اردیبهشت ۱۳۹۵ - ۱۷:۱۸,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,Local,نیشابور,City,Judiciary,NGO/Community,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-12,No,,,1.0,success,gpt-4o-mini,,,,
+48227,1552074,اختتامیه سومین گردهمایی دانشجویی حامیان محیط زیست - خرم آباد,,2016-05-12 17:14:04,پنجشنبه ۲۳ اردیبهشت ۱۳۹۵ - ۱۹:۴۴,سرویس عکس,,isna,Yes,No,,Protest,Unknown,public assembly,تجمع / اجتماع,Environmental,N/A,Local,خرم آباد,City,Unknown,Unknown,Environmental,Unknown,خرم آباد,unknown,Unknown,Unknown,2016-05-12,No,2016-05-12,2016-05-12,1.0,success,gpt-4o-mini,,,,
+48241,1550128,همه نگرانی‌های فعالان زیست محیطی درباره طرح انتقال آب خزر,,2016-05-14 08:26:39,شنبه ۲۵ اردیبهشت ۱۳۹۵ - ۱۰:۵۶,سرویس استان ها,"
+                        مازندران
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Water scarcity,Local,سمنان,Province Center,Government,NGO/Community,Environmental,Unknown,مازندران,medium group < 50,Unknown,Public place,2016-05-14,No,2016-05-14,2016-05-14,1.0,success,gpt-4o-mini,,,,
+48244,1550111,حمایت موسسه حامیان کسب و کار از کارآفرینی,,2016-05-14 09:20:17,شنبه ۲۵ اردیبهشت ۱۳۹۵ - ۱۱:۵۰,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,,,Unknown,Unknown,Unknown,Business,N/A,Local,اصفهان,Province Center,Unknown,NGO/Community,Economic/trade/business,Unknown,Unknown,Large Group < 200,Unknown,Unknown,2016-05-14,No,2016-05-14,2016-05-14,1.0,success,gpt-4o-mini,,,,
+48254,1549285,کمپین «کودکان کتاب‌خوان سرزمین بدون جنگ»,,2016-05-14 14:09:26,شنبه ۲۵ اردیبهشت ۱۳۹۵ - ۱۶:۳۹,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Children,N/A,Local,افغانستان,Capital,None,NGO/Community,Children's rights,Unknown,تهران,unknown,Unknown,Unknown,2016-05-14,No,,,1.0,success,gpt-4o-mini,,,,
+48270,1549740,لزوم راه‌اندازی کمپین مبارزه با اعتیاد در فضای مجازی,سرپرست استانداری خوزستان تاکید کرد:,2016-05-15 10:33:01,یکشنبه ۲۶ اردیبهشت ۱۳۹۵ - ۱۳:۰۳,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Social,Soc_Addiction,Local,خوزستان,Province Center,Government,Campaign,Social,Unknown,خوزستان,unknown,Unknown,Unknown,2016-05-15,No,2016-05-15,2016-05-15,1.0,success,gpt-4o-mini,,,,
+48272,1549769,اعتراض دامداران چهارمحال و بختیاری به نرخ شیر در استان,,2016-05-15 11:57:43,یکشنبه ۲۶ اردیبهشت ۱۳۹۵ - ۱۴:۲۷,سرویس استان ها,"
+                        چهارمحال و بختیاری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,چهارمحال و بختیاری,Province Center,Government,Labour Union,Farmers,Unknown,سازمان تعاون روستایی و جهاد کشاورزی چهارمحال و بختیاری,medium group < 50,سازمان تعاون روستایی و جهاد کشاورزی چهارمحال و بختیاری,In front of state buildings,2016-05-15,No,,,1.0,success,gpt-4o-mini,,,,
+48282,1549887,تحصن در اعتراض به اقدام دو «گردشگرنما»,,2016-05-16 06:31:42,دوشنبه ۲۷ اردیبهشت ۱۳۹۵ - ۰۹:۰۱,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Cultural,N/A,Local,Unknown,Town,Unknown,Ordinary Citizens,Cultural,Unknown,جونقان,medium group < 50,قلعه تاریخی شهر جونقان,Public place,2016-05-16,No,2016-05-16,2016-05-16,1.0,success,gpt-4o-mini,,,,
+48283,1548749,تجمع اعتراضی علیه معتادان، پلیسی شد!,,2016-05-16 07:00:35,دوشنبه ۲۷ اردیبهشت ۱۳۹۵ - ۰۹:۳۰,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Social,Soc_Addiction,Local,هرندی,City,Local authorities/agencies,Ordinary Citizens,Social,Unknown,خیابان هرندی,Large Group < 200,خیابان هرندی,Public place,2016-05-16,No,2016-05-16,2016-05-16,1.0,success,gpt-4o-mini,,,,
+48292,1548555,آغاز به کار پویش اصفهان شهر بدون کیسه پلاستیکی,,2016-05-16 11:29:11,دوشنبه ۲۷ اردیبهشت ۱۳۹۵ - ۱۳:۵۹,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,N/A,Local,اصفهان,City,None,NGO/Community,Environmental,Unknown,اصفهان,unknown,Unknown,Unknown,2016-05-16,No,2016-05-16,2016-05-16,1.0,success,gpt-4o-mini,,,,
+48322,1546940,برگزاری نشست هم اندیشی فعالان انتخاباتی استانهای شورای عالی سیاست گذاری اصلاح طلبان,,2016-05-18 11:08:47,چهارشنبه ۲۹ اردیبهشت ۱۳۹۵ - ۱۳:۳۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,Unknown,Unknown,Reformists,Political Org./Party,Political,Reformist,Unknown,Unknown,Unknown,Unknown,2016-05-18,No,2016-05-18,2016-05-18,1.0,success,gpt-4o-mini,,,,
+48323,1547508,تشکیل یک کمپین مردمی به دبیری پرستویی ,,2016-05-18 11:54:59,چهارشنبه ۲۹ اردیبهشت ۱۳۹۵ - ۱۴:۲۴,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,International,Intl_Politics,National,Unknown,Unknown,International Institution/Country,Campaign,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-18,No,2016-05-18,2016-05-18,1.0,success,gpt-4o-mini,,,,
+48333,1545116,"\کرم\"" در غذا باعث تحصن دانشجویان بابلی شد""",,2016-05-19 12:42:52,پنجشنبه ۳۰ اردیبهشت ۱۳۹۵ - ۱۵:۱۲,سرویس علمی و دانشگاهی,"
+                        صنفی، فرهنگی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Student/university,N/A,Local,بابل,City,University Officials,Formal student group,Student Movement,Unknown,ساختمان تحصیلات تکمیلی دانشگاه نوشیروانی بابل,Large Group < 200,ساختمان تحصیلات تکمیلی دانشگاه نوشیروانی بابل,University campuses,2016-05-19,Yes,2016-05-19,2016-05-20,2.0,success,gpt-4o-mini,1.0,1545116.0,Yes,7af4f9ed99a3e42809d6c915f2c94ba0
+48333,1545116,"\کرم\"" در غذا باعث تحصن دانشجویان بابلی شد""",,2016-05-19 12:42:52,پنجشنبه ۳۰ اردیبهشت ۱۳۹۵ - ۱۵:۱۲,سرویس علمی و دانشگاهی,"
+                        صنفی، فرهنگی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,ساختمان تحصیلات تکمیلی دانشگاه نوشیروانی بابل,,,,,,,success,gpt-4o-mini,2.0,1545116.0,Yes,7af4f9ed99a3e42809d6c915f2c94ba0
+48344,1544857,اعتراض به ثبت «نان کرنو» به نام شهر بابک,,2016-05-21 01:56:40,شنبه ۱ خرداد ۱۳۹۵ - ۰۴:۲۶,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,انار,City,Local authorities/agencies,Ordinary Citizens,Cultural,Unknown,شهر بابک,unknown,جشنواره سراسری سپیدچادران عشایر,Public place,2016-05-21,No,2016-05-21,2016-05-21,1.0,success,gpt-4o-mini,,,,
+48348,1545601,تجمع دانش‌آموزان و اولیای مدارس فرزانگان مقابل آموزش و پرورش شهرتهران ,,2016-05-21 10:02:49,شنبه ۱ خرداد ۱۳۹۵ - ۱۲:۳۲,سرویس اجتماعی,"
+                        آموزش و پرورش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Education,N/A,Local,تهران,City,Ministries,Ordinary Citizens,Students,Unknown,مقابل ساختمان آموزش و پرورش شهر تهران,small group < 15,مقابل ساختمان آموزش و پرورش شهر تهران,In front of state buildings,2016-05-21,No,,,1.0,success,gpt-4o-mini,,,,
+48359,1544496,دستگیری دو تروریست‌ در همدان,مدیرکل اطلاعات استان همدان اعلام کرد,2016-05-22 08:38:46,یکشنبه ۲ خرداد ۱۳۹۵ - ۱۱:۰۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,,Unknown,,,Unknown,N/A,Local,همدان,Province Center,Unknown,Unknown,Unknown,Unknown,همدان,Unknown,Unknown,Unknown,2016-05-22,No,2016-05-22,2016-05-22,1.0,success,gpt-4o-mini,,,,
+48374,1546002,کمپین «رضا کیانیان» در حمایت از صنایع‌دستی ,نامورمطلق اعلام کرد,2016-05-23 11:06:03,دوشنبه ۳ خرداد ۱۳۹۵ - ۱۳:۳۶,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Unknown,Unknown,Cultural,N/A,National,Unknown,Unknown,Government,Campaign,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2016-05-23,No,,,1.0,success,gpt-4o-mini,,,,
+48451,1541734,روایت شاهد عینی از درگیری در حوزه علمیه,,2016-05-28 15:59:36,شنبه ۸ خرداد ۱۳۹۵ - ۱۸:۲۹,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Violent protests,Protest,YES,physical violence against people,حمله به افراد,Political,N/A,Local,خرم‌آباد,City,Government,Unknown,Unknown,Unknown,حوزه علمیه خرم‌آباد,medium group < 50,حوزه علمیه خرم‌آباد,Public place,2016-05-28,No,,,1.0,success,gpt-4o-mini,,,,
+48460,1541821,اعتراض تولیدکنندگان آب و برق به ثبات قیمت‌ها,,2016-05-29 07:29:00,یکشنبه ۹ خرداد ۱۳۹۵ - ۰۹:۵۹,سرویس اقتصادی,"
+                        انرژی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,Unknown,Unknown,Government,Labour Union,Economic/trade/business,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-29,No,2016-05-29,2016-05-29,1.0,success,gpt-4o-mini,,,,
+48468,1541139,"پویش ملی \قلیان‌ها را گلدان کنیم\"" آغاز شد""", با حمایت هنرمندان و ورزشکاران؛,2016-05-29 11:14:51,یکشنبه ۹ خرداد ۱۳۹۵ - ۱۳:۴۴,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Health,N/A,National,Unknown,Unknown,Public Awareness,Campaign,Health,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-29,No,,,1.0,success,gpt-4o-mini,,,,
+48486,1540237,تجمع جمعی از دانش آموزان زنجانی در اعتراض به سوالات امتحان سوم دبیرستان,,2016-05-30 12:03:49,دوشنبه ۱۰ خرداد ۱۳۹۵ - ۱۴:۳۳,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,زنجان,Province Center,Ministries,Formal student group,Student Movement,Unknown,مقابل اداره‌ کل آموزش و پرورش,medium group < 50,مقابل اداره‌ کل آموزش و پرورش,In front of state buildings,2016-05-30,No,2016-05-30,2016-05-30,1.0,success,gpt-4o-mini,,,,
+48490,1540163,تجمع مهندسان ناظر در اعتراض به عملکرد سازمان نظام مهندسی,,2016-05-30 15:10:32,دوشنبه ۱۰ خرداد ۱۳۹۵ - ۱۷:۴۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع,Labour,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Labour,Unknown,مقابل معاونت شهرسازی و معماری شهرداری تهران,medium group < 50,مقابل معاونت شهرسازی و معماری شهرداری تهران,In front of state buildings,2016-05-30,No,2016-05-30,2016-05-30,1.0,success,gpt-4o-mini,,,,
+48501,1539455,راه‌اندازی کمپین حمایت از محیط زیست توسط یک مجله,,2016-05-31 10:12:46,سه‌شنبه ۱۱ خرداد ۱۳۹۵ - ۱۲:۴۲,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,N/A,Local,Unknown,Unknown,Unknown,Campaign,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,2016-05-31,No,2016-05-31,2016-05-31,1.0,success,gpt-4o-mini,,,,
+48515,1539135,اعتراض برنجکاران مسیر کانال کوثران؛ آب هست اما کشت ممنوع است!,,2016-06-01 07:40:44,چهارشنبه ۱۲ خرداد ۱۳۹۵ - ۱۰:۱۰,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,اهواز,City,Government,Farmers,Farmers,Unknown,Unknown,unknown,Unknown,Unknown,2016-06-01,No,,,1.0,success,gpt-4o-mini,,,,
+48519,1540030,عضو شورای شهر یاسوج به پویش ملی «قلیان‌ها را گلدان کنیم» پیوست ,,2016-06-01 09:08:01,چهارشنبه ۱۲ خرداد ۱۳۹۵ - ۱۱:۳۸,سرویس استان ها,"
+                        کهگیلویه و بویراحمد
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Health,N/A,Local,یاسوج,City,Government,Campaign,Health,Unknown,یاسوج,unknown,Unknown,Unknown,2016-06-01,No,,,1.0,success,gpt-4o-mini,,,,
+48532,1538215,کمپین سبزنوشت در قم راه‌اندازی شد,,2016-06-02 09:20:46,پنجشنبه ۱۳ خرداد ۱۳۹۵ - ۱۱:۵۰,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,N/A,National,قم,Province Center,Public Awareness,NGO/Community,Environmental,Unknown,قم,unknown,Unknown,Unknown,2016-06-02,No,,,1.0,success,gpt-4o-mini,,,,
+48546,1537376,راهپیمایی یوم الله 15 خرداد در قم,,2016-06-04 11:51:30,شنبه ۱۵ خرداد ۱۳۹۵ - ۱۴:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,قم,City,Government,Formal religious group,Political,Unknown,بیت امام خمینی(ره),unknown,حرم حضرت فاطمه معصومه(س),Religious places,2016-06-04,No,,,1.0,success,gpt-4o-mini,,,,
+48557,1537150,کمپینی برای معرفی اقتصاد ایران به جهانیان,,2016-06-05 09:09:33,یکشنبه ۱۶ خرداد ۱۳۹۵ - ۱۱:۳۹,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,Unknown,Government,Campaign,Economic/trade/business,Unknown,Unknown,Unknown,Unknown,Unknown,2016-06-05,No,2016-06-05,2016-06-05,1.0,success,gpt-4o-mini,,,,
+48588,1535653,اجرای جشن پویش محیط زیستی «همین یک زمین» ,,2016-06-06 14:48:53,دوشنبه ۱۷ خرداد ۱۳۹۵ - ۱۷:۱۸,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,No,N/A,N/A,Environmental,N/A,Local,Unknown,Capital,Unknown,Unknown,Environmental,Unknown,سالن اجتماعات بانک ایران زمین,Unknown,سالن اجتماعات بانک ایران زمین,Public place,2016-06-06,No,2016-06-06,2016-06-06,1.0,success,gpt-4o-mini,,,,
+48608,1535127,راه اندازی کمپین مبارزه با قاچاق کالا به همت سمن‌های گلستانی,معاون فرهنگی و امور جوانان استان گلستان خبر داد,2016-06-08 07:18:00,چهارشنبه ۱۹ خرداد ۱۳۹۵ - ۰۹:۴۸,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Economic,N/A,Local,گلستان,Province Center,Government,NGO/Community,Economic/trade/business,Unknown,گلستان,medium group < 50,Unknown,Unknown,2016-06-08,No,2016-06-08,2016-06-08,1.0,success,gpt-4o-mini,,,,
+48626,1534795,وقتی تجمع نوجوانان در تهران، پلیسی شد,,2016-06-09 03:47:03,پنجشنبه ۲۰ خرداد ۱۳۹۵ - ۰۶:۱۷,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Social,N/A,Local,Unknown,City,Government,Ordinary Citizens,Social,Unknown,مجتمع کوروش,"thousands, +1000",مجتمع کوروش,Public place,2016-06-09,No,2016-06-09,2016-06-09,1.0,success,gpt-4o-mini,,,,
+48654,1533646,ماه عسل با کمپین مردمی آغاز شد,,2016-06-11 09:37:00,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۲:۰۷,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,Civil campaigning,کمپین مدنی یا پویشگری,Unknown,N/A,Local,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-06-11,No,2016-06-11,2016-06-11,1.0,success,gpt-4o-mini,,,,
+48667,1533372,تجمع بازنشسته‌های نیروهای مسلح مقابل مجلس,امروز صبح انجام شد؛,2016-06-12 06:40:39,یکشنبه ۲۳ خرداد ۱۳۹۵ - ۰۹:۱۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Retireds,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,Parliament area,2016-06-12,No,2016-06-12,2016-06-12,1.0,success,gpt-4o-mini,,,,
+48688,1531900,تجمع جمعی از هواداران استقلال مقابل مجلس,,2016-06-13 10:44:21,دوشنبه ۲۴ خرداد ۱۳۹۵ - ۱۳:۱۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Sports management,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Sports,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,Parliament area,2016-06-13,No,2016-06-13,2016-06-13,1.0,success,gpt-4o-mini,,,,
+48691,1531816,درگیری مسلحانه پلیس با تروریست‌ها در خاش,سخنگوی ناجا تشریح کرد,2016-06-13 12:09:00,دوشنبه ۲۴ خرداد ۱۳۹۵ - ۱۴:۳۹,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,خاش,City,Terrorist groups,Law Enforcement Force,Unknown,Unknown,خاش,Unknown,Unknown,Unknown,2016-06-13,No,2016-06-13,2016-06-13,1.0,success,gpt-4o-mini,,,,
+48692,1531818,برپایی پویش ضد دخانیات در همایش سلامت و زندگی,,2016-06-13 12:13:56,دوشنبه ۲۴ خرداد ۱۳۹۵ - ۱۴:۴۳,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Health,N/A,Local,Unknown,City,Unknown,Unknown,Health,Unknown,تالار ایوان شمس,Unknown,تالار ایوان شمس,Public place,2016-07-03,No,2016-07-03,2016-07-03,1.0,success,gpt-4o-mini,,,,
+48693,1531827,"\ اقدام شود\"" عنوان کمپین تبلیغاتی بانک شهر     """,,2016-06-13 12:30:39,دوشنبه ۲۴ خرداد ۱۳۹۵ - ۱۵:۰۰,,,,Yes,No,,Unknown,Unknown,Unknown,Unknown,Financial/banking,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2016-06-13,No,2016-06-13,2016-06-13,1.0,success,gpt-4o-mini,,,,
+48708,1531458,تجمع خانواده شهدا مقابل شورا در اعتراض به ساماندهی قبور,,2016-06-14 11:04:30,سه‌شنبه ۲۵ خرداد ۱۳۹۵ - ۱۳:۳۴,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Urban,N/A,Local,Unknown,Capital,Municipality/ city councils,Ordinary Citizens,Unknown,Unknown,مقابل شورای شهر تهران,medium group < 50,مقابل شورای شهر تهران,In front of state buildings,2016-06-14,No,,,1.0,success,gpt-4o-mini,,,,
+48710,1531410,اعتکاف فعالان فرهنگی و جهادی در حرم رضوی برگزار می‌شود,,2016-06-14 11:46:22,سه‌شنبه ۲۵ خرداد ۱۳۹۵ - ۱۴:۱۶,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,N/A,Ritual,No,N/A,N/A,Cultural,N/A,Local,Unknown,Religious places,Unknown,Formal religious group,Cultural,Unknown,مسجد جامع گوهرشاد حرم رضوی,unknown,مسجد جامع گوهرشاد حرم رضوی,Religious places,2016-06-14,Yes,2016-06-27,2016-06-29,3.0,success,gpt-4o-mini,1.0,1531410.0,Yes,781dde8be6469179ab97d6f48be5809d
+48710,1531410,اعتکاف فعالان فرهنگی و جهادی در حرم رضوی برگزار می‌شود,,2016-06-14 11:46:22,سه‌شنبه ۲۵ خرداد ۱۳۹۵ - ۱۴:۱۶,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,مسجد جامع گوهرشاد حرم رضوی,,,,,,,success,gpt-4o-mini,2.0,1531410.0,Yes,781dde8be6469179ab97d6f48be5809d
+48710,1531410,اعتکاف فعالان فرهنگی و جهادی در حرم رضوی برگزار می‌شود,,2016-06-14 11:46:22,سه‌شنبه ۲۵ خرداد ۱۳۹۵ - ۱۴:۱۶,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,مسجد جامع گوهرشاد حرم رضوی,,,,,,,success,gpt-4o-mini,3.0,1531410.0,Yes,781dde8be6469179ab97d6f48be5809d
+48725,1531104,پویش سه شنبه‌های بدون خودرو در شعب بانک تجارت    ,,2016-06-15 10:15:00,چهارشنبه ۲۶ خرداد ۱۳۹۵ - ۱۲:۴۵,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Vehicle emissions,National,Unknown,NA,Private Companies/organizations,Campaign,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2016-06-15,No,2016-06-15,2016-06-15,1.0,success,gpt-4o-mini,,,,
+48731,1531022,اسدآباد به پویش «سه‌شنبه‌های بدون خودرو» پیوست,,2016-06-15 12:07:00,چهارشنبه ۲۶ خرداد ۱۳۹۵ - ۱۴:۳۷,سرویس استان ها,"
+                        همدان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,Local,اسدآباد,Town,Local authorities/agencies,Campaign,Environmental,Unknown,اسدآباد,unknown,Unknown,Unknown,2016-06-15,No,2016-06-15,2016-06-15,1.0,success,gpt-4o-mini,,,,
+48737,1530907,درگیری سپاه با 2 تیم تروریستی در شمال غرب کشور,فرمانده نیروی زمینی سپاه خبر داد,2016-06-15 20:10:00,چهارشنبه ۲۶ خرداد ۱۳۹۵ - ۲۲:۴۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,National,Unknown,Unknown,Terrorist groups,Military base,Unknown,Unknown,منطقه مرزی اشنویه,Unknown,Unknown,Unknown,2016-06-15,No,2016-06-15,2016-06-15,1.0,success,gpt-4o-mini,,,,
+48745,1530185,اعتراضات قانونی از دلایل طولانی شدن روند رسیدگی به پرونده‌ مسکن مهر است,دادستان دادسرای عمومی و انقلاب شهرکرد:,2016-06-16 15:38:42,پنجشنبه ۲۷ خرداد ۱۳۹۵ - ۱۸:۰۸,سرویس استان ها,"
+                        چهارمحال و بختیاری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Housing,N/A,Local,Unknown,Province Center,Judiciary,Unknown,Unknown,Unknown,شهرکرد,unknown,Unknown,Unknown,2016-06-16,No,2016-06-16,2016-06-16,1.0,success,gpt-4o-mini,,,,
+48769,1529260,تجمع هزاران نفر در پارک شهران، بخاطر وحشت,,2016-06-19 08:33:50,یکشنبه ۳۰ خرداد ۱۳۹۵ - ۱۱:۰۳,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Urban,N/A,Local,شهران,City,Local authorities/agencies,Ordinary Citizens,Urban,Unknown,پارک شهران,"thousands, +1000",پارک شهران,Public place,2016-06-19,No,2016-06-19,2016-06-19,1.0,success,gpt-4o-mini,,,,
+48783,1528408,خنثی سازی عملیات تروريستی در تهران,وزارت اطلاعات اعلام کرد,2016-06-20 08:37:00,دوشنبه ۳۱ خرداد ۱۳۹۵ - ۱۱:۰۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,NO,,,Terrorism,N/A,National,Unknown,Capital,Terrorist groups,Government,N/A,Unknown,تهران,Unknown,Unknown,Unknown,2016-06-20,No,2016-06-20,2016-06-20,1.0,success,gpt-4o-mini,,,,
+48811,1520494,مالباختگان ثامن الحجج مقابل مجلس تجمع کردند,,2016-06-21 12:00:22,سه‌شنبه ۱ تیر ۱۳۹۵ - ۱۴:۳۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,Local,Unknown,Capital,Parliament,Ordinary Citizens,Financial/banking,Unknown,تهران,medium group <50,مقابل مجلس,Parliament area,2016-06-21,No,,,1.0,success,gpt-4o-mini,,,,
+48823,1520976,همه به کمپین «نفس بکش» بپیوندیم/خیرین حوزه آسیب‌های اجتماعی را جدی بگیرند,,2016-06-22 09:29:15,چهارشنبه ۲ تیر ۱۳۹۵ - ۱۱:۵۹,سرویس استان ها,"
+                        کرمان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Social,Soc_Addiction,Local,کرمان,Province Center,Government,NGO/Community,Social,Unknown,کرمان,unknown,Unknown,Unknown,2016-06-22,No,,,1.0,success,gpt-4o-mini,,,,
+48846,1519524,کمپینی برای نجات درختان کهن شهر,,2016-06-24 22:30:00,شنبه ۵ تیر ۱۳۹۵ - ۰۱:۰۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Deforestation,Local,خیابان ولیعصر,City,Municipality/ city councils,Campaign,Environmental,Unknown,خیابان ولیعصر,unknown,Unknown,Public place,2016-06-24,No,,,1.0,success,gpt-4o-mini,,,,
+48855,1519274,چرا حتماً در کمپین پرویز پرستویی شرکت می‌کنم‌؟,حبیب احمدزاده مطرح کرد:,2016-06-25 12:02:02,شنبه ۵ تیر ۱۳۹۵ - ۱۴:۳۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Financial/banking,N/A,National,Unknown,Unknown,Government,Campaign,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2016-06-25,No,2016-06-25,2016-06-25,1.0,success,gpt-4o-mini,,,,
+48875,1521847,تجمع تلگرامی برای 2 جوان مشهدی گران تمام شد,,2016-06-26 11:35:03,یکشنبه ۶ تیر ۱۳۹۵ - ۱۴:۰۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Social,N/A,Local,مشهد,City,Law Enforcement Force,Online Community,Unknown,Unknown,مقابل یک مرکز تجاری,medium group < 50,مقابل یک مرکز تجاری,Public place,2016-06-26,No,,,1.0,success,gpt-4o-mini,,,,
+48876,1518910,کمپین مردمی احیای تالاب «آق‌گل» تشکیل شد,,2016-06-26 11:53:53,یکشنبه ۶ تیر ۱۳۹۵ - ۱۴:۲۳,سرویس استان ها,"
+                        همدان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Drought/ water scarcity,Local,ملایر,City,Government,NGO/Community,Environmental,Unknown,ملایر,unknown,Unknown,Unknown,2016-06-26,No,,,1.0,success,gpt-4o-mini,,,,
+48882,1518746,حمله تروریستی به جلسه نخبگان جمهوری اسلامی,بازخوانی واقعه هفتم تیر,2016-06-27 07:11:44,دوشنبه ۷ تیر ۱۳۹۵ - ۰۹:۴۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,bombing,بمب‌گذاری,Political,N/A,National,Unknown,Capital,Government,Armed/Separatist group,Political,Unknown,Unknown,unknown,دفتر حزب جمهوری اسلامی,Public place,2016-06-27,No,,,1.0,success,gpt-4o-mini,,,,
+48884,1522006,دستگیری یک تروریست عضو انصار الفرقان در سیستان‌وبلوچستان,دادستان عمومی انقلاب زاهدان خبر داد:,2016-06-27 09:01:58,دوشنبه ۷ تیر ۱۳۹۵ - ۱۱:۳۱,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Terrorism,N/A,Local,سیستان و بلوچستان,Province Center,Government,Armed/Separatist group,Unknown,Unknown,خاش,unknown,Unknown,Unknown,2016-06-27,No,,,1.0,success,gpt-4o-mini,,,,
+48902,1518292,بانک تجارت پویش سه‌شنبه‌های بدون خودرو را به سطح شهر برد    ,,2016-06-28 12:21:11,سه‌شنبه ۸ تیر ۱۳۹۵ - ۱۴:۵۱,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,National,Unknown,Capital,Public Awareness,Private Companies/organizations,Environmental,Unknown,تهران,unknown,Unknown,Public place,2016-06-28,No,2016-06-28,2016-06-28,1.0,success,gpt-4o-mini,,,,2880324d340f95bcea42fbb2d792f985
+48902,1518292,بانک تجارت پویش سه‌شنبه‌های بدون خودرو را به سطح شهر برد    ,,2016-06-28 12:21:11,سه‌شنبه ۸ تیر ۱۳۹۵ - ۱۴:۵۱,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,2880324d340f95bcea42fbb2d792f985
+48902,1518292,بانک تجارت پویش سه‌شنبه‌های بدون خودرو را به سطح شهر برد    ,,2016-06-28 12:21:11,سه‌شنبه ۸ تیر ۱۳۹۵ - ۱۴:۵۱,سرویس بازار,"
+                        خبر بازار
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Air pollution,National,Unknown,Capital,Private Companies/organizations,Private Companies/organizations,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2016-06-28,No,2016-06-28,2016-06-28,1.0,success,gpt-4o-mini,,,,
+48905,1518221,"پاسخ ابتکار به نامه کمپین \هزارنامه برای پایان دادن به خشک کردن دشت میناب\""‌""",,2016-06-28 14:54:17,سه‌شنبه ۸ تیر ۱۳۹۵ - ۱۷:۲۴,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Drought/ water scarcity,National,دشت میناب,NA,Government,Campaign,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,2016-06-28,No,,,1.0,success,gpt-4o-mini,,,,
+48922,1522554,اعتراض معلمان مدارس غیردولتی در تبریز,,2016-06-29 10:58:38,چهارشنبه ۹ تیر ۱۳۹۵ - ۱۳:۲۸,سرویس استان ها,"
+                        آذربایجان شرقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Labour,N/A,Local,تبریز,City,Government,Labour Union,Teachers,Unknown,پارک خاقانی,Large Group < 200,پارک خاقانی,Public place,2016-06-29,Yes,2016-06-27,2016-06-29,3.0,success,gpt-4o-mini,1.0,1522554.0,Yes,93a9a1a8924620d44574e59ecce9dfd2
+48922,1522554,اعتراض معلمان مدارس غیردولتی در تبریز,,2016-06-29 10:58:38,چهارشنبه ۹ تیر ۱۳۹۵ - ۱۳:۲۸,سرویس استان ها,"
+                        آذربایجان شرقی
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,پارک خاقانی,,,,,,,success,gpt-4o-mini,2.0,1522554.0,Yes,93a9a1a8924620d44574e59ecce9dfd2
+48922,1522554,اعتراض معلمان مدارس غیردولتی در تبریز,,2016-06-29 10:58:38,چهارشنبه ۹ تیر ۱۳۹۵ - ۱۳:۲۸,سرویس استان ها,"
+                        آذربایجان شرقی
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,پارک خاقانی,,,,,,,success,gpt-4o-mini,3.0,1522554.0,Yes,93a9a1a8924620d44574e59ecce9dfd2
+48929,1522614,اعتراض داوطلبان به نتایج آزمون ارشد پزشکی ,,2016-06-29 13:14:42,چهارشنبه ۹ تیر ۱۳۹۵ - ۱۵:۴۴,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,City,Ministries,Ordinary Citizens,Student Movement,Unknown,مقابل مرکز سنجش آموزش پزشکی,medium group <50,مقابل مرکز سنجش آموزش پزشکی,Public place,2016-06-29,No,2016-06-29,2016-06-29,1.0,success,gpt-4o-mini,,,,
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Social,N/A,Local,تهران,Capital,None,NGO/Community,Charity,Unknown,تهران,unknown,Unknown,Unknown,2016-06-11,Yes,2016-06-11,2016-06-30,20.0,success,gpt-4o-mini,1.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,2.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,3.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,4.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,5.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,6.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,7.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,8.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,9.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,10.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,11.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,12.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,13.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,14.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,15.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,16.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,17.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,18.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,19.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+4642,1534051,"استقبال از پويش مردمي ""يه لقمه مهربوني"" در پایتخت",,2016-06-11 06:59:27,شنبه ۲۲ خرداد ۱۳۹۵ - ۱۱:۲۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,20.0,1534051.0,Yes,09c221dcc8cb2e91ab1d8ea7af194884
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Women,Wo_Hijab,Local,مشهد,City,Local authorities/agencies,Campaign,Women,Unknown,مشهد,medium group < 50,پارک ملت,Public place,2016-07-18,No,,,1.0,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d
+49268,1527024,"رواج پویش \سه‌شنبه‌های بدون خودرو\""/فرماندار مشکلی با دوچرخه‌سواری بانوان مشهد ندارد""",رئیس هیات دوچرخه‌سواری استان مطرح کرد:,2016-07-18 12:08:34,دوشنبه ۲۸ تیر ۱۳۹۵ - ۱۴:۳۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,پارک ملت,,,,,,,success,gpt-4o-mini,,,,cff7f33ff2146220da49ad89802ab92d

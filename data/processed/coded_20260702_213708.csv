@@ -1,0 +1,223 @@
+﻿Unnamed: 0,id,title,sub_title,date_x,persian_date,service,category,relevance,duplicate,protests_categories,protest_ritual,violent,protest_form_en,protest_form_fa,issue,issue_specific,local_national_international,issue_location_name,location_category,target,organizer_type,civil_society_sector,main_political_sector,event_location_name,size_of_participants,arena_name,arena_type,event_date,is_multi_day,date_range_start,date_range_end,days_duration,_processing_status,_model_used,event_day,original_article_id,_is_expanded,duplicate_group_id
+58089,61338,برخی استان‌ها به نحوه تخصیص آب اعتراض دارند,مدیرحوضه آبریز کرخه:,2018-01-01 07:52:51,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۰:۲۲,سرویس استان ها,"
+                        لرستان
+                        
+                    ",Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Water allocation,N/A,Local,لرستان,Province Center,Government,Unknown,Farmers,Unknown,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58091,60720,برخورد با هرگونه تجمع فاقد مجوز,استاندار مرکزی خبرداد:,2018-01-01 08:39:28,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۱:۰۹,سرویس استان ها,"
+                        مرکزی
+                        
+                    ",Yes,No,Confrontational protests (illegal and non violent),Protest,YES,illegal demonstration (if non-violent),تظاهرات بدون مجوز,Political,N/A,Local,Unknown,Province Center,Government,Unknown,Unknown,Unknown,Unknown,more than 100,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58094,60662,از حق اعتراض دفاع می‌کنیم نه اغتشاش و تخریب,عباس عبدی:,2018-01-01 10:12:30,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۲:۴۲,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58095,60668,رویکرد وزارت کشور ایجاد محدودیت برای تجمع‌های قانونی نیست,مدیرکل سیاسی وزارت کشور :,2018-01-01 10:19:46,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۲:۴۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58098,61415,یک کشته در تجمعات شب گذشته ایذه/ ضارب دستگیر شده است,فرمانده ایذه خبر داد: ,2018-01-01 11:17:51,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۳:۴۷,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",Yes,No,Violent protests,Protest,YES,violent demonstration,تظاهرات خشونت آمیز,Human rights,N/A,Local,ایذه,City,Law Enforcement Force,Unknown,Unknown,Unknown,ایذه,unknown,Unknown,Unknown,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58099,61417,اعتراض مردم فرصت است نه تهدید/دولت برای حل مشکلات سپرده گذاران 11 هزار میلیاردتومان پرداخت,رییس جمهور در جلسه با روسای کمیسیون های تخصصی مجلس:,2018-01-01 11:18:00,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۳:۴۸,سرویس سیاسی,"
+                        دولت
+                        
+                    ",Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,NA,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58102,60636,مخالفان دولت، مردم را به خیابان‌ها کشاندند,محمدرضا خاتمی:,2018-01-01 11:34:46,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۴:۰۴,سرویس ایسنا+,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Reformist,تهران,unknown,Unknown,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58104,61449,اقدامات تخریبی و درگیری‌های فیزیکی به هیچ وجه مورد تایید قانون نیست,بهمن کشاورز در گفت‌وگو با ایسنا:,2018-01-01 12:31:21,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۵:۰۱,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",Yes,No,N/A,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,National,Unknown,NA,Government,Unknown,Lawyers,Unknown,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,e3136944919345c600e670efd5ec6aed
+58110,60573,برخی‌ها از تجمعات سوءاستفاده کرده و به اموال عمومی خسارت زده‌اند ,فرماندار کوهدشت:,2018-01-01 14:02:28,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۶:۳۲,سرویس استان ها,"
+                        لرستان
+                        
+                    ",Yes,No,Confrontational protests (illegal and non violent),Protest,Unknown,limited destruction of property,آسیب محدود به اموال,Economic,N/A,National,Unknown,Province Center,Government,Unknown,Unknown,Unknown,کوهدشت,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58113,61495,استاندار منشاء تجمعات مشهد را اعلام کند,رئیس شورای شهر مشهد:,2018-01-01 14:31:45,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۷:۰۱,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,مشهد,City,Government,Unknown,Unknown,Unknown,مشهد,unknown,تالار شهر,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58116,60534,راهپیمایی مردم زنجان در محکومیت تجمع‌های خیابانی,,2018-01-01 16:30:45,دوشنبه ۱۱ دی ۱۳۹۶ - ۱۹:۰۰,سرویس استان ها,"
+                        زنجان
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Economic,N/A,Local,زنجان,City,Government,Ordinary Citizens,Economic/trade/business,Unknown,میدان انقلاب,unknown,مزار شهدای پایین زنجان,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58118,60548,تجمع جمعی از مردم اهواز در مخالفت با اغتشاش‌های خیابانی,,2018-01-01 18:23:24,دوشنبه ۱۱ دی ۱۳۹۶ - ۲۰:۵۳,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,اهواز,City,Government,Ordinary Citizens,Political,Unknown,خیابان نادری,medium group <50,خیابان نادری,Streets,,No,,,1.0,success,gpt-4o-mini,,,,
+58121,60525,دستگیری مدیر کمپین «اتحاد مردمی» در کرمان,,2018-01-01 21:46:58,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۰۰:۱۶,سرویس استان ها,"
+                        کرمان
+                        
+                    ",Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,کرمان,Province Center,Government,Campaign,Political,Unknown,کرمان,small group < 15,Unknown,Unknown,Unknown,No,,,1.0,success,gpt-4o-mini,,,,6ef06b702420da93c3b6b692cf5ffa6a
+58124,61555,ناآرامی ها اخیر در دو بخش اعتراضات و اغتشاشات قابل تحلیل است,مشاور وزیر کشور:,2018-01-02 07:00:45,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۰۹:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58134,61617,به تجمعات معلمان با دیده هنجارشکنانه نگاه نمی‌کنیم/لزوم حمایت ازتشکلهای قانونی دانشگاه‌فرهنگیان,رییس مرکز حراست آموزش و پرورش:,2018-01-02 09:18:22,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۱۱:۴۸,سرویس اجتماعی,"
+                        آموزش و پرورش
+                        
+                    ",Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Labour,N/A,Local,Unknown,Unknown,Government,Labour Union,Teachers,Unknown,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58137,61649,آزادی تعدادی از دانشجویان بازداشتی در تجمعات اخیر/تشکیل کارگروه‌های حقوق شهروندی در دانشگاه‌ها ,وزیر علوم خبر داد؛,2018-01-02 10:23:00,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۱۲:۵۳,سرویس علمی و دانشگاهی,"
+                        صنفی، فرهنگی
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,University,University Officials,Formal student group,Student Movement,Unknown,دانشگاه تهران,small group < 15,Unknown,University campuses,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58145,61683,مردم ساوه فردا در محکومیت اغتشاشات اخیر راهپیمایی می‌کنند,,2018-01-02 11:54:41,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۱۴:۲۴,سرویس استان ها,"
+                        مرکزی
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,ساوه,City,Government,Ordinary Citizens,Political,Progovernment,ساوه,unknown,میدان مادر,Public place,2023-01-03,No,2023-01-03,2023-01-03,1.0,success,gpt-4o-mini,,,,
+58148,60333,برگزاری تجمع و راهپیمایی مردم مشهد در محکومیت اغتشاشات اخیر,فرماندار خبر داد,2018-01-02 12:13:21,سه‌شنبه ۱۲ دی ۱۳۹۶ - ۱۴:۴۳,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,City,Government,Campaign,Political,Unknown,میدان شهدا,unknown,میدان شهدا,Public place,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58156,61790,تجمعات و راهپیمایی‌ها نباید به قصد ارتکاب جرم باشد,حجتی در گفت‌وگو با ایسنا:,2018-01-03 05:17:52,چهارشنبه ۱۳ دی ۱۳۹۶ - ۰۷:۴۷,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58158,60193,سفره اغتشاش و آشوب همه را مسموم می سازد/ میان معترض و متعرض مرزبندی شود,آیت الله سعیدی:,2018-01-03 07:19:49,چهارشنبه ۱۳ دی ۱۳۹۶ - ۰۹:۴۹,سرویس استان ها,,Yes,No,N/A,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,قم,Unknown,سالن محراب حرم مطهر,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58161,61842,به برگزاری تجمعات قانونی و ایجاد تشکل‌ها و اصناف مردمی توجه شود,عضو حزب اعتدال و توسعه :,2018-01-03 07:59:24,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۰:۲۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58168,60100,توضیح رییس دادگستری تهران درباره بازداشتی‌های تجمعات اخیر,,2018-01-03 09:58:59,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۲:۲۸,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Capital,Judiciary,Unknown,Unknown,Unknown,تهران,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58173,61961,در کشور فضا برای اعتراض‌های مسالمت آمیز مردمی وجود دارد,استاندار ایلام:,2018-01-03 11:56:00,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۴:۲۶,سرویس استان ها,"
+                        ایلام
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,ایلام,Province Center,Government,Unknown,Unknown,Unknown,ایلام,unknown,Unknown,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58174,61965,یک فعال دانشجویی:دولت صحنه‌گردانان تجمعات اخیر را به مردم معرفی کند,,2018-01-03 11:57:53,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۴:۲۷,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,خراسان رضوی,Province Center,Government,Political Org./Party,Student Movement,Reformist,Unknown,unknown,Unknown,Unknown,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58175,61968,دستگیری تعدادی از سردسته‌های تجمعات اخیر در زنجان، ابهر و خرم‌دره,دادستان عمومی و انقلاب زنجان خبر داد,2018-01-03 12:02:40,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۴:۳۲,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",Yes,No,,Protest,Unknown,Unknown,Unknown,Unknown,N/A,Local,زنجان,City,Government,Unknown,Unknown,Unknown,زنجان,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58178,59991,مردم مراغه تجمع اخیر در این شهرستان را محکوم کردند,,2018-01-03 13:03:26,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۳۳,سرویس استان ها,"
+                        آذربایجان شرقی
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,مراغه,City,Government,Ordinary Citizens,Political,Progovernment,مراغه,medium group < 50,Unknown,Public place,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Unknown,Government,Ordinary Citizens,Political,Unknown,Unknown,unknown,Unknown,Public place,13 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,1.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,2.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,3.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,4.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,5.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58179,60002,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-03 13:14:21,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۵:۴۴,سرویس عکس,,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,6.0,60002.0,Yes,21f07e1081fa0e5d30440bd7264902a4
+58182,62006,راه‌اندازی کمپین ملی پیشگیری از چاقی از نیمه دوم دی‌ماه ,,2018-01-03 14:13:29,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۶:۴۳,سرویس استان ها,"
+                        فارس
+                        
+                    ",Yes,No,,,Unknown,N/A,N/A,Health,N/A,National,Unknown,NA,Government,Campaign,Health,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,No,Unknown,Unknown,1.0,success,gpt-4o-mini,,,,
+58184,59973,اجازه دهیم معترضان در تجمعات قانونی حضور یابند,استاندار کرمان:,2018-01-03 14:48:46,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۷:۱۸,سرویس استان ها,"
+                        کرمان
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,6ef06b702420da93c3b6b692cf5ffa6a
+58188,62030,بیانیه حزب کارگزاران درباره تجمعات در سطح کشور,,2018-01-03 17:12:06,چهارشنبه ۱۳ دی ۱۳۹۶ - ۱۹:۴۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58191,59920,تکذیب شهادت و زخمی شدن پرسنل انتظامی پیرانشهر در درگیری‌ها,,2018-01-04 06:15:02,پنجشنبه ۱۴ دی ۱۳۹۶ - ۰۸:۴۵,سرویس استان ها,"
+                        آذربایجان غربی
+                        
+                    ",Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,Local,پیرانشهر,City,Law Enforcement Force,Unknown,Unknown,Unknown,پیرانشهر,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58197,59847,اطلاعیه وزارت اطلاعات درباره دستگیری یک گروه تروریستی در پیرانشهر,,2018-01-04 10:28:30,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۲:۵۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Terrorism,N/A,Local,پیرانشهر,Town,Terrorist groups,Unknown,Unknown,Unknown,پیرانشهر,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,1.0,59852.0,Yes,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,2.0,59852.0,Yes,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,3.0,59852.0,Yes,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,4.0,59852.0,Yes,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,5.0,59852.0,Yes,
+58198,59852,راهپیمایی مردم در محکومیت حوادث اخیر - استانها,,2018-01-04 10:38:19,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۳:۰۸,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,شهرهای مختلف ایران,unknown,Unknown,Unknown,14 دی 1396,Yes,8 دی 1396,13 دی 1396,6.0,success,gpt-4o-mini,6.0,59852.0,Yes,
+58200,59843,"بیانیه تشکل‌های موسس اتحادیه \تشکل‌های اسلامی دانشجویان ایران \"" پیرامون اعتراضات اخیر کشور""",,2018-01-04 12:18:00,پنجشنبه ۱۴ دی ۱۳۹۶ - ۱۴:۴۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58207,62258,راهپیمایی مردم تهران پس از نماز جمعه برگزار شد,در واکنش به اقدامات مداخلانه‌جویانه آمریکا؛,2018-01-05 10:58:00,جمعه ۱۵ دی ۱۳۹۶ - ۱۳:۲۸,سرویس سیاسی,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Political,Unknown,تهران,unknown,ایستگاه متروی مصلی امام خمینی (ره),Public place,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+58211,62292,راهپیمایی نمازگزاران تهران در محکومیت حوادث اخیر,,2018-01-05 13:43:00,جمعه ۱۵ دی ۱۳۹۶ - ۱۶:۱۳,سرویس عکس,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Political,Unknown,تهران,unknown,Unknown,Public place,15 دی 1396,No,,,1.0,success,gpt-4o-mini,,,,
+58221,59575,درسی که از اعتراض یک هفته‌ای در ایران گرفتیم,,2018-01-06 05:41:26,شنبه ۱۶ دی ۱۳۹۶ - ۰۸:۱۱,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Economic,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58242,62587,اعلام تعداد دانشجویان بازداشت‌شده علوم پزشکی در تجمعات اخیر/آزادی 3 نفر از دانشجویان,در گفت‌وگوی ایسنا با معاون فرهنگی وزیر بهداشت مطرح شد؛,2018-01-06 15:52:46,شنبه ۱۶ دی ۱۳۹۶ - ۱۸:۲۲,سرویس علمی و دانشگاهی,"
+                        صنفی، فرهنگی
+                        
+                    ",Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,Unknown,Unknown,University Officials,Unknown,Student Movement,Unknown,Unknown,small group < 15,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58265,59058,بیانیه انجمن اسلامی مدرسین دانشگاه‌ها درباره اعتراضات اخیر,,2018-01-07 13:02:50,یکشنبه ۱۷ دی ۱۳۹۶ - ۱۵:۳۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,fc2c958befe98a310cbae785829d7b73
+58269,58919,تیراندازی به سمت محیط بانان در منطقه حفاظت شده پلنگ دره قم,,2018-01-08 07:04:48,دوشنبه ۱۸ دی ۱۳۹۶ - ۰۹:۳۴,سرویس استان ها,"
+                        قم
+                        
+                    ",Yes,No,Armed conflict,Protest,YES,armed attack,حمله/درگیری مسلحانه,Environmental,N/A,Local,پلنگ دره,Rural,Law Enforcement Force,Unknown,Environmental,Unknown,پلنگ دره,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58278,62999,تعیین مکانی برای اعتراض در مشهد,شورای شهر تصویب کرد؛,2018-01-08 09:34:24,دوشنبه ۱۸ دی ۱۳۹۶ - ۱۲:۰۴,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,مشهد,City,Municipality/ city councils,Unknown,Unknown,Unknown,مشهد,unknown,تالار شهر,Municipality/ city councils,,No,,,1.0,success,gpt-4o-mini,,,,
+58279,58816,برگزاری تجمعات در نقاط فرهنگی و تاریخی به بخش گردشگری ضربه می زند,یک کارشناس گردشگری:,2018-01-08 10:26:24,دوشنبه ۱۸ دی ۱۳۹۶ - ۱۲:۵۶,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",Yes,No,N/A,Protest,Unknown,public assembly,تجمع / اجتماع,Cultural,N/A,Local,اصفهان,City,Government,Unknown,Cultural,Unknown,اصفهان,unknown,میدان نقش‌جهان,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58280,58798,راهپیمایی کردستانی‌ها در محکومیت اغتشاشات اخیر برگزار شد,,2018-01-08 10:51:57,دوشنبه ۱۸ دی ۱۳۹۶ - ۱۳:۲۱,سرویس استان ها,"
+                        کردستان
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,کردستان,Province Center,Government,Ordinary Citizens,Political,Unknown,سنندج,unknown,میدان آزادی,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+58295,63234,معترضانی که در تخریب اموال عمومی نقش نداشتند به‌زودی آزاد می‌شوند ,عابدی:,2018-01-09 08:24:54,سه‌شنبه ۱۹ دی ۱۳۹۶ - ۱۰:۵۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,اصفهان,City,Government,Unknown,Student Movement,Unknown,اصفهان,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58757,45992,فوت دو نفر در پی حادثه تیراندازی در ارومیه,,2018-02-05 06:28:41,دوشنبه ۱۶ بهمن ۱۳۹۶ - ۰۸:۵۸,سرویس استان ها,"
+                        آذربایجان غربی
+                        
+                    ",Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,ارومیه,City,Unknown,Unknown,Unknown,Unknown,ارومیه,unknown,خیابان دانشکده,Streets,,No,,,1.0,success,gpt-4o-mini,,,,
+58934,41931,قوه قضاییه درباره دستگیری فعالان محیط زیست و مرگ دکتر سید امامی در زندان پاسخگو باشد,تابش:,2018-02-11 19:58:12,یکشنبه ۲۲ بهمن ۱۳۹۶ - ۲۲:۲۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,National,Unknown,NA,Judiciary,Political Org./Party,Environmental,Reformist,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+58951,42143,دیدار با خانواده‌های فعالان بازداشت‌شده محیط زیست و توضیحات کارشناسان اطلاعات سپاه,تابش خبر داد,2018-02-12 13:48:00,دوشنبه ۲۳ بهمن ۱۳۹۶ - ۱۶:۱۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,National,Unknown,NA,Government,Campaign,Environmental,Reformist,Unknown,Unknown,Unknown,Unknown,Unknown,No,,,1.0,success,gpt-4o-mini,,,,f20e02e5501e66a99c93b0a9d3d7df8a
+59027,39488,اعتراض دانشجویان تحصیلات تکمیلی ارومیه به پرداخت شهریه در ترم‌های خارج از سنوات + پاسخ دانشگاه,,2018-02-18 08:02:00,یکشنبه ۲۹ بهمن ۱۳۹۶ - ۱۰:۳۲,سرویس علمی و دانشگاهی,"
+                        صنفی، فرهنگی
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Student/university,N/A,Local,ارومیه,City,University Officials,Formal student group,Student Movement,Unknown,دانشگاه ارومیه,unknown,دانشگاه ارومیه,University campuses,,No,,,1.0,success,gpt-4o-mini,,,,
+59035,39403,فراکسیون امید موضوع فوت سیدامامی و بازداشت فعالان محیط زیست را به کمیسیون اصل ۹۰ ارجاع می‌کند,پارسایی به ایسنا خبر داد,2018-02-18 09:54:47,یکشنبه ۲۹ بهمن ۱۳۹۶ - ۱۲:۲۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,e3136944919345c600e670efd5ec6aed
+59041,39265,درگذشت جمعی از فعالان محیط زیست در حادثه سقوط هواپیما,,2018-02-18 13:06:11,یکشنبه ۲۹ بهمن ۱۳۹۶ - ۱۵:۳۶,سرویس سیاسی,,Yes,Yes,,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,f20e02e5501e66a99c93b0a9d3d7df8a
+59176,33746,پردیسان خانه همه فعالان و سمن‌های محیط زیست است,معاون آموزش و پژوهش سازمان حفاظت محیط زیست:,2018-02-28 15:18:07,چهارشنبه ۹ اسفند ۱۳۹۶ - ۱۷:۴۸,سرویس اجتماعی,,Yes,Yes,N/A,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,f20e02e5501e66a99c93b0a9d3d7df8a
+59195,29205,درخواست نجفی از شهروندان تهرانی برای پیوستن به کمپین درخت به جای سبزه,,2018-03-02 11:43:18,جمعه ۱۱ اسفند ۱۳۹۶ - ۱۴:۱۳,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Environmental,Env_Deforestation,Local,تهران,Capital,Municipality/ city councils,Campaign,Environmental,Unknown,تهران,unknown,خیابان ولیعصر,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+59355,36770,وضعیت فعالان بازداشت شده محیط زیست را پیگیری می‌کنیم,کلانتری در نشست فراکسیون محیط زیست:,2018-03-12 13:28:55,دوشنبه ۲۱ اسفند ۱۳۹۶ - ۱۵:۵۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,Yes,Petitioning,,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,,,,f20e02e5501e66a99c93b0a9d3d7df8a
+59714,17565,بیانیه تشکل‌های محیط زیست خوزستان خطاب به رئیس جمهور در اعتراض به انتقال آب,,2018-04-17 10:52:10,سه‌شنبه ۲۸ فروردین ۱۳۹۷ - ۱۳:۲۲,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,Local,خوزستان,Province Center,Government,NGO/Community,Environmental,Unknown,اهواز,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+59722,7393,اختلاف‌نظر وزارت اطلاعات و برخی دستگاه‌ها درباره جاسوس بودن فعالان بازداشت‌شده محیط زیست,تابش به نقل از کلانتری مطرح کرد؛,2018-04-17 15:21:00,سه‌شنبه ۲۸ فروردین ۱۳۹۷ - ۱۷:۵۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,National,Unknown,NA,Government,Campaign,Environmental,Reformist,کمیسیون تلفیق,unknown,کمیسیون تلفیق,Other,,No,,,1.0,success,gpt-4o-mini,,,,
+59754,18163,درگیری محیط‎بان لرستانی با متخلفان محیط زیست,,2018-04-19 14:19:35,پنجشنبه ۳۰ فروردین ۱۳۹۷ - ۱۶:۴۹,سرویس استان ها,"
+                        لرستان
+                        
+                    ",Yes,No,,Protest,YES,Other,سایر,Environmental,Env_Deforestation,Local,خرم‎آباد,City,Law Enforcement Force,Unknown,Environmental,Unknown,خرم‎آباد,small group < 15,پاسگاه محیط‎بانی سرمرغ,Working places,,No,,,1.0,success,gpt-4o-mini,,,,
+59795,18780,نامه جمعی از استادان و فعالان محیط زیست به روحانی درباره وضعیت ۱۳ محیط زیستی‌ بازداشتی,,2018-04-22 10:04:00,یکشنبه ۲ اردیبهشت ۱۳۹۷ - ۱۲:۳۴,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Environmental,N/A,National,Unknown,Unknown,Government,NGO/Community,Environmental,Unknown,Unknown,unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,
+60121,24049,اعتراض دانشجویان دانشگاه فردوسی به کاهش سنوات تحصیلی+پاسخ مسئولان,,2018-05-13 13:22:25,یکشنبه ۲۳ اردیبهشت ۱۳۹۷ - ۱۵:۵۲,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,مشهد,City,Ministries,Formal student group,Student Movement,Unknown,مقابل سازمان مرکزی دانشگاه فردوسی,medium group < 50,مقابل سازمان مرکزی دانشگاه فردوسی,University campuses,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+60251,2662239,آزادی ۲ متهم پرونده فعالان محیط زیست/ ۲۰ نفر دیگر بازداشت شده‌اند/ ممنوع‌الخروجی همسر سیدامامی,درفشان اعلام کرد,2018-05-21 06:59:00,دوشنبه ۳۱ اردیبهشت ۱۳۹۷ - ۰۹:۲۹,سرویس سیاسی,,Yes,No,N/A,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,Local,Unknown,Unknown,Judiciary,Unknown,Human rights,Unknown,دادسرای امنیت,unknown,دادسرای امنیت,In front of state buildings,,No,,,1.0,success,gpt-4o-mini,,,,
+60277,2661749,کلانتری: فعالان بازداشت شده محیط زیستی باید آزاد شوند,,2018-05-22 09:15:44,سه‌شنبه ۱ خرداد ۱۳۹۷ - ۱۱:۴۵,سرویس اجتماعی,,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,Local,Unknown,Unknown,Government,Unknown,Environmental,Unknown,سالن همایش‌های سازمان حفاظت‌ محیط زیست,unknown,سالن همایش‌های سازمان حفاظت‌ محیط زیست,Public place,,No,,,1.0,success,gpt-4o-mini,,,,
+60494,2656619,قیام ۱۵ خرداد تا پرونده دستگیری فعالان محیط زیست,در سخنان امروز دادستان کل کشور مطرح شد,2018-06-05 13:43:00,سه‌شنبه ۱۵ خرداد ۱۳۹۷ - ۱۶:۱۳,سرویس سیاسی,,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,City,Government,Unknown,Unknown,Unknown,ورامین,unknown,مصلی صاحب الزمان (عج),Public place,Unknown,No,,,1.0,success,gpt-4o-mini,,,,
+60592,2656396,درگیری سیستان و بلوچستان با بحران خشکسالی و ریزگردها,نماینده خاش مطرح کرد:,2018-06-09 07:26:06,شنبه ۱۹ خرداد ۱۳۹۷ - ۰۹:۵۶,سرویس استان ها,,Yes,No,N/A,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Drought/ water scarcity,Local,سیستان و بلوچستان,Province Center,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,,No,,,1.0,success,gpt-4o-mini,,,,

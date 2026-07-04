@@ -1,0 +1,783 @@
+﻿Unnamed: 0,id,title,sub_title,date,persian_date,service,category,agency,relevance,duplicate,protests_categories,protest_ritual,violent,protest_form_en,protest_form_fa,issue,issue_specific,local_national_international,issue_location_name,location_category,target,organizer_type,civil_society_sector,main_political_sector,event_location_name,size_of_participants,arena_name,arena_type,event_date,is_multi_day,date_range_start,date_range_end,days_duration,_processing_status,_model_used,event_day,original_article_id,_is_expanded,duplicate_group_id
+25152,1936202,بیانیه اتحادیه انجمن‌های اسلامی دانشجویان مستقل درباره تحریم نفتی ایران,,2012-07-02 12:47:45,دوشنبه ۱۲ تیر ۱۳۹۱ - ۱۵:۱۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,NA,Government,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-07-02,No,2012-07-02,2012-07-02,1.0,success,gpt-4o-mini,,,,
+25158,1943537,تجمع جمعي از معلمان حق‌التدريس مقابل مجلس,,2012-07-03 07:15:25,سه‌شنبه ۱۳ تیر ۱۳۹۱ - ۰۹:۴۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-07-03,No,2012-07-03,2012-07-03,1.0,success,gpt-4o-mini,,,,
+25191,1934510,نامه سرگشاده بسیج دانشجویی به سران سه قوه در اعتراض به وضعيت اقتصادي كشور,,2012-07-07 12:57:13,شنبه ۱۷ تیر ۱۳۹۱ - ۱۵:۲۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Economic,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,Unknown,Unknown,2012-07-07,No,2012-07-07,2012-07-07,1.0,success,gpt-4o-mini,,,,
+25244,1931132,راهپیمایی در روز عفاف و حجاب - مشهد,,2012-07-11 12:02:33,چهارشنبه ۲۱ تیر ۱۳۹۱ - ۱۴:۳۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Women,Wo_Hijab,Local,مشهد,City,Government,Unknown,Women,Unknown,مشهد,unknown,Unknown,Unknown,2012-07-11,No,2012-07-11,2012-07-11,1.0,success,gpt-4o-mini,,,,
+25248,1931011,راهپیمایی در روز عفاف و حجاب - قم,,2012-07-11 19:58:12,چهارشنبه ۲۱ تیر ۱۳۹۱ - ۲۲:۲۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Women,Wo_Hijab,Local,قم,City,Government,Unknown,Women,Unknown,قم,unknown,Unknown,Unknown,2012-07-11,No,2012-07-11,2012-07-11,1.0,success,gpt-4o-mini,,,,
+25252,1930921,راهپیمایی بانوان قمی در حمایت از فرهنگ عفاف و حجاب برگزار شد,,2012-07-12 10:08:54,پنجشنبه ۲۲ تیر ۱۳۹۱ - ۱۲:۳۸,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Women,Wo_Hijab,Local,قم,City,Government,Formal religious group,Women,Progovernment,قم,unknown,حرم مطهر حضرت معصومه (س),Religious places,2012-07-12,No,2012-07-12,2012-07-12,1.0,success,gpt-4o-mini,,,,
+25306,1927057,گردهمايي فعالان تشكل‌هاي دانشجويي دانشگاه آزاد سراسر كشور,,2012-07-16 11:18:26,دوشنبه ۲۶ تیر ۱۳۹۱ - ۱۳:۴۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,National,Unknown,Capital,University Officials,Formal student group,Student Movement,Unknown,تهران,unknown,نمایشگاه بین‌المللی تهران,Public place,2012-07-17,No,2012-07-17,2012-07-17,1.0,success,gpt-4o-mini,,,,
+25329,1928309, دستگيري يكي از تروريست هاي وهابي در مرزهاي غربي كشور,,2012-07-18 09:00:56,چهارشنبه ۲۸ تیر ۱۳۹۱ - ۱۱:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Terrorism,N/A,National,Unknown,Unknown,Terrorists,Unknown,Unknown,Unknown,مرزهای غربی کشور,Unknown,Unknown,Unknown,2012-07-18,No,2012-07-18,2012-07-18,1.0,success,gpt-4o-mini,,,,
+25343,1925692,جمعي از دانشجويان در برابر دفتر سازمان ملل در تهران تجمع كردند,در اعتراض به كشتار مسلمانان در ميانمار,2012-07-19 14:09:18,پنجشنبه ۲۹ تیر ۱۳۹۱ - ۱۶:۳۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,نزديكي دفتر نمايندگي سازمان ملل متحد,International office/ embassy,2012-07-19,No,2012-07-19,2012-07-19,1.0,success,gpt-4o-mini,,,,
+25344,1925694,بيانيه جامعه اسلامی دانشجویان در اعتراض به كشتار مسلمانان در ميانمار,,2012-07-19 14:20:31,پنجشنبه ۲۹ تیر ۱۳۹۱ - ۱۶:۵۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,Intl_Palestine-Israel,National,میانمار,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-19,No,2012-07-19,2012-07-19,1.0,success,gpt-4o-mini,,,,
+25345,1928526,تجمع جمعي از دانشجويان مقابل دفتر سازمان ملل در اعتراض به كشتار مسلمانان ميانمار,,2012-07-19 17:07:56,پنجشنبه ۲۹ تیر ۱۳۹۱ - ۱۹:۳۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,unknown,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-19,No,,,1.0,success,gpt-4o-mini,,,,
+25375,1924676,تجمع مربيان پيش‌دبستاني در اعتراض به تمديد نشدن قرادادشان,,2012-07-22 08:23:39,یکشنبه ۱ مرداد ۱۳۹۱ - ۱۰:۵۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,small group < 15,مقابل مجلس,In front of state buildings,2012-07-22,No,2012-07-22,2012-07-22,1.0,success,gpt-4o-mini,,,,
+25379,1929053,تجمع تعدادي از فارغ‌التحصيلان دانشگاه تربيت معلم مقابل مجلس,,2012-07-22 09:41:52,یکشنبه ۱ مرداد ۱۳۹۱ - ۱۲:۱۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Labour,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,In front of state buildings,2012-07-22,No,2012-07-22,2012-07-22,1.0,success,gpt-4o-mini,,,,
+25386,1929154,حمایت از مسلمانان میانمار با تجمع در مقابل دفتر سازمان ملل در تهران,سه‌شنبه برگزار مي‌شود,2012-07-22 14:25:51,یکشنبه ۱ مرداد ۱۳۹۱ - ۱۶:۵۵,سرویس سیاسی,"
+                        بیداری اسلامی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,NGO/Community,Human rights,Unknown,تهران,unknown,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-24,No,2012-07-24,2012-07-24,1.0,success,gpt-4o-mini,,,,
+25414,1929625,آغاز تجمع اعتراض‌آميز مردم تهران در محكوميت كشتار مسلمانان ميانمار,,2012-07-24 15:37:13,سه‌شنبه ۳ مرداد ۱۳۹۱ - ۱۸:۰۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Ordinary Citizens,Human rights,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-24,No,2012-07-24,2012-07-24,1.0,success,gpt-4o-mini,,,,
+25415,1923352,تجمع مقابل دفتر سازمان ملل در محكوميت كشتار مسلمانان ميانمار,,2012-07-24 17:42:14,سه‌شنبه ۳ مرداد ۱۳۹۱ - ۲۰:۱۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,NA,International Institution/Country,Ordinary Citizens,Human rights,Unknown,مقابل دفتر سازمان ملل,unknown,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-24,No,2012-07-24,2012-07-24,1.0,success,gpt-4o-mini,,,,
+25416,1923354,تجمع اعتراضي در محكوميت كشتار مسلمانان ميانمار برگزار شد,در مقابل دفتر سازمان ملل در تهران,2012-07-24 17:44:03,سه‌شنبه ۳ مرداد ۱۳۹۱ - ۲۰:۱۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Formal student group,Human rights,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-24,No,,,1.0,success,gpt-4o-mini,,,,
+25422,1923212,تجمع جمعي از معلمان پيش دبستاني مقابل مجلس شوراي اسلامي,,2012-07-25 07:52:35,چهارشنبه ۴ مرداد ۱۳۹۱ - ۱۰:۲۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-07-25,No,2012-07-25,2012-07-25,1.0,success,gpt-4o-mini,,,,
+25447,1921166,راهپيمايي دانشجويان بسيجي در اعتراض به كشتار مسلمانان ميانمار - مشهد,,2012-07-27 12:55:18,جمعه ۶ مرداد ۱۳۹۱ - ۱۵:۲۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Human rights,N/A,Local,میانمار,City,Government,Formal student group,Student Movement,Unknown,مشهد,unknown,Unknown,Unknown,2012-07-27,No,2012-07-27,2012-07-27,1.0,success,gpt-4o-mini,,,,
+25448,1921168,راهپیمایی نمازگزاران تهرانی در محکومیت نسل کشی در میانمار,,2012-07-27 12:55:42,جمعه ۶ مرداد ۱۳۹۱ - ۱۵:۲۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Human rights,N/A,Local,میانمار,Capital,Government,Ordinary Citizens,Human rights,Unknown,تهران,unknown,Unknown,Public place,2012-07-27,No,2012-07-27,2012-07-27,1.0,success,gpt-4o-mini,,,,
+25468,1920573,سه تجمع مقابل مجلس شوراي اسلامي,صبح امروز انجام شد؛,2012-07-29 06:55:53,یکشنبه ۸ مرداد ۱۳۹۱ - ۰۹:۲۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,آذربایجان غربی,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-07-29,No,2012-07-29,2012-07-29,1.0,success,gpt-4o-mini,,,,
+25475,1921603,جمعي از بسيجيان در برابر دفتر سازمان ملل در تهران تجمع كردند,در اعتراض به كشتار مسلمانان در ميانمار,2012-07-29 11:02:12,یکشنبه ۸ مرداد ۱۳۹۱ - ۱۳:۳۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,Intl_Islamic,National,میانمار,Capital,International Institution/Country,Formal religious group,Human rights,Conservative,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-29,No,2012-07-29,2012-07-29,1.0,success,gpt-4o-mini,,,,
+25476,1921657,گردهمايي فعالان خصوصي و دولتي در عرصه«مسكن مهر»,10 مهر ماه برگزار مي‌شود:,2012-07-29 13:01:07,یکشنبه ۸ مرداد ۱۳۹۱ - ۱۵:۳۱,سرویس اقتصادی,"
+                        عمران و اشتغال
+                        
+                    ",isna,Yes,No,N/A,Ritual,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Housing,N/A,National,Unknown,Capital,Government,Unknown,N/A,Unknown,تهران,unknown,دانشگاه شهید بهشتی,Public place,2012-07-29,Yes,2012-10-01,2012-10-02,2.0,success,gpt-4o-mini,1.0,1921657.0,Yes,33634fc66bed825632f5bbd80771f52d
+25476,1921657,گردهمايي فعالان خصوصي و دولتي در عرصه«مسكن مهر»,10 مهر ماه برگزار مي‌شود:,2012-07-29 13:01:07,یکشنبه ۸ مرداد ۱۳۹۱ - ۱۵:۳۱,سرویس اقتصادی,"
+                        عمران و اشتغال
+                        
+                    ",isna,Yes,Yes,N/A,,,,,,,,,,,,,,,,دانشگاه شهید بهشتی,,,,,,,success,gpt-4o-mini,2.0,1921657.0,Yes,33634fc66bed825632f5bbd80771f52d
+25492,1919425,تجمع جامعه كارگري ايران در اعتراض به كشتار مسلمان ميانمار,صبح امروز برگزار شد؛,2012-07-31 09:54:16,سه‌شنبه ۱۰ مرداد ۱۳۹۱ - ۱۲:۲۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-07-31,No,2012-07-31,2012-07-31,1.0,success,gpt-4o-mini,,,,
+25512,1918163,تجمع جمعي از دانش‌آموزان در برابر دفتر سازمان ملل در تهران,,2012-08-01 11:55:34,چهارشنبه ۱۱ مرداد ۱۳۹۱ - ۱۴:۲۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل متحد,International office/ embassy,2012-08-01,No,,,1.0,success,gpt-4o-mini,,,,
+25530,1918559,اعتراض دفتر تحكيم وحدت به حذف جنسيتي برخي رشته‌ها در كنكور امسال,,2012-08-04 09:37:31,شنبه ۱۴ مرداد ۱۳۹۱ - ۱۲:۰۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Women,N/A,National,Unknown,Unknown,Ministries,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-08-04,No,2012-08-04,2012-08-04,1.0,success,gpt-4o-mini,,,,
+25539,1916606,تجمع جمعي از معلمان شركتي و نيروهاي پيش‌دبستاني مقابل مجلس,,2012-08-05 07:00:33,یکشنبه ۱۵ مرداد ۱۳۹۱ - ۰۹:۳۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,اصفهان,City,Parliament,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-08-05,No,2012-08-05,2012-08-05,1.0,success,gpt-4o-mini,,,,
+25548,1918881,تجمع دانشجويان و اساتيد دانشگاه آزاد در محكوميت كشتار مسلمانان در ميانمار,صبح دوشنبه در مقابل دفتر سازمان ملل برگزار مي‌شود,2012-08-05 12:43:04,یکشنبه ۱۵ مرداد ۱۳۹۱ - ۱۵:۱۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل دفتر نمایندگی سازمان ملل,International office/ embassy,2012-08-05,No,,,1.0,success,gpt-4o-mini,,,,
+25556,1915150, تجمع تشكل‌هاي دانشجويي دانشگاه آزاد در اعتراض به كشتار مسلمان ميانمار,صبح امروز برگزار شد:,2012-08-06 10:15:24,دوشنبه ۱۶ مرداد ۱۳۹۱ - ۱۲:۴۵,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,میانمار,City,International Institution/Country,Formal student group,Human rights,Unknown,مقابل دفتر سازمان ملل,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-08-06,No,2012-08-06,2012-08-06,1.0,success,gpt-4o-mini,,,,
+25567,1914670,تجمع نيروهاي شركتي و حق‌التدريسي‌هاي سازمان فني و حرفه‌اي مقابل مجلس,,2012-08-07 07:32:54,سه‌شنبه ۱۷ مرداد ۱۳۹۱ - ۱۰:۰۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,اصفهان,City,Parliament,Labour Union,Teachers,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,In front of state buildings,2012-08-07,No,2012-08-07,2012-08-07,1.0,success,gpt-4o-mini,,,,
+25581,1914231,تجمع علاقمندان عبدولی در اندیمشک,,2012-08-07 19:22:21,سه‌شنبه ۱۷ مرداد ۱۳۹۱ - ۲۱:۵۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Sports,N/A,Local,Unknown,City,Judiciary,Ordinary Citizens,Unknown,Unknown,اندیمشک,unknown,سالن ورزشی اندیمشک,Public place,2012-08-07,No,2012-08-07,2012-08-07,1.0,success,gpt-4o-mini,,,,
+25582,1914238,تجمع قائمشهري‌ها مقابل منزل پدري بهداد سليمي/ همه در انتظار افتخارآفريني قوي ترين مرد جهان,گزارش خبرنگار اعزامي ايسنا از قائمشهر,2012-08-07 20:29:21,سه‌شنبه ۱۷ مرداد ۱۳۹۱ - ۲۲:۵۹,سرویس ورزشی,"
+                        المپیک لندن
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,قائمشهر,City,Unknown,Ordinary Citizens,Cultural,Unknown,قائمشهر,"thousands, +1000",مقابل منزل پدر بهداد سليمي,Public place,2012-08-07,No,2012-08-07,2012-08-07,1.0,success,gpt-4o-mini,,,,
+25597,1915853,اعتراض كانون كارگردان به برخي حاشيه‌سازي‌هاي سازه تئاتر شهر,,2012-08-10 09:36:52,جمعه ۲۰ مرداد ۱۳۹۱ - ۱۲:۰۶,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Government,Campaign,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2012-08-10,No,,,1.0,success,gpt-4o-mini,,,,
+25615,1909467,بیانیه جمعیت حامیان آزادی قدس شریف به مناسبت روز جهانی قدس,,2012-08-11 15:21:16,شنبه ۲۱ مرداد ۱۳۹۱ - ۱۷:۵۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Palestine-Israel,National,Unknown,NA,International Institution/Country,Campaign,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2012-08-11,No,,,1.0,success,gpt-4o-mini,,,,
+25621,1908719,راهپیمایی روز قدس، حاصل تدبیر حکیمانه امام خمینی(ره) است,,2012-08-12 10:49:12,یکشنبه ۲۲ مرداد ۱۳۹۱ - ۱۳:۱۹,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,قم,Province Center,Government,Campaign,Political,Unknown,قم,unknown,میدان شهید مطهری,Public place,2012-08-12,No,2012-08-12,2012-08-12,1.0,success,gpt-4o-mini,,,,
+25648,1907623,تجمع جمعي از شهروندان در اعتراض به قطع احتمالي درختان شهران در برابر شهرداري تهران,,2012-08-14 11:45:49,سه‌شنبه ۲۴ مرداد ۱۳۹۱ - ۱۴:۱۵,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Deforestation,Local,شهران,City,Municipality/ city councils,Ordinary Citizens,Environmental,Unknown,تهران,medium group < 50,مقابل ساختمان شهرداری تهران,Municipality/ city councils,2012-08-14,No,,,1.0,success,gpt-4o-mini,,,,
+4782,1907050,برگزاري راهپيمايي روز جهاني قدس در 50 نقطه استان يزد,/بيداري اسلامي، نويدبخش آزادي قدس/,2012-08-15 10:08:43,چهارشنبه ۲۵ مرداد ۱۳۹۱ - ۱۴:۳۸,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,Unknown,Province Center,International Institution/Country,Formal religious group,Political,Progovernment,یزد,unknown,میدان شهید بهشتی,Public place,2012-08-15,No,2012-08-15,2012-08-15,1.0,success,gpt-4o-mini,,,,
+4816,1910672,برپايي مراسم راهپيمايي روز قدس در مشهد,,2012-08-17 07:57:57,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۲:۲۷,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,مشهد,"thousands, +1000",ميدان شهدا,Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4762,1906622,راهپيمايي روز جهاني قدس در مشهد,,2012-08-17 08:11:25,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۲:۴۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,مشهد,City,Government,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4819,1910699,راهپيمايي روز جهاني قدس در جزیره ابوموسی,,2012-08-17 09:11:13,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۴۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,City,Government,Unknown,Unknown,Unknown,جزیره ابوموسی,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4755,1906555,راهپيمايي روز جهاني قدس در بندرعباس,,2012-08-17 09:25:32,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۵۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,بندرعباس,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4756,1906556,راهپيمايي روز قدس در 121 نقطه شهري و روستايي استان مرکزی ,,2012-08-17 09:27:07,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۵۷,سرویس استان ها,"
+                        مرکزی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,اراک,unknown,میدان شهدا,Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4757,1906565,راهپيمايي روز جهاني قدس در همدان,,2012-08-17 09:39:08,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۴:۰۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,همدان,City,Unknown,Unknown,Unknown,Unknown,همدان,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25674,1906632,آغاز راهپیمایی روز جهانی قدس در کرمانشاه,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 09:42:31,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۲:۱۲,سرویس استان ها,"
+                        کرمانشاه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,کرمانشاه,unknown,مسجد جامع,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+4748,1906537,راهپيمايي روز جهاني قدس - اصفهان,,2012-08-17 10:13:34,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۴:۴۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,اصفهان,City,Unknown,Unknown,Unknown,Unknown,اصفهان,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4753,1906546,راهپيمايي روز جهاني قدس - قم,,2012-08-17 10:23:26,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۴:۵۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25676,1906588,برپايي راهپیمایی روز جهانی قدس در كرمان,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 10:25:17,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۲:۵۵,سرویس استان ها,"
+                        کرمان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,کرمان,"thousands, +1000",چهارراه طالقانی,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+4823,1910724,نماینده مردم رشت: حضور مردم در راهپيمايي روز قدس پررنگ از هميشه بود,/ بيداري اسلامي، نويد بخش آزادي قدس/ ,2012-08-17 10:41:44,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۵:۱۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,رشت,City,Government,Ordinary Citizens,Political,Unknown,رشت,unknown,Unknown,Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4742,1906509,راهپيمايي روز جهاني قدس - تهران,,2012-08-17 10:51:10,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۵:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4743,1906510,راهپيمايي روز جهاني قدس - اهواز,,2012-08-17 10:51:45,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۵:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,اهواز,City,Unknown,Unknown,Unknown,Unknown,اهواز,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25678,1906574,راهپیمایی روز جهانی قدس در بندرعباس,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 10:53:45,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۲۳,سرویس استان ها,"
+                        هرمزگان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,بندرعباس,"thousands, +1000",گلزار شهدا,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+25679,1906576,حضور پرشور مردم قم در راهپیمایی روز قدس,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 10:59:32,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۲۹,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,Unknown,City,International Institution/Country,Ordinary Citizens,Political,Unknown,قم,"thousands, +1000",میدان شهید مطهری,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+4746,1906515,راهپيمايي روز جهاني قدس - شیراز,,2012-08-17 11:04:56,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۵:۳۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,شیراز,City,Unknown,Unknown,Unknown,Unknown,شیراز,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25680,1910704,حضور پرشور مردم مازندران در راهپیمایی روز جهاني قدس,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 11:15:01,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۳:۴۵,سرویس استان ها,"
+                        مازندران
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,ساری,"thousands, +1000",میدان شهید قاسمی,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+4825,1910730,راهپيمايي روز جهاني قدس - تبریز,,2012-08-17 11:30:23,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۶:۰۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,تبریز,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25681,1910708,برپايي راهپیمایی باشكوه روز جهانی قدس در چهارمحال و بختياري,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 11:43:15,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۴:۱۳,سرویس استان ها,"
+                        چهارمحال و بختیاری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,شهركرد,"thousands, +1000",مصلی امام‌خميني(ره),Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+25682,1910714,حضور علما و مراجع عظام تقليد در راهپیمایی روز قدس,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 11:50:29,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۴:۲۰,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,قم,City,Government,Formal religious group,Religious,Unknown,قم,unknown,Unknown,Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4740,1906496,امام جمعه خرم آباد: راهپيمايي مسلمانان در روز قدس، استكبار جهاني را با چالش مواجه كرده است,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 11:56:20,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۶:۲۶,سرویس استان ها,"
+                        لرستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,Province Center,International Institution/Country,Formal religious group,Religious,Progovernment,خرم آباد,unknown,مقابل نماز جمعه,Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4741,1906499,راهپيمايي روز جهاني قدس - رشت,,2012-08-17 12:00:24,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۶:۳۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,رشت,City,Unknown,Unknown,Unknown,Unknown,رشت,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4826,1910738,امام‌جمعه همدان: راهپيمايي روز قدس باعث بيداري اسلامي شد,,2012-08-17 12:23:09,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۶:۵۳,سرویس استان ها,"
+                        همدان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,City,International Institution/Country,Ordinary Citizens,Political,Unknown,همدان,unknown,میدان امام(ره),Streets,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+4827,1910740,راهپيمايي روز جهاني قدس - تهران ,,2012-08-17 12:28:01,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۶:۵۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+25683,1910721,راهپیمایی باشكوه روز قدس در سراسر گیلان ,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 12:37:31,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۵:۰۷,سرویس استان ها,"
+                        گیلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,Province Center,International Institution/Country,Ordinary Citizens,Political,Progovernment,رشت,"thousands, +1000",مصلی امام‌خمینی(ره),Public place,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4739,1906485,برپايي راهپيمايي روز جهانی قدس در سیستان و بلوچستان ,/بيداري اسلامي، نويد بخش آزادي قدس/,2012-08-17 13:26:42,جمعه ۲۷ مرداد ۱۳۹۱ - ۱۷:۵۶,سرویس استان ها,"
+                        سیستان و بلوچستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,فلسطین,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,زاهدان,unknown,Unknown,Public place,2012-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+25687,1906449,تصاویر هوایی از راهپیمایی روز جهانی قدس در کرمان,,2012-08-17 19:15:30,جمعه ۲۷ مرداد ۱۳۹۱ - ۲۱:۴۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,کرمان,City,Unknown,Unknown,Unknown,Unknown,کرمان,unknown,Unknown,Unknown,2012-08-17,No,2012-08-17,2012-08-17,1.0,success,gpt-4o-mini,,,,
+4831,1911114,نامه جمعي از دانشجويان به اردوغان,,2012-08-21 06:36:45,سه‌شنبه ۳۱ مرداد ۱۳۹۱ - ۱۱:۰۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Political,N/A,Local,Unknown,City,International Institution/Country,Formal student group,Student Movement,Unknown,تبریز,unknown,Unknown,Unknown,2012-08-21,No,2012-08-21,2012-08-21,1.0,success,gpt-4o-mini,,,,
+25720,1905120,بيانيه پاياني تجمع كودكان ايراني مدافع كودكان سوريه,,2012-08-22 10:55:31,چهارشنبه ۱ شهریور ۱۳۹۱ - ۱۳:۲۵,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Children,N/A,Local,سوریه,City,International Institution/Country,Ordinary Citizens,Children's rights,Unknown,مقابل دفتر سازمان ملل,small group < 15,مقابل دفتر سازمان ملل,International office/ embassy,2012-08-22,No,2012-08-22,2012-08-22,1.0,success,gpt-4o-mini,,,,
+25721,1905124,تجمع جمعي از كودكان ايراني در مقابل سازمان ملل ,,2012-08-22 10:57:20,چهارشنبه ۱ شهریور ۱۳۹۱ - ۱۳:۲۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Children,N/A,Local,Unknown,Capital,Unknown,Unknown,Children's rights,Unknown,مقابل سازمان ملل,unknown,مقابل سازمان ملل,International office/ embassy,2012-08-22,No,2012-08-22,2012-08-22,1.0,success,gpt-4o-mini,,,,
+25886,1895100,تجمع جمعي از كارگزاران روستايي شركت مخابرات مقابل مجلس ,,2012-09-09 06:32:52,یکشنبه ۱۹ شهریور ۱۳۹۱ - ۰۹:۰۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,آذربایجان غربی,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-09-09,No,2012-09-09,2012-09-09,1.0,success,gpt-4o-mini,,,,
+25921,1893647,تجمع عزاداران امام جعفر صادق (ع) - مشهد,,2012-09-12 12:47:12,چهارشنبه ۲۲ شهریور ۱۳۹۱ - ۱۵:۱۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Religious,N/A,Local,مشهد,City,Unknown,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-09-12,No,2012-09-12,2012-09-12,1.0,success,gpt-4o-mini,,,,
+25923,1896125,دانشجويان در مقابل سفارت سوييس تجمع مي‌كنند,در اعتراض به فیلم توهین به پیامبر ؛,2012-09-12 15:51:39,چهارشنبه ۲۲ شهریور ۱۳۹۱ - ۱۸:۲۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,مقابل سفارت سويیس,unknown,مقابل سفارت سويیس,International office/ embassy,2012-09-12,No,2012-09-12,2012-09-12,1.0,success,gpt-4o-mini,,,,
+25925,1893561,تجمع صدها نفر از دانشجويان كشور در مقابل سفارت سوئيس ,در اعتراض به فیلم توهین به پیامبر  صورت گرفت؛,2012-09-13 10:32:37,پنجشنبه ۲۳ شهریور ۱۳۹۱ - ۱۳:۰۲,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,Mob < 1000,مقابل سفارت سوئیس,International office/ embassy,2012-09-13,No,,,1.0,success,gpt-4o-mini,,,,
+25926,1896157,گزارش ايسنا از تجمع دانشجويان مقابل سفارت سوييس در محكوميت توهين به مقدسات اسلام ,,2012-09-13 12:49:57,پنجشنبه ۲۳ شهریور ۱۳۹۱ - ۱۵:۱۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,Mob < 1000,مقابل سفارت سويیس,International office/ embassy,2012-09-13,No,2012-09-13,2012-09-13,1.0,success,gpt-4o-mini,,,,
+25929,1893518,تجمع دانشجويان مقابل سفارت سوييس در محكوميت توهين به پیامبر اسلام (ص),,2012-09-13 14:15:04,پنجشنبه ۲۳ شهریور ۱۳۹۱ - ۱۶:۴۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,مقابل سفارت سويیس,International office/ embassy,2012-09-13,No,2012-09-13,2012-09-13,1.0,success,gpt-4o-mini,,,,
+4696,1893268,گزارش ايسنا از راهپيمايي نمازگزاران تهراني در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص),,2012-09-14 09:58:02,جمعه ۲۴ شهریور ۱۳۹۱ - ۱۴:۲۸,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,National,Unknown,Capital,International Institution/Country,Prayers,Religious,Unknown,تهران,unknown,Unknown,Public place,2012-09-14,No,,,1.0,success,gpt-4o-mini,,,,
+4695,1893244,راهپيمايي نمازگزاران تهراني در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص),,2012-09-14 10:57:05,جمعه ۲۴ شهریور ۱۳۹۱ - ۱۵:۲۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-09-14,No,2012-09-14,2012-09-14,1.0,success,gpt-4o-mini,,,,
+4692,1893225,راهپيمايي نمازگزاران قمی در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص),,2012-09-14 12:38:16,جمعه ۲۴ شهریور ۱۳۹۱ - ۱۷:۰۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-09-14,No,2012-09-14,2012-09-14,1.0,success,gpt-4o-mini,,,,
+4693,1893230,راهپيمايي نمازگزاران کرمانی در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص),,2012-09-14 13:21:44,جمعه ۲۴ شهریور ۱۳۹۱ - ۱۷:۵۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,کرمانشاه,City,Unknown,Unknown,Unknown,Unknown,کرمانشاه,unknown,Unknown,Unknown,2012-09-14,No,2012-09-14,2012-09-14,1.0,success,gpt-4o-mini,,,,
+4694,1893233,راهپيمايي نمازگزاران گیلانی در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص),,2012-09-14 13:47:11,جمعه ۲۴ شهریور ۱۳۹۱ - ۱۸:۱۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,City,Government,Ordinary Citizens,Religious,Unknown,گیلان,unknown,Unknown,Unknown,2012-09-14,No,2012-09-14,2012-09-14,1.0,success,gpt-4o-mini,,,,
+25944,1896443,بیانیه انجمن اسلامی علوم پزشکی اصفهان در اعتراض به فیلم موهن علیه پیامبر(ص),,2012-09-15 09:22:53,شنبه ۲۵ شهریور ۱۳۹۱ - ۱۱:۵۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Religious,N/A,National,Unknown,City,International Institution/Country,Formal student group,Student Movement,Unknown,اصفهان,unknown,Unknown,Unknown,2012-09-15,No,2012-09-15,2012-09-15,1.0,success,gpt-4o-mini,,,,
+25946,1892962,تجمع بزرگ حوزويان در محكوميت اهانت به ساحت پيامبر(ص)برگزار مي‌شود,با تصميم جامعه مدرسين حوزه علميه قم,2012-09-15 09:43:19,شنبه ۲۵ شهریور ۱۳۹۱ - ۱۲:۱۳,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,Government,Formal religious group,Religious,Unknown,قم,unknown,مدرسه فیضیه قم,Public place,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25954,1896548,تجمع بزرگ حوزويان در محكوميت اهانت به ساحت پيامبر(ص)برگزار مي‌شود,ايرانيان همچنان توهين به ساحت پيامبر(ص) را محكوم مي‌كنند؛,2012-09-15 13:11:34,شنبه ۲۵ شهریور ۱۳۹۱ - ۱۵:۴۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,International Institution/Country,Formal religious group,Religious,Unknown,قم,unknown,مدرسه فیضیه قم,Public place,2012-09-15,No,2012-09-15,2012-09-15,1.0,success,gpt-4o-mini,,,,
+25957,1896563,بيانيه معاونت فرهنگي دانشگاه علامه طباطبايي در اعتراض به اهانت به ساحت پيامبر(ص) ,,2012-09-15 13:49:17,شنبه ۲۵ شهریور ۱۳۹۱ - ۱۶:۱۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2012-09-15,No,,,1.0,success,gpt-4o-mini,,,,
+25958,1892749,بیانیه جمعیت حامیان آزادی قدس شریف در محكوميت فیلم موهن درباره پیامبر (ص),,2012-09-15 15:14:49,شنبه ۲۵ شهریور ۱۳۹۱ - ۱۷:۴۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,Unknown,NA,International Institution/Country,Formal religious group,Religious,Unknown,Unknown,Unknown,Unknown,Unknown,2012-09-15,No,,,1.0,success,gpt-4o-mini,,,,
+25967,1892434,اعتراض به انتشار كتابي درباره‌ي احمد شاملو,,2012-09-16 11:20:50,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۳:۵۰,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Publishers,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25969,1892373,تجمع طلاب حوزه علمیه بیرجند در اعتراض به اهانت به ساحت پيامبر(ص),,2012-09-16 11:44:26,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۴:۱۴,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,بیرجند,City,International Institution/Country,Formal religious group,Religious,Unknown,بیرجند,medium group < 50,Unknown,Public place,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25971,1892329,دانشجويان علم‌و‌صنعت در اعتراض به توهين به پيامبر(ص) تجمع كردند,,2012-09-16 12:41:48,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۵:۱۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مسجد دانشگاه علم و صنعت,University campuses,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25972,1892274,تجمع روحانیون در محکومیت هتک حرمت حضرت پیامبر (ص) - قزوین,,2012-09-16 13:12:13,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۵:۴۲,سرویس استان ها,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قزوین,City,Unknown,Unknown,Unknown,Unknown,قزوین,unknown,Unknown,Unknown,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25973,1892286,طلاب مشهدي در تجمعي خواستار شدند: هتاكان پيامبر و كشيش آمريكائي اعدام گردند,,2012-09-16 13:18:32,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۵:۴۸,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,مشهد,City,International Institution/Country,Formal religious group,Religious,Unknown,مشهد,medium group < 50,مدرسه عالي نواب,Public place,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25974,1892290,تجمع طلاب در اعتراض به فیلم ضد اسلامی در مدرسه نواب - مشهد,,2012-09-16 13:21:44,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۵:۵۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,مشهد,City,Government,Student Movement,Student Movement,Unknown,مشهد,unknown,مدرسه نواب,Public place,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25976,1896858,بیانیه پایانی تظاهرات ضدامریکایی- صهیونیستی طلاب و روحانیون استان قزوین ,,2012-09-16 16:04:07,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۸:۳۴,سرویس استان ها,"
+                        قزوین
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Religious,N/A,Local,قزوین,Province Center,International Institution/Country,Formal religious group,Religious,Unknown,قزوین,unknown,Unknown,Unknown,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25977,1896861,تجمع طلاب و روحانیون قزوين در محکومیت اهانت به ساحت مقدس پیامبر اکرم(ص),,2012-09-16 16:12:58,یکشنبه ۲۶ شهریور ۱۳۹۱ - ۱۸:۴۲,سرویس استان ها,"
+                        قزوین
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قزوین,Province Center,International Institution/Country,Formal religious group,Religious,Unknown,قزوین,medium group < 50,مقابل مسجد شیخ الاسلام,Public place,2012-09-16,No,2012-09-16,2012-09-16,1.0,success,gpt-4o-mini,,,,
+25990,1887949,تجمع اعتراضي دانشگاهيان دانشگاه آزاد تهران مركز در اعتراض به فيلم موهن آغاز شد,,2012-09-17 10:11:38,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۲:۴۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل دانشکده هنر و معماری دانشگاه آزاد اسلامی واحد تهران مرکزی,University campuses,2012-09-17,No,2012-09-17,2012-09-17,1.0,success,gpt-4o-mini,,,,
+25991,1888290,تجمع دانشجويان دانشگاه اميركبير در اعتراض به ساخت فيلم موهن عليه پيامبر(ص) آغاز شد,,2012-09-17 11:13:32,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۳:۴۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,Government,Formal student group,Student Movement,Unknown,دانشگاه امیرکبیر,medium group < 50,حیاط دانشگاه امیرکبیر,University campuses,2012-09-17,No,,,1.0,success,gpt-4o-mini,,,,
+25994,1888312,دانشجويان دانشگاه خواجه نصير در اعتراض به اهانت به پيامبر(ص) تجمع كردند,,2012-09-17 12:16:43,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۴:۴۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,International Institution/Country,Formal student group,Student Movement,Unknown,دانشگاه خواجه‌نصیرالدین طوسی,medium group < 50,دانشکده برق دانشگاه خواجه‌نصیرالدین طوسی,University campuses,2012-09-17,No,2012-09-17,2012-09-17,1.0,success,gpt-4o-mini,,,,
+25997,1887839,تجمع دانشجويی در اعتراض به ساخت فيلم موهن عليه پيامبر اسلام (ص) ,,2012-09-17 12:39:41,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۵:۰۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Government,Formal student group,Student Movement,Unknown,Unknown,unknown,Unknown,Unknown,2012-09-17,No,2012-09-17,2012-09-17,1.0,success,gpt-4o-mini,,,,
+25998,1888322,دانشگاهيان دانشگاه آزاد تهران مركز در اعتراض به فيلم موهن تجمع كردند,,2012-09-17 12:42:47,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۵:۱۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,Large Group < 200,مقابل دانشکده هنر و معماری,University campuses,2012-09-17,No,,,1.0,success,gpt-4o-mini,,,,
+25999,1887806,دانشجويان دانشگاه اميركبير در اعتراض به اهانت به پيامبر(ص) تجمع كردند,,2012-09-17 12:52:14,دوشنبه ۲۷ شهریور ۱۳۹۱ - ۱۵:۲۲,سرویس سیاسی,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,International Institution/Country,Formal student group,Student Movement,Unknown,دانشگاه امیرکبیر,medium group < 50,مقابل مسجد دانشگاه امیرکبیر,University campuses,2012-09-17,No,,,1.0,success,gpt-4o-mini,,,,
+26011,1888591,تجمع دانشجويان صنعتي شريف در اعتراض به هتك حرمت پيامبر(ص),,2012-09-18 12:18:51,سه‌شنبه ۲۸ شهریور ۱۳۹۱ - ۱۴:۴۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,International Institution/Country,Formal student group,Student Movement,Unknown,دانشگاه صنعتی شریف,medium group < 50,مقابل مسجد دانشگاه صنعتی شریف,University campuses,2012-09-18,No,2012-09-18,2012-09-18,1.0,success,gpt-4o-mini,,,,
+26012,1887301,تجمع دانشجويان صنعتي شريف در اعتراض به هتك حرمت پيامبر(ص),,2012-09-18 12:36:25,سه‌شنبه ۲۸ شهریور ۱۳۹۱ - ۱۵:۰۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Government,Formal student group,Student Movement,Unknown,Unknown,unknown,Unknown,Unknown,2012-09-18,No,2012-09-18,2012-09-18,1.0,success,gpt-4o-mini,,,,
+26036,1886563,تجمع اعتراض‌آميز طلاب مدارس علميه تهران مقابل سفارت فرانسه آغاز شد,در اعتراض به اهانت‌هاي اخير به ساحت پيامبر(ص),2012-09-20 10:14:33,پنجشنبه ۳۰ شهریور ۱۳۹۱ - ۱۲:۴۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal religious group,Religious,Unknown,تهران,medium group < 50,مقابل سفارت فرانسه,International office/ embassy,2012-09-20,No,2012-09-20,2012-09-20,1.0,success,gpt-4o-mini,,,,
+26037,1888988, تجمع جامعه‌ قرآني كشور در اعتراض به هتك حرمت پيامبر (ص) ,در ميدان فلسطين برگزار شد:,2012-09-20 11:02:59,پنجشنبه ۳۰ شهریور ۱۳۹۱ - ۱۳:۳۲,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Other,Formal religious group,Religious,Unknown,ميدان فلسطين,medium group < 50,مسجد امام جعفر صادق (ع),Religious places,2012-09-20,No,,,1.0,success,gpt-4o-mini,,,,
+26038,1889001,بيانيه‌ پاياني تجمع جامعه‌ قرآني كشور در اعتراض به هتك حرمت به ساحت پيامبر اكرم(ص),,2012-09-20 12:16:51,پنجشنبه ۳۰ شهریور ۱۳۹۱ - ۱۴:۴۶,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,International Institution/Country,Formal religious group,Religious,Unknown,Unknown,unknown,Unknown,Public place,2012-09-20,No,2012-09-20,2012-09-20,1.0,success,gpt-4o-mini,,,,
+26039,1886531,تجمع اعتراض آمیز طلاب مدارس علمیه تهران مقابل سفارت فرانسه,,2012-09-20 12:29:09,پنجشنبه ۳۰ شهریور ۱۳۹۱ - ۱۴:۵۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,تهران,Capital,International Institution/Country,Unknown,Unknown,Unknown,مقابل سفارت فرانسه,unknown,مقابل سفارت فرانسه,International office/ embassy,2012-09-20,No,,,1.0,success,gpt-4o-mini,,,,
+26043,1886326,راه‌اندازي کمپین یک میلیون امضاء برای آزادی گروگان‌های ایرانی در لیبی,,2012-09-21 10:32:53,جمعه ۳۱ شهریور ۱۳۹۱ - ۱۲:۰۲,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Human rights,N/A,International,لیبی,International,International Institution/Country,NGO/Community,Human rights,Unknown,Unknown,unknown,Unknown,Unknown,2012-09-21,No,2012-09-21,2012-09-21,1.0,success,gpt-4o-mini,,,,
+26063,1889438,نشست اعتراض آمیز ۱۰ سينماگر به سياست‌هاي حوزه هنري,,2012-09-22 14:49:53,شنبه ۱ مهر ۱۳۹۱ - ۱۶:۱۹,سرویس عکس,,isna,Yes,No,,Protest,Unknown,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,Unknown,Government,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-09-22,No,2012-09-22,2012-09-22,1.0,success,gpt-4o-mini,,,,
+26064,1889454,بيانيه دانشجویان تجمع‌کننده در فرودگاه امام(ره),,2012-09-22 17:53:15,شنبه ۱ مهر ۱۳۹۱ - ۱۹:۲۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,Unknown,Capital,Judiciary,Formal student group,Student Movement,Unknown,فرودگاه امام خمینی(ره),unknown,فرودگاه امام خمینی(ره),Public place,2012-09-22,No,2012-09-22,2012-09-22,1.0,success,gpt-4o-mini,,,,
+26066,1885700, تجمع دانشجويان خواهان محاكمه «مهدي هاشمي» در فرودگاه امام (ره),,2012-09-22 20:48:29,شنبه ۱ مهر ۱۳۹۱ - ۲۲:۱۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Judiciary,Formal student group,Student Movement,Unknown,فرودگاه امام (ره),unknown,Unknown,Unknown,2012-09-22,No,2012-09-22,2012-09-22,1.0,success,gpt-4o-mini,,,,
+26090,1889683,تجمع اعتراض آمیز دانشجویان مقابل دفتر سازمان ملل - مشهد,,2012-09-23 14:29:48,یکشنبه ۲ مهر ۱۳۹۱ - ۱۵:۵۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,مشهد,City,International Institution/Country,Formal student group,Student Movement,Unknown,مشهد,unknown,مقابل دفتر سازمان ملل,In front of state buildings,2012-09-23,No,2012-09-23,2012-09-23,1.0,success,gpt-4o-mini,,,,
+26092,1885233,جمعي از دانشجويان در مقابل سفارت فرانسه تجمع كردند,در اعتراض به توهين به مقدسات اسلامي؛,2012-09-23 17:20:30,یکشنبه ۲ مهر ۱۳۹۱ - ۱۸:۵۰,سرویس سیاسی,"
+                        بیداری اسلامی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل سفارت فرانسه,International office/ embassy,2012-09-23,No,2012-09-23,2012-09-23,1.0,success,gpt-4o-mini,,,,
+26093,1885236,تجمع دانشجويان مقابل سفارت فرانسه,,2012-09-23 17:47:48,یکشنبه ۲ مهر ۱۳۹۱ - ۱۹:۱۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,unknown,مقابل سفارت فرانسه,International office/ embassy,2012-09-23,No,2012-09-23,2012-09-23,1.0,success,gpt-4o-mini,,,,
+26116,1890043,راهپيمايي دانشجويان دانشگاه علامه طباطبایی در اعتراض به هتک حرمت ساحت پیامبر اعظم(ص),,2012-09-25 08:26:55,سه‌شنبه ۴ مهر ۱۳۹۱ - ۰۹:۵۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,University,Government,Formal student group,Student Movement,Unknown,دانشگاه علامه طباطبایی,medium group < 50,مزار شهدای گمنام,University campuses,2012-09-25,No,2012-09-25,2012-09-25,1.0,success,gpt-4o-mini,,,,
+26151,1890544,تجمع صنفي تعدادي از دانشجويان دانشگاه فردوسي,,2012-09-26 16:18:18,چهارشنبه ۵ مهر ۱۳۹۱ - ۱۷:۴۸,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,مشهد,City,University Officials,Formal student group,Student Movement,Unknown,مقابل ساختمان امور دانشجویی,medium group < 50,مقابل ساختمان امور دانشجویی,University campuses,2012-09-26,No,2012-09-26,2012-09-26,1.0,success,gpt-4o-mini,,,,
+26164,1883424,تجمع 20 هزار نفري بسيجيان استان البرز آغاز شد,با حضور فرمانده كل سپاه,2012-09-28 08:02:25,جمعه ۷ مهر ۱۳۹۱ - ۰۹:۳۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Unknown,N/A,Local,البرز,Province Center,Unknown,Unknown,Unknown,Unknown,البرز,"thousands, +1000",Unknown,Unknown,2012-09-28,No,2012-09-28,2012-09-28,1.0,success,gpt-4o-mini,,,,
+26184,1883046,تجمع بزرگ علما، روحانيون و ائمه جماعات استان تهران در اعتراض به اهانت به پيامبر(ص),با حضور مهدوي‌كني انجام شد,2012-09-29 09:54:49,شنبه ۸ مهر ۱۳۹۱ - ۱۱:۲۴,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,Government,Formal religious group,Religious,Conservative,ميدان فلسطين,unknown,ميدان فلسطين,Public place,2012-09-29,No,,,1.0,success,gpt-4o-mini,,,,
+26185,1883032,رييسي در تجمع اعتراض‌آميز علما: اهانت به پيامبر(ص) هرگز قابل بخشش نيست,,2012-09-29 10:07:23,شنبه ۸ مهر ۱۳۹۱ - ۱۱:۳۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,International Institution/Country,Formal religious group,Religious,Progovernment,ميدان فلسطين,Large Group < 200,ميدان فلسطين,Public place,2012-09-29,No,2012-09-29,2012-09-29,1.0,success,gpt-4o-mini,,,,
+26188,1890938,تجمع بزرگ علما، روحانيون و ائمه جماعات استان تهران در اعتراض به اهانت به پيامبر(ص),,2012-09-29 10:59:42,شنبه ۸ مهر ۱۳۹۱ - ۱۲:۲۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,تهران,Province Center,Government,Formal religious group,Religious,Unknown,تهران,unknown,Unknown,Unknown,2012-09-29,No,2012-09-29,2012-09-29,1.0,success,gpt-4o-mini,,,,
+26198,1882665,تجمع اعتراضي دانشجويان دانشگاه آزاد به هتك حرمت پيامبر(ص),,2012-09-30 08:08:18,یکشنبه ۹ مهر ۱۳۹۱ - ۰۹:۳۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,مجتمع پیامبر اعظم (ص) واحد تهران مرکز دانشگاه آزاد,University campuses,2012-09-30,No,,,1.0,success,gpt-4o-mini,,,,
+26205,1891161,تجمع گسترده دانش‌آموزان و فرهنگيان در محكوميت اهانت به پيامبر(ص) ,,2012-09-30 09:50:43,یکشنبه ۹ مهر ۱۳۹۱ - ۱۱:۲۰,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,ميدان آزادی,Large Group < 200,مقابل برج آزادی,Public place,2012-09-30,No,2012-09-30,2012-09-30,1.0,success,gpt-4o-mini,,,,
+26208,1891205,تجمع گسترده دانش‌آموزان و فرهنگيان در محكوميت اهانت به پيامبر(ص),,2012-09-30 11:04:49,یکشنبه ۹ مهر ۱۳۹۱ - ۱۲:۳۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,Government,Unknown,Teachers,Unknown,Unknown,unknown,Unknown,Unknown,2012-09-30,No,2012-09-30,2012-09-30,1.0,success,gpt-4o-mini,,,,
+26211,1882406,حذف نام منافقين از ليست تروريست ها،نشان دهنده حمايت آمريكا از تروريسم است ,حسيني در گفت وگو با ايسنا:,2012-09-30 12:09:08,یکشنبه ۹ مهر ۱۳۹۱ - ۱۳:۳۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-09-30,No,2012-09-30,2012-09-30,1.0,success,gpt-4o-mini,,,,
+26217,1891362,تجمع دانشجویان و اساتید دانشگاه‌ آزاد فردا برگزار مي‌شود,در اعتراض به هتك حرمت پیامبر اعظم(ص),2012-10-01 07:59:17,دوشنبه ۱۰ مهر ۱۳۹۱ - ۰۹:۲۹,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,University Officials,Formal student group,Student Movement,Unknown,تهران,unknown,مجتمع پیامبر اعظم (ص) دانشگاه آزاد واحد تهران مرکزی,University campuses,2012-10-01,No,2012-10-01,2012-10-01,1.0,success,gpt-4o-mini,,,,
+26224,1881919,تجمع اعتراض‌آمیز اردبيليها در محکومیت اهانت به ساحت پیامبر(ص),,2012-10-01 12:16:24,دوشنبه ۱۰ مهر ۱۳۹۱ - ۱۳:۴۶,سرویس استان ها,"
+                        اردبیل
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,اردبیل,City,International Institution/Country,Diverse,Religious,Unknown,خیابان مصلی اردبیل,medium group < 50,خیابان مصلی اردبیل,Public place,2012-10-01,No,2012-10-01,2012-10-01,1.0,success,gpt-4o-mini,,,,
+26225,1881925,اعتراض يك تشكل دانشجويي به خروج منافقین از لیست سازمان های تروريستي,,2012-10-01 12:21:29,دوشنبه ۱۰ مهر ۱۳۹۱ - ۱۳:۵۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-10-01,No,2012-10-01,2012-10-01,1.0,success,gpt-4o-mini,,,,
+4663,1881804,راهپيمايي در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص) - سمنان,,2012-10-01 13:58:51,دوشنبه ۱۰ مهر ۱۳۹۱ - ۱۷:۲۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,سمنان,unknown,Unknown,Unknown,2012-10-01,No,2012-10-01,2012-10-01,1.0,success,gpt-4o-mini,,,,
+26240,1881573,تجمع سراسري تشكل‌هاي دانشگاه آزاد در محكوميت اهانت به پيامبر آغاز(ص) شد,,2012-10-02 09:22:44,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۰:۵۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,مجتمع پیامبر اعظم (ص) دانشگاه آزاد اسلامی,University campuses,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+26243,1881498,تجمع بانوان مسلمان در محكوميت اهانت به ساحت مقدس پيامبر (ص) ,,2012-10-02 10:23:26,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۱:۵۳,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal religious group,Religious,Progovernment,تهران,medium group < 50,ميدان فلسطين,Public place,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+26247,1881450,تجمع بانوان مسلمان در محكوميت اهانت به ساحت مقدس پيامبر (ص),,2012-10-02 11:10:44,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۲:۴۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,Unknown,Formal religious group,Religious,Unknown,میدان فلسطین,medium group < 50,میدان فلسطین,Public place,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+4662,1881328,راهپيمايي در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص) - کرمان,,2012-10-02 11:39:07,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۵:۰۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,کرمان,City,Unknown,Unknown,Unknown,Unknown,کرمان,unknown,Unknown,Unknown,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+26251,1891777,تجمع دانشگاهيان دانشگاه تهران در محكوميت اهانت به پيامبر(ص),,2012-10-02 12:27:32,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۳:۵۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مسجد دانشگاه تهران,University campuses,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+26252,1881300,تجمع عشایر خوزستان در اعتراض به هتک حرمت پیامبر(ص),,2012-10-02 14:03:18,سه‌شنبه ۱۱ مهر ۱۳۹۱ - ۱۵:۳۳,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,خوزستان,Province Center,International Institution/Country,Unknown,Religious,Unknown,اهواز,unknown,مصلای نماز جمعه,Public place,2012-10-02,No,2012-10-02,2012-10-02,1.0,success,gpt-4o-mini,,,,
+4688,1892009,راهپيمايي در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص) - مشهد,,2012-10-03 09:24:00,چهارشنبه ۱۲ مهر ۱۳۹۱ - ۱۲:۵۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-10-03,No,2012-10-03,2012-10-03,1.0,success,gpt-4o-mini,,,,
+4660,1880789,راهپيمايي در محكوميت توهين به ساحت مقدس پيامبر اسلام (ص) - سیرجان,,2012-10-03 13:17:28,چهارشنبه ۱۲ مهر ۱۳۹۱ - ۱۶:۴۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,سیرجان,unknown,Unknown,Unknown,2012-10-03,No,2012-10-03,2012-10-03,1.0,success,gpt-4o-mini,,,,
+26274,1880804,راهپيمايي مردم مشهد در اعتراض به اهانت به پيامبر اسلام(ص),,2012-10-03 14:53:54,چهارشنبه ۱۲ مهر ۱۳۹۱ - ۱۶:۲۳,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,مشهد,City,International Institution/Country,Ordinary Citizens,Religious,Unknown,مشهد,Large Group < 200,حرم مطهر رضوی,Religious places,2012-10-03,No,2012-10-03,2012-10-03,1.0,success,gpt-4o-mini,,,,
+26301,1877821,راهپیمایی اسدآبادی‌ها در دفاع از ساحت مقدس پیامبر اسلام,فردا انجام مي‌شود؛,2012-10-06 17:07:13,شنبه ۱۵ مهر ۱۳۹۱ - ۱۸:۳۷,سرویس استان ها,"
+                        همدان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,اسدآباد,Town,International Institution/Country,Formal religious group,Religious,Unknown,اسدآباد,unknown,مقابل دفتر امام جمعه,Public place,2012-10-07,No,2012-10-07,2012-10-07,1.0,success,gpt-4o-mini,,,,
+26309,1877503,تجمع جامعه مهندسين كشور برگزار شد,در اعتراض به اهانت به ساحت پيامبر اعظم (ص) ,2012-10-07 11:09:46,یکشنبه ۱۶ مهر ۱۳۹۱ - ۱۲:۳۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,National,Unknown,Capital,International Institution/Country,Unknown,Religious,Unknown,تهران,unknown,Unknown,Public place,2012-10-07,No,2012-10-07,2012-10-07,1.0,success,gpt-4o-mini,,,,
+26310,1879433,مردم همدان در اعتراض به ساخت فیلم توهین به پیامبر(ص) راهپيمايي كردند,,2012-10-07 12:30:48,یکشنبه ۱۶ مهر ۱۳۹۱ - ۱۴:۰۰,سرویس استان ها,"
+                        همدان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,همدان,Province Center,International Institution/Country,Ordinary Citizens,Religious,Unknown,همدان,Large Group < 200,میدان امامزاده عبدالله(ع),Public place,2012-10-07,No,2012-10-07,2012-10-07,1.0,success,gpt-4o-mini,,,,
+26323,1877062,تجمع حماسی فدائیان پیامبر اعظم (ص) برگزار می‌شود,,2012-10-08 11:24:29,دوشنبه ۱۷ مهر ۱۳۹۱ - ۱۲:۵۴,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,Province Center,International Institution/Country,Formal religious group,Religious,Unknown,قم,unknown,میدان آستانه,Public place,2012-10-08,No,2012-10-08,2012-10-08,1.0,success,gpt-4o-mini,,,,
+26327,1879763,اعتراض كانون كارگردانان خانه تئاتر به عملكرد شوراي حمايت,,2012-10-08 17:17:23,دوشنبه ۱۷ مهر ۱۳۹۱ - ۱۸:۴۷,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Ministries,Campaign,Cultural,Unknown,خانه تئاتر,unknown,خانه تئاتر,Public place,2012-10-08,No,2012-10-08,2012-10-08,1.0,success,gpt-4o-mini,,,,
+26342,1876412,تجمع اعتراض آميز دانشگاهيان دانشكده فني حرفه‌اي شريعتي به فيلم موهن پيامبر (ص),,2012-10-09 14:41:14,سه‌شنبه ۱۸ مهر ۱۳۹۱ - ۱۶:۱۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,تهران,City,Government,Formal student group,Student Movement,Unknown,تهران,Large Group < 200,مسجد رسول اکرم (ص) خانی آباد,Public place,2012-10-09,No,2012-10-09,2012-10-09,1.0,success,gpt-4o-mini,,,,
+26349,1876230,تجمع خانواده‌هاي شهداي ترور در اعتراض به حذف نام منافقين از ليست تروريستي امريكا,,2012-10-10 08:33:55,چهارشنبه ۱۹ مهر ۱۳۹۱ - ۱۰:۰۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Unknown,Unknown,تهران,medium group < 50,مقابل سفارت سوییس,International office/ embassy,2012-10-10,No,2012-10-10,2012-10-10,1.0,success,gpt-4o-mini,,,,
+26353,1876089,تجمع اعتراض‌آمیز خانواده‌های شهدای ترور با قرایت بیانیه‌ای پایان یافت,,2012-10-10 10:21:14,چهارشنبه ۱۹ مهر ۱۳۹۱ - ۱۱:۵۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Politics,Local,Unknown,Capital,International Institution/Country,Informal Group,Human rights,Unknown,تهران,Mob < 1000,مقابل سفارت سوییس,International office/ embassy,2012-10-10,No,,,1.0,success,gpt-4o-mini,,,,
+26356,1876037,راهپیمایی در محکومیت هتک حرمت حضرت محمد (ص) - قم,,2012-10-10 11:13:19,چهارشنبه ۱۹ مهر ۱۳۹۱ - ۱۲:۴۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Religious,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-10-10,No,2012-10-10,2012-10-10,1.0,success,gpt-4o-mini,,,,
+26357,1875985,تجمع خانواده‌هاي شهداي ترور در اعتراض به حذف نام منافقين از ليست تروريستي امريكا ,,2012-10-10 12:12:11,چهارشنبه ۱۹ مهر ۱۳۹۱ - ۱۳:۴۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Unknown,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-10-10,No,2012-10-10,2012-10-10,1.0,success,gpt-4o-mini,,,,
+26363,1875886,تجمع بزرگ فداییان پیامبر اعظم(ص) در قم برگزار شد,,2012-10-10 14:23:28,چهارشنبه ۱۹ مهر ۱۳۹۱ - ۱۵:۵۳,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,Province Center,International Institution/Country,Formal religious group,Religious,Unknown,قم,Large Group < 200,میدان آستانه حضرت معصومه(س),Public place,2012-10-10,No,,,1.0,success,gpt-4o-mini,,,,
+26400,1873551,اعتراض انترن‌های دانشگاه علوم پزشکی تهران نسبت به تعویض پاویون,,2012-10-14 14:23:10,یکشنبه ۲۳ مهر ۱۳۹۱ - ۱۵:۵۳,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,University,University Officials,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل بیمارستان امام خمینی,University campuses,2012-10-14,No,2012-10-14,2012-10-14,1.0,success,gpt-4o-mini,,,,
+26405,1872704,کرسی آزاداندیشی «تحریم، تسلیم یا مقاومت» در دانشگاه لرستان برگزار می‌شود,,2012-10-15 09:23:22,دوشنبه ۲۴ مهر ۱۳۹۱ - ۱۰:۵۳,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,لرستان,Province Center,Government,Formal student group,Student Movement,Unknown,لرستان,unknown,دانشکده اقتصاد,University campuses,2012-10-15,No,2012-10-15,2012-10-15,1.0,success,gpt-4o-mini,,,,
+26410,1872556,راهپیمایی اعتراض‌میز به هتک حرمت ساحت پیامبر(ص) در ساوجبلاغ,,2012-10-15 11:51:53,دوشنبه ۲۴ مهر ۱۳۹۱ - ۱۳:۲۱,سرویس استان ها,"
+                        البرز
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,Town,International Institution/Country,Campaign,Religious,Unknown,هشتگرد,unknown,میدان امام,Public place,2012-10-15,No,2012-10-15,2012-10-15,1.0,success,gpt-4o-mini,,,,
+26413,1873812,مردم شیروان طومار میثاق‌نامه با رهبر فرزانه انقلاب امضا کردند,,2012-10-15 13:38:12,دوشنبه ۲۴ مهر ۱۳۹۱ - ۱۵:۰۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Ritual,NO,Petitionning,طومار نویسی,Political,N/A,Local,شیروان,City,Supreme Leader,Ordinary Citizens,Political,Progovernment,شیروان,unknown,Unknown,Unknown,2012-10-15,No,2012-10-15,2012-10-15,1.0,success,gpt-4o-mini,,,,
+26431,1872053,طومار حمایت از پرس‌ تی‌وی در شبکه‌ اجتماعی ,,2012-10-16 11:24:47,سه‌شنبه ۲۵ مهر ۱۳۹۱ - ۱۲:۵۴,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,International,Unknown,Unknown,International Institution/Country,Online Community,Cultural,Unknown,Unknown,unknown,Unknown,Online,2012-10-16,No,2012-10-16,2012-10-16,1.0,success,gpt-4o-mini,,,,
+26449,1871735,تجمع اعتراض‌آمیز خانواده‌های شهدا و ایثارگران در دفاع از ساحت پیامبر اعظم(ص) ,,2012-10-17 08:27:28,چهارشنبه ۲۶ مهر ۱۳۹۱ - ۰۹:۵۷,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,Unknown,GONGO,Religious,Unknown,میدان فلسطین,unknown,میدان فلسطین,Public place,2012-10-17,No,2012-10-17,2012-10-17,1.0,success,gpt-4o-mini,,,,
+26453,1874248,دانشجویان با تجمع مقابل سفارت سوئد خواستار آزادی استاد ربانی شدند ,,2012-10-17 09:41:10,چهارشنبه ۲۶ مهر ۱۳۹۱ - ۱۱:۱۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,small group < 15,مقابل سفارت سوئد,International office/ embassy,2012-10-17,No,2012-10-17,2012-10-17,1.0,success,gpt-4o-mini,,,,
+26454,1871581,بیانیه بسیج در اعتراض به بستن برخی شبکه‌های ماهواره‌ای صداوسیما,,2012-10-17 10:46:39,چهارشنبه ۲۶ مهر ۱۳۹۱ - ۱۲:۱۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Politics,National,Unknown,NA,International Institution/Country,Formal religious group,Political,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-10-17,No,2012-10-17,2012-10-17,1.0,success,gpt-4o-mini,,,,
+26473,1874531,تشکل‌ها از طریق شبکه‌های مجازی به تحریم‌ها اعتراض کنند,آصفری پیشنهاد داد:,2012-10-19 08:08:56,جمعه ۲۸ مهر ۱۳۹۱ - ۰۹:۳۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,NA,International Institution/Country,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2012-10-19,No,2012-10-19,2012-10-19,1.0,success,gpt-4o-mini,,,,
+26476,1874596,بیانیه 21 انجمن اسلامی دانشجویان در اعتراض شدید نسبت به اقدام مدعیان دروغین,به دنبال قطع شبکه‌های برون مرزی صداو سیما؛,2012-10-19 10:23:27,جمعه ۲۸ مهر ۱۳۹۱ - ۱۱:۵۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,National,Unknown,NA,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,unknown,Unknown,Unknown,2012-10-19,No,,,1.0,success,gpt-4o-mini,,,,
+26498,1869900,«همایش سراسری گرامی‌داشت زنان شهیده ترور» برگزار می‌شود,,2012-10-20 09:40:39,شنبه ۲۹ مهر ۱۳۹۱ - ۱۱:۱۰,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,No,public assembly,تجمع / اجتماع,Women,N/A,National,Unknown,City,Unknown,GONGO,Women,Unknown,مشهد مقدس,unknown,Unknown,Unknown,2012-11-01,No,2012-11-01,2012-11-01,1.0,success,gpt-4o-mini,,,,
+26499,1869952,حال عمومی 2 مصدوم حادثه تروریستی چابهار مطلوب است,در پی انفجار انتحاری دیروز؛ ,2012-10-20 09:54:01,شنبه ۲۹ مهر ۱۳۹۱ - ۱۱:۲۴,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,bombing,بمب‌گذاری,Human rights,N/A,Local,چابهار,City,Government,Unknown,Unknown,Unknown,چابهار,unknown,نزدیکی مسجد امام حسین (ع),Public place,2012-10-20,No,2012-10-20,2012-10-20,1.0,success,gpt-4o-mini,,,,
+26507,1869991,بسیج مساجد و محلات، حادثه تروریستی چابهار را محکوم کرد,,2012-10-20 10:57:40,شنبه ۲۹ مهر ۱۳۹۱ - ۱۲:۲۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,چابهار,City,Government,Formal religious group,Political,Progovernment,چابهار,unknown,Unknown,Unknown,2012-10-20,No,,,1.0,success,gpt-4o-mini,,,,
+26508,1870002,بیانیه بسیج دانشجویی دانشگاه سیستان‌وبلوچستان در محکومیت اقدام تروریستی اخیر در چابهار,,2012-10-20 11:12:17,شنبه ۲۹ مهر ۱۳۹۱ - ۱۲:۴۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,چابهار,City,Government,Formal student group,Student Movement,Progovernment,چابهار,unknown,Unknown,Unknown,2012-10-20,No,2012-10-20,2012-10-20,1.0,success,gpt-4o-mini,,,,
+26533,1870269,سازمان بسیج دانشجویی کشور حادثه تروریستی چابهار را محکوم کرد ,,2012-10-21 10:22:46,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۱:۵۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,چابهار,City,International Institution/Country,Formal religious group,Political,Progovernment,چابهار,unknown,Unknown,Unknown,2012-10-21,No,,,1.0,success,gpt-4o-mini,,,,
+26536,1869314,بیانیه مجمع نمایندگان سیستان‌وبلوچستان در محکومیت اقدام تروریستی اخیر,,2012-10-21 10:44:47,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۲:۱۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,زاهدان,City,Government,Unknown,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2012-10-21,No,2012-10-21,2012-10-21,1.0,success,gpt-4o-mini,,,,
+26537,1870290,اعدام سه تن از عوامل گروهک تروریستی ریگی در زاهدان,,2012-10-21 10:57:12,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۲:۲۷,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,زاهدان,City,Judiciary,Unknown,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2012-10-21,No,,,1.0,success,gpt-4o-mini,,,,
+26538,1869304,تجمع‌ اعتراض‌آمیز جمعی از کارگران گروه صنعتی انتخاب مقابل سفارت کره‌جنوبی در تهران,,2012-10-21 11:10:25,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۲:۴۰,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,Local,کره‌جنوبی,Capital,International Institution/Country,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل سفارت جمهوری کره,International office/ embassy,2012-10-21,No,,,1.0,success,gpt-4o-mini,,,,
+26541,1869264,تجمع اعضای کانون‌های فرهنگی و هنری مساجد در اعتراض به هتک حرمت پیامبر(ص),,2012-10-21 11:54:34,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۳:۲۴,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Province Center,International Institution/Country,Formal religious group,Religious,Progovernment,مسجد پیامبر اعظم (ص) سعادت‌آباد,medium group < 50,مسجد پیامبر اعظم (ص),Religious places,2012-10-21,No,2012-10-21,2012-10-21,1.0,success,gpt-4o-mini,,,,
+26544,1869234,پیکر شهیدان حادثه تروریستی چابهار تشییع شد,,2012-10-21 12:49:27,یکشنبه ۳۰ مهر ۱۳۹۱ - ۱۴:۱۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Ritual,Ritual,No,public assembly,تجمع / اجتماع,Unknown,N/A,Local,چابهار,City,Unknown,Unknown,Unknown,Unknown,چابهار,unknown,Unknown,Unknown,2012-10-21,No,,,1.0,success,gpt-4o-mini,,,,
+26582,1867964,اعتراض جمعی از اعضای شورای شهر به برخی نامگذاری‌های پیشنهادی,,2012-10-23 11:21:26,سه‌شنبه ۲ آبان ۱۳۹۱ - ۱۲:۵۱,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Municipality/ city councils,Unknown,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2012-10-23,No,2012-10-23,2012-10-23,1.0,success,gpt-4o-mini,,,,
+26708,1863167,راهپیمایی در محکومیت توهین به ساحت مقدس پیامبر اسلام (ص) - قزوین,,2012-10-30 13:18:08,سه‌شنبه ۹ آبان ۱۳۹۱ - ۱۵:۴۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Religious,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,قزوین,unknown,Unknown,Unknown,2012-10-30,No,,,1.0,success,gpt-4o-mini,,,,
+26720,1862938,تشریح جزییات درگیری اخیر در مرز ایران و آذربایجان,مرزبانی ناجا اعلام کرد؛,2012-10-31 08:11:35,چهارشنبه ۱۰ آبان ۱۳۹۱ - ۱۰:۴۱,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,Unknown,armed attack,حمله/درگیری مسلحانه,International,N/A,International,آذربایجان,Unknown,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-10-31,No,2012-10-31,2012-10-31,1.0,success,gpt-4o-mini,,,,
+26745,1859020,تظاهرات یوم الله 13 آبان پایان یافت,,2012-11-02 09:37:20,جمعه ۱۲ آبان ۱۳۹۱ - ۱۲:۰۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,تهران,Capital,International Institution/Country,Diverse,Political,Unknown,تهران,unknown,مقابل لانه جاسوسی,Public place,2012-11-02,No,,,1.0,success,gpt-4o-mini,,,,
+26746,1859422,تظاهرات سراسری یوم الله سیزدهم آبان,,2012-11-02 10:04:11,جمعه ۱۲ آبان ۱۳۹۱ - ۱۲:۳۴,سرویس عکس,,isna,Yes,No,,Protest,Unknown,demonstration (legal and non-violent),تظاهرات,Unknown,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26747,1858995,تظاهرات سراسری یوم الله سیزدهم آبان,,2012-11-02 10:26:29,جمعه ۱۲ آبان ۱۳۹۱ - ۱۲:۵۶,سرویس عکس,,isna,Yes,No,,Protest,Unknown,Unknown,Unknown,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26748,1859008,تظاهرات سراسری یوم الله سیزدهم آبان,,2012-11-02 10:37:27,جمعه ۱۲ آبان ۱۳۹۱ - ۱۳:۰۷,سرویس عکس,,isna,Yes,No,,Protest,Unknown,public assembly,تجمع / اجتماع,Unknown,N/A,National,Unknown,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26749,1859436,تظاهرات سراسری یوم الله سیزدهم آبان,,2012-11-02 10:59:17,جمعه ۱۲ آبان ۱۳۹۱ - ۱۳:۲۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,demonstration (legal and non-violent),تظاهرات,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26751,1858971,تجمع نمازگزاران تهرانی در میدان فلسطین ,,2012-11-02 11:12:25,جمعه ۱۲ آبان ۱۳۹۱ - ۱۳:۴۲,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,تهران,Capital,International Institution/Country,Campaign,Political,Unknown,میدان فلسطین,medium group < 50,میدان فلسطین,Public place,2012-11-02,No,,,1.0,success,gpt-4o-mini,,,,
+26754,1859440,راهپیمایی سیزدهم آبان بعد از نماز جمعه,,2012-11-02 11:44:22,جمعه ۱۲ آبان ۱۳۹۱ - ۱۴:۱۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26755,1859447,راهپیمایی یوم‌الله 13 آبان در کرمانشاه برگزار شد,,2012-11-02 12:02:53,جمعه ۱۲ آبان ۱۳۹۱ - ۱۴:۳۲,سرویس استان ها,"
+                        کرمانشاه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,Local,کرمانشاه,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,کرمانشاه,unknown,مسجد جامع,Public place,2012-11-02,No,,,1.0,success,gpt-4o-mini,,,,
+26756,1858954,حضور پرشور مردم زنجان در راهپیمایی 13 آبان,,2012-11-02 12:24:06,جمعه ۱۲ آبان ۱۳۹۱ - ۱۴:۵۴,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,زنجان,City,International Institution/Country,Ordinary Citizens,Political,Progovernment,زنجان,unknown,میدان امام خمینی,Public place,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26757,1858964,راهپیمایی یوم‌الله 13 آبان در لرستان برگزار شد,,2012-11-02 12:42:47,جمعه ۱۲ آبان ۱۳۹۱ - ۱۵:۱۲,سرویس استان ها,"
+                        لرستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,لرستان,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,لرستان,unknown,Unknown,Public place,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26758,1858969,برگزاری راهپیمایی در شهرهای مختلف آذربایجان غربی,,2012-11-02 12:54:11,جمعه ۱۲ آبان ۱۳۹۱ - ۱۵:۲۴,سرویس استان ها,"
+                        آذربایجان غربی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,آذربایجان غربی,Province Center,Government,Ordinary Citizens,Student Movement,Unknown,ارومیه,Large Group < 200,مصلای ارومیه,Public place,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26759,1859459,راهپیمایی یوم‌الله 13 آبان در استان کهگیلویه و بویراحمد برگزار شد,همزمان با سراسر کشور؛,2012-11-02 13:25:21,جمعه ۱۲ آبان ۱۳۹۱ - ۱۵:۵۵,سرویس استان ها,"
+                        کهگیلویه و بویراحمد
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,کهگیلویه و بویراحمد,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,یاسوج,Large Group < 200,مصلای امام خمینی (ره),Public place,2012-11-02,No,,,1.0,success,gpt-4o-mini,,,,
+26761,1859468,راهپیمایی یوم‌الله 13 آبان در استان مرکزی برگزار شد,,2012-11-02 14:42:19,جمعه ۱۲ آبان ۱۳۹۱ - ۱۷:۱۲,سرویس استان ها,"
+                        مرکزی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,اراک,City,International Institution/Country,Ordinary Citizens,Political,Unknown,اراک,unknown,میدان سرداران,Public place,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26763,1858924,تظاهرات سراسری یوم الله سیزدهم آبان,,2012-11-02 16:51:10,جمعه ۱۲ آبان ۱۳۹۱ - ۱۹:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,demonstration (legal and non-violent),تظاهرات,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-11-02,No,2012-11-02,2012-11-02,1.0,success,gpt-4o-mini,,,,
+26776,1858703,توضیحات نماینده زاهدان درباره حادثه تیراندازی 2 موتورسوار به مردم این منطقه,,2012-11-03 11:49:58,شنبه ۱۳ آبان ۱۳۹۱ - ۱۴:۱۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Human rights,N/A,Local,زاهدان,City,Law Enforcement Force,Unknown,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2012-11-03,No,2012-11-03,2012-11-03,1.0,success,gpt-4o-mini,,,,
+26777,1858681,آخرین اخبار حادثه تیراندازی 2 موتورسوار به مردم زاهدان,,2012-11-03 13:00:43,شنبه ۱۳ آبان ۱۳۹۱ - ۱۵:۳۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Human rights,N/A,Local,زاهدان,City,Law Enforcement Force,Unknown,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2012-11-03,No,2012-11-03,2012-11-03,1.0,success,gpt-4o-mini,,,,
+26791,1858219,تیراندازی در زاهدان ربطی به مسائل امنیتی و مذهبی نداشته است,رییس کل دادگستری سیستان و بلوچستان در گفت‌وگو با ایسنا:,2012-11-04 12:53:59,یکشنبه ۱۴ آبان ۱۳۹۱ - ۱۵:۲۳,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Violent protests,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,زاهدان,City,Law Enforcement Force,Unknown,Unknown,Unknown,زاهدان,small group < 15,Unknown,Unknown,2012-11-04,No,,,1.0,success,gpt-4o-mini,,,,
+26793,1858050,انجمن محکومیت تحریم صنعت هوایی ایران راه‌اندازی شد,کاپیتان شهبازی خبر داد:,2012-11-05 06:52:52,دوشنبه ۱۵ آبان ۱۳۹۱ - ۰۹:۲۲,سرویس اقتصادی,"
+                        عمران و اشتغال
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,Unknown,International Institution/Country,Campaign,Economic/trade/business,Unknown,Unknown,unknown,Unknown,Unknown,2012-11-05,No,2012-11-05,2012-11-05,1.0,success,gpt-4o-mini,,,,
+26820,1857373,پاسخ اعتراض فرمانداری به مصوبه جلوگیری از ساخت‌وساز در عرصه‌های فضای سبز,,2012-11-06 09:40:20,سه‌شنبه ۱۶ آبان ۱۳۹۱ - ۱۲:۱۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,Local,تهران,Capital,Municipality/ city councils,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2012-11-06,No,,,1.0,success,gpt-4o-mini,,,,
+26886,1855671,تجمع جمعی از مردم بندر امام خمینی (ره) مقابل مجلس,,2012-11-11 07:30:40,یکشنبه ۲۱ آبان ۱۳۹۱ - ۱۰:۰۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,بندر امام خمینی(ره),City,Parliament,Ordinary Citizens,Unknown,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-11-11,No,,,1.0,success,gpt-4o-mini,,,,
+26891,1855542, تجمع مردمی مقابل نهاد ریاست جمهوری در حمایت از تولید ملی و کار و سرمایه‌ ایرانی ,,2012-11-11 09:24:59,یکشنبه ۲۱ آبان ۱۳۹۱ - ۱۱:۵۴,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Economic/trade/business,Unknown,مقابل نهاد ریاست جمهوری,Large Group < 200,مقابل نهاد ریاست جمهوری,In front of state buildings,2012-11-11,No,,,1.0,success,gpt-4o-mini,,,,
+26912,1861715, تجمع کارگران شرکت صنعتی انتخاب در مقابل سفارت کره‌ی جنوبی برگزار شد ,,2012-11-12 09:21:38,دوشنبه ۲۲ آبان ۱۳۹۱ - ۱۱:۵۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,Local,کره‌ی جنوبی,Capital,Private Companies/organizations,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل سفارت کره‌ی جنوبی,International office/ embassy,2012-11-12,No,2012-11-12,2012-11-12,1.0,success,gpt-4o-mini,,,,
+26919,1854676,تجمع کارگران نساجی مازندران مقابل مجلس,,2012-11-13 06:54:21,سه‌شنبه ۲۳ آبان ۱۳۹۱ - ۰۹:۲۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,مازندران,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2012-11-13,No,,,1.0,success,gpt-4o-mini,,,,
+26964,1862449,برگزاری 10 تجمع بزرگ عاشورایی با حضور بیش از 15 هزار دانش‌آموز در شبکه آموزش,,2012-11-14 12:16:55,چهارشنبه ۲۴ آبان ۱۳۹۱ - ۱۴:۴۶,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,City,Unknown,Formal student group,Cultural,Unknown,تهران,"thousands, +1000",استودیوی پخش شبکه آموزش,Public place,2012-11-14,No,2012-11-14,2012-11-14,1.0,success,gpt-4o-mini,,,,
+26970,1853563,برگزاری اولین گردهمایی فعالان حوزه جهادی,مدیرکل مشارکت‌های اجتماعی جوانان وزارت جوانان خبر داد:,2012-11-15 09:29:55,پنجشنبه ۲۵ آبان ۱۳۹۱ - ۱۱:۵۹,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Social,N/A,Local,ایلام,Province Center,Government,NGO/Community,Social,Unknown,ایلام,Large Group < 200,Unknown,Public place,2012-11-15,Yes,2012-11-15,2012-11-16,2.0,success,gpt-4o-mini,1.0,1853563.0,Yes,a58a93c0ea8162e24ad8ec7f74457d5f
+26970,1853563,برگزاری اولین گردهمایی فعالان حوزه جهادی,مدیرکل مشارکت‌های اجتماعی جوانان وزارت جوانان خبر داد:,2012-11-15 09:29:55,پنجشنبه ۲۵ آبان ۱۳۹۱ - ۱۱:۵۹,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,Unknown,,,,,,,success,gpt-4o-mini,2.0,1853563.0,Yes,a58a93c0ea8162e24ad8ec7f74457d5f
+26973,1850295,ایرانیان در محکومیت تجاوز رژیم صهیونیستی بعد از نماز جمعه تظاهرات می‌کنند,شورای هماهنگی تبلیغات اسلامی اعلام کرد ,2012-11-15 15:38:34,پنجشنبه ۲۵ آبان ۱۳۹۱ - ۱۸:۰۸,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,demonstration (legal and non-violent),تظاهرات,International,Intl_Palestine-Israel,National,فلسطین,National,International Institution/Country,Campaign,Political,Unknown,تهران,"thousands, +1000",میدان فلسطین,Public place,2012-11-15,No,,,1.0,success,gpt-4o-mini,,,,
+26974,1850403,راهپیمایی ضد صهیونیستی مردم ایران پس از نماز جمعه برگزار می‌شود, در تهران و بیش از 700 شهر کشور؛,2012-11-16 07:14:06,جمعه ۲۶ آبان ۱۳۹۱ - ۰۹:۴۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,غزه,Capital,International Institution/Country,Campaign,Human rights,Unknown,تهران,"thousands, +1000",دانشگاه تهران,Public place,2012-11-16,No,,,1.0,success,gpt-4o-mini,,,,
+26976,1850177,دستگیری عناصر تروریست وابسته به سرویس‌های اطلاعاتی بیگانه,,2012-11-16 08:07:09,جمعه ۲۶ آبان ۱۳۹۱ - ۱۰:۳۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,bombing,بمب‌گذاری,Security,N/A,National,خوزستان,Province Center,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-11-16,No,2012-11-16,2012-11-16,1.0,success,gpt-4o-mini,,,,
+26980,1850019,مردم تهران بر ضد رژیم صهیونیستی راهپیمایی کردند,همزمان با 700 نقطه دیگر ایران اسلامی برگزار شد؛,2012-11-16 11:30:52,جمعه ۲۶ آبان ۱۳۹۱ - ۱۴:۰۰,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,غزه,Capital,International Institution/Country,Ordinary Citizens,Political,Unknown,تهران,"thousands, +1000",میدان فلسطین,Public place,2012-11-16,No,,,1.0,success,gpt-4o-mini,,,,
+26982,1850014,راهپیمایی ضد صهیونیستی در قم,,2012-11-16 11:43:55,جمعه ۲۶ آبان ۱۳۹۱ - ۱۴:۱۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,قم,City,International Institution/Country,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-11-16,No,2012-11-16,2012-11-16,1.0,success,gpt-4o-mini,,,,
+26984,1849999,تظاهرات نمازگزارن جمعه در اعتراض به کشتار مردم غزه,,2012-11-16 12:10:07,جمعه ۲۶ آبان ۱۳۹۱ - ۱۴:۴۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,Local,غزه,City,International Institution/Country,Ordinary Citizens,Political,Unknown,Unknown,unknown,Unknown,Unknown,2012-11-16,No,,,1.0,success,gpt-4o-mini,,,,
+26987,1850566,مردم قزوین با شرکت در راهپیمایی جنایت‌های رژیم صهیونیستی را محکوم کردند,,2012-11-16 13:02:56,جمعه ۲۶ آبان ۱۳۹۱ - ۱۵:۳۲,سرویس استان ها,"
+                        قزوین
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,غزه,City,International Institution/Country,Ordinary Citizens,Political,Unknown,قزوین,unknown,مسجدالنبی,Public place,2012-11-16,No,,,1.0,success,gpt-4o-mini,,,,
+26988,1849977,راهپیمایی مردم کرمان در اعتراض به جنایات رژیم صهیونیستی در غزه,/همزمان با سراسر کشور/,2012-11-16 13:05:03,جمعه ۲۶ آبان ۱۳۹۱ - ۱۵:۳۵,سرویس استان ها,"
+                        کرمان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,کرمان,Large Group < 200,مقابل نماز جمعه,Public place,2012-11-16,No,2012-11-16,2012-11-16,1.0,success,gpt-4o-mini,,,,
+27010,1849431,تجمع جمعی از کارگزاران مخابرات روستایی مقابل مجلس,,2012-11-18 06:59:51,یکشنبه ۲۸ آبان ۱۳۹۱ - ۰۹:۲۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-11-18,No,2012-11-18,2012-11-18,1.0,success,gpt-4o-mini,,,,
+27037,1851348,دانشجویان دانشگاه امیرکبیر تجمع برگزار کردند,در اعتراض به حملات اخیر رژیم صهیونیستی به غزه,2012-11-19 10:17:25,دوشنبه ۲۹ آبان ۱۳۹۱ - ۱۲:۴۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,Local,غزه,City,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مسجد دانشگاه,University campuses,2012-11-19,No,,,1.0,success,gpt-4o-mini,,,,
+27056,1848292,تجمع سینماگران در اعتراض به سی‌دی قاچاق و مطالبات‌شان لغو شد,,2012-11-20 09:02:06,سه‌شنبه ۳۰ آبان ۱۳۹۱ - ۱۱:۳۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Ministries,Campaign,Cultural,Unknown,Unknown,medium group <50,وزارت ارشاد,In front of state buildings,2012-11-20,No,,,1.0,success,gpt-4o-mini,,,,
+27089,1851954,تظاهرات نمایندگان مجلس در دفاع از مردم مظلوم غزه,,2012-11-21 11:01:29,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۳:۳۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,National,غزه,Unknown,International Institution/Country,Unknown,Unknown,Unknown,تهران,unknown,مقابل مجلس شورای اسلامی,In front of state buildings,2012-11-21,No,,,1.0,success,gpt-4o-mini,,,,
+27092,1847643,تجمع و عزاداری دانش آموزان در میدان امام حسین(ع),,2012-11-21 11:38:59,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۴:۰۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,City,Government,Formal student group,Student Movement,Unknown,میدان امام حسین(ع),unknown,میدان امام حسین(ع),Public place,2012-11-21,No,2012-11-21,2012-11-21,1.0,success,gpt-4o-mini,,,,
+27095,1847606,اعتراض شدید احزاب و شخصیت‌های آذربایجانی به تجاوز اسراییل به غزه,,2012-11-21 12:31:04,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۵:۰۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Palestine-Israel,National,غزه,NA,International Institution/Country,Political Org./Party,Political,Unknown,باکو,unknown,مسجد جمعه ایچری,Religious places,2012-11-21,No,,,1.0,success,gpt-4o-mini,,,,
+27096,1852004,تجمع هیأت‌های دانشجویی دانشگاه تهران,,2012-11-21 12:42:18,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۵:۱۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Unknown,تهران,unknown,Unknown,Unknown,2012-11-21,No,2012-11-21,2012-11-21,1.0,success,gpt-4o-mini,,,,
+27099,1847573,تجمع دانشجویان و طلاب در حمایت از طرح امنیت‌اخلاقی ناجا ,,2012-11-21 13:28:15,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۵:۵۸,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Social,N/A,Local,تهران,Capital,Law Enforcement Force,Formal student group,Student Movement,Progovernment,مقابل ستاد فرماندهی نیروی انتظامی,medium group < 50,مقابل ستاد فرماندهی نیروی انتظامی,Public place,2012-11-21,No,2012-11-21,2012-11-21,1.0,success,gpt-4o-mini,,,,
+27102,1852039,تجمع طلاب مقابل مقر نیروی انتظامی در اعتراض به بدحجابی,,2012-11-21 15:18:35,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۷:۴۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Women,Wo_Hijab,Local,Unknown,City,Law Enforcement Force,Student Movement,Student Movement,Unknown,مقابل نیروی انتظامی,unknown,مقابل نیروی انتظامی,In front of state buildings,2012-11-21,No,,,1.0,success,gpt-4o-mini,,,,
+27103,1847505,تجمع دانشجویان و اساتید دانشگاه تبریز در محکومیت جنایات صهیونیست‌ها درغزه,,2012-11-21 16:20:13,چهارشنبه ۱ آذر ۱۳۹۱ - ۱۸:۵۰,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,Local,غزه,City,International Institution/Country,Formal student group,Student Movement,Unknown,تبریز,medium group <50,Unknown,University campuses,2012-11-21,No,2012-11-21,2012-11-21,1.0,success,gpt-4o-mini,,,,
+27107,1852111,تجمع بزرگ عزاداران قزوین در روز تاسوعا,,2012-11-22 10:31:39,پنجشنبه ۲ آذر ۱۳۹۱ - ۱۳:۰۱,سرویس استان ها,"
+                        قزوین
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قزوین,City,Unknown,Formal religious group,Religious,Unknown,خیابان سپه,Large Group < 200,امام‌زاده اسماعیل(ع),Public place,2012-11-22,Yes,2012-11-22,2012-11-23,2.0,success,gpt-4o-mini,1.0,1852111.0,Yes,77905b672ec4a7438d3180fbcdf693e3
+27107,1852111,تجمع بزرگ عزاداران قزوین در روز تاسوعا,,2012-11-22 10:31:39,پنجشنبه ۲ آذر ۱۳۹۱ - ۱۳:۰۱,سرویس استان ها,"
+                        قزوین
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,امام‌زاده اسماعیل(ع),,,,,,,success,gpt-4o-mini,2.0,1852111.0,Yes,77905b672ec4a7438d3180fbcdf693e3
+27139,1846970,تجمع بزرگ بسیجیان در قم برگزار شد,همزمان با عاشورای حسینی,2012-11-25 09:27:07,یکشنبه ۵ آذر ۱۳۹۱ - ۱۱:۵۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,Unknown,Formal religious group,Religious,Unknown,مسجد امام حسن عسگری (ع),Large Group < 200,حرم مطهر حضرت معصومه (س),Religious places,2012-11-25,No,,,1.0,success,gpt-4o-mini,,,,
+27157,1852639,برپایی راهپیمایی پرشور حجاب با حضور هزاران زن تهرانی در میدان امام حسین (ع),,2012-11-26 13:36:14,دوشنبه ۶ آذر ۱۳۹۱ - ۱۶:۰۶,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Women,Wo_Hijab,Local,تهران,Capital,Government,Unknown,Women,Unknown,میدان امام حسین (ع),"thousands, +1000",میدان امام حسین (ع),Public place,2012-11-26,No,2012-11-26,2012-11-26,1.0,success,gpt-4o-mini,,,,
+27223,1841956,تجمع همزمان انصار حزب‌الله، سینماگران و خبرنگاران در مقابل وزارت ارشاد ,,2012-12-01 09:18:39,شنبه ۱۱ آذر ۱۳۹۱ - ۱۱:۴۸,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,Capital,Government,Informal Group,Cultural,Conservative,مقابل وزارت فرهنگ و ارشاد اسلامی,Large Group < 200,مقابل وزارت فرهنگ و ارشاد اسلامی,In front of state buildings,2012-12-01,No,,,1.0,success,gpt-4o-mini,,,,
+27226,1841908,پاسخ وزیر ارشاد به برخی اعتراض‌ها مقابل وزارتخانه‌اش ,,2012-12-01 10:11:44,شنبه ۱۱ آذر ۱۳۹۱ - ۱۲:۴۱,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,کرمانشاه,Province Center,Ministries,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-12-01,No,,,1.0,success,gpt-4o-mini,,,,
+27230,1842107,تجمع همزمان انصار حزب‌الله، سینماگران و خبرنگاران در مقابل وزارت ارشاد,,2012-12-01 12:03:14,شنبه ۱۱ آذر ۱۳۹۱ - ۱۴:۳۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,Capital,Government,Unknown,Journalists,Unknown,مقابل وزارت ارشاد,unknown,مقابل وزارت ارشاد,In front of state buildings,2012-12-01,No,2012-12-01,2012-12-01,1.0,success,gpt-4o-mini,,,,
+27231,1841813,گزارش ایسنا از ابتدا تا انتهای تحصن انصار حزب‌الله در مقابل وزارت ارشاد,,2012-12-01 12:05:23,شنبه ۱۱ آذر ۱۳۹۱ - ۱۴:۳۵,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Cultural,N/A,Local,Unknown,Capital,Ministries,Informal Group,Cultural,Conservative,مقابل وزارت فرهنگ و ارشاد اسلامی,Mob < 1000,مقابل وزارت فرهنگ و ارشاد اسلامی,In front of state buildings,2012-12-01,No,,,1.0,success,gpt-4o-mini,,,,
+27247,1841523,تجمع صنفی موسسات ویدئو رسانه به تعویق افتاد,به درخواست وزارت ارشاد،,2012-12-02 08:37:22,یکشنبه ۱۲ آذر ۱۳۹۱ - ۱۱:۰۷,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Capital,Ministries,Labour Union,Cultural,Unknown,مقابل وزارت فرهنگ و ارشاد اسلامی,unknown,مقابل سازمان سینمایی,In front of state buildings,2012-12-02,No,,,1.0,success,gpt-4o-mini,,,,
+27266,1842548,راهپیمایی کانون‌های دانشجویی دانشگاه تهران در روز 16 آذر,,2012-12-03 07:18:10,دوشنبه ۱۳ آذر ۱۳۹۱ - ۰۹:۴۸,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Student/university,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Unknown,مقابل مزار شهدای دانشگاه,unknown,مقابل مزار شهدای دانشگاه,University campuses,2012-12-03,No,,,1.0,success,gpt-4o-mini,,,,
+27277,1840872,تجمع جمعی از ورزشکاران نابینا مقابل وزارت ورزش/ سجادی،ساکی‌زاده و رمضان‌پور در جمع معترضین,,2012-12-03 10:39:04,دوشنبه ۱۳ آذر ۱۳۹۱ - ۱۳:۰۹,سرویس ورزشی,"
+                        سایر ورزش‌ها
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Disability,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Disability rights,Unknown,تهران,medium group < 50,مقابل وزارت ورزش و جوانان,In front of state buildings,2012-12-03,No,,,1.0,success,gpt-4o-mini,,,,
+27280,1842699,آجورلو در جمع تجمع‌کنندگان: برای ابراز گلایه از اهانت به جانبازی باتقوا و نخبه شرکت کردم,,2012-12-03 11:08:55,دوشنبه ۱۳ آذر ۱۳۹۱ - ۱۳:۳۸,سرویس ورزشی,"
+                        سایر ورزش‌ها
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Disability,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Disability rights,Unknown,مقابل وزارتخانه,unknown,مقابل وزارتخانه,In front of state buildings,2012-12-03,No,2012-12-03,2012-12-03,1.0,success,gpt-4o-mini,,,,
+27281,1840844,تجمع ورزشکاران نابینا مقابل وزارت ورزش/ معترضان: به ما گفتند کیک و ساندیس نمی‌دهیم!,,2012-12-03 11:27:23,دوشنبه ۱۳ آذر ۱۳۹۱ - ۱۳:۵۷,سرویس ورزشی,"
+                        سایر ورزش‌ها
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Disability,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Disability rights,Unknown,مقابل وزارت ورزش و جوانان,medium group < 50,مقابل وزارت ورزش و جوانان,In front of state buildings,2012-12-03,No,2012-12-03,2012-12-03,1.0,success,gpt-4o-mini,,,,
+27293,1840539, تجمع کارگران نساجی مازندران مقابل مجلس,,2012-12-04 08:20:26,سه‌شنبه ۱۴ آذر ۱۳۹۱ - ۱۰:۵۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,قائمشهر,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-12-04,No,,,1.0,success,gpt-4o-mini,,,,
+27294,1840517,دانشجویان در اعتراض به اصلاح قانون انتخابات تجمع کردند,صبح امروز در مقابل ساختمان مجلس,2012-12-04 08:36:21,سه‌شنبه ۱۴ آذر ۱۳۹۱ - ۱۱:۰۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Parliament,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2012-12-04,No,2012-12-04,2012-12-04,1.0,success,gpt-4o-mini,,,,
+27321,1843220,تجمع هواداران معترض مقابل باشگاه سپاهان در شب قهرمانی نیم فصل,,2012-12-05 13:31:19,چهارشنبه ۱۵ آذر ۱۳۹۱ - ۱۶:۰۱,سرویس ورزشی,"
+                        فوتبال، فوتسال
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Football management,N/A,Local,اصفهان,City,Football Club Management,Ordinary Citizens,Sports,Unknown,مقابل باشگاه سپاهان,small group < 15,مقابل باشگاه سپاهان,In front of private companies,2012-12-05,No,2012-12-05,2012-12-05,1.0,success,gpt-4o-mini,,,,
+27341,1839496,دستگیری عامل تیراندازی در بوشهر,,2012-12-08 06:27:59,شنبه ۱۸ آذر ۱۳۹۱ - ۰۸:۵۷,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,,,Violence,N/A,Local,آبدان‌دیر,Town,Law Enforcement Force,Unknown,Unknown,Unknown,آبدان‌دیر,unknown,Unknown,Unknown,2012-12-08,No,,,1.0,success,gpt-4o-mini,,,,
+27377,1838529,تجمع هواداران سپاهان مقابل باشگاه/ پرتاب‌کننده ترقه شناسایی و دستگیر شد,,2012-12-09 16:47:44,یکشنبه ۱۹ آذر ۱۳۹۱ - ۱۹:۱۷,سرویس ورزشی,"
+                        فوتبال، فوتسال
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Sports,N/A,Local,اصفهان,City,Football Club Management,Ordinary Citizens,Sports,Unknown,باشگاه سپاهان,medium group < 50,مقابل درب اصلی باشگاه سپاهان,Public place,2012-12-09,No,2012-12-09,2012-12-09,1.0,success,gpt-4o-mini,,,,
+27430,1836811,بیانیه کمپین دفاع از حقوق ایرانیان خارج از کشور در حمایت از «دکتر عطاردی»,,2012-12-12 11:16:28,چهارشنبه ۲۲ آذر ۱۳۹۱ - ۱۳:۴۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,International,Unknown,Unknown,Government,Campaign,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2012-12-12,No,2012-12-12,2012-12-12,1.0,success,gpt-4o-mini,,,,
+27475,1834030,"بیانیه کمپین دفاع از حقوق ایرانیان خارج ازکشور در حمایت از \عطاردی\""""",,2012-12-15 13:35:06,شنبه ۲۵ آذر ۱۳۹۱ - ۱۶:۰۵,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,Local,Unknown,City,International Institution/Country,Campaign,Human rights,Unknown,خانه هنرمندان,unknown,خانه هنرمندان,Public place,2012-12-15,No,2012-12-15,2012-12-15,1.0,success,gpt-4o-mini,,,,
+27478,1834073,تحصن صنفی یک دانشگاه غیرانتفاعی و پاسخ مسئولان,,2012-12-15 16:42:52,شنبه ۲۵ آذر ۱۳۹۱ - ۱۹:۱۲,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,دماوند,City,University Officials,Formal student group,Student Movement,Unknown,دماوند,medium group < 50,جلوی ساختمان شماره یک دانشگاه,University campuses,2012-12-15,No,2012-12-15,2012-12-15,1.0,success,gpt-4o-mini,,,,
+27523,1834830,تجمع تعدادی از کارگران در مقابل مجلس در اعتراض به لایحه اصلاح قانون کار ,,2012-12-18 08:52:24,سه‌شنبه ۲۸ آذر ۱۳۹۱ - ۱۱:۲۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-12-18,No,2012-12-18,2012-12-18,1.0,success,gpt-4o-mini,,,,
+27531,1834908,نامه‌ی سازندگان شش فیلم تحریمی به مدیر حوزه هنری ,,2012-12-18 10:46:22,سه‌شنبه ۲۸ آذر ۱۳۹۱ - ۱۳:۱۶,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Ministries,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-12-18,No,2012-12-18,2012-12-18,1.0,success,gpt-4o-mini,,,,
+27556,1835347,طومار حمایت از مجتبی عطاردی به امضای مردم رسید,توسط کمپین دفاع از حقوق ایرانیان خارج از کشور؛,2012-12-19 15:58:32,چهارشنبه ۲۹ آذر ۱۳۹۱ - ۱۸:۲۸,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Ritual,NO,Petitionning,طومار نویسی,Human rights,N/A,Local,Unknown,City,Government,Campaign,Human rights,Unknown,خانه هنرمندان,medium group < 50,خانه هنرمندان,Public place,2012-12-19,No,2012-12-19,2012-12-19,1.0,success,gpt-4o-mini,,,,
+27656,1828388,طومار اعتراضی سمیرمی‌ها به معاون وزیر ارتباطات تحویل داده شد,عمرانی به ایسنا خبر داد:,2012-12-26 08:21:21,چهارشنبه ۶ دی ۱۳۹۱ - ۱۰:۵۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Telecommunications services,N/A,Local,حنا,Town,Ministries,Ordinary Citizens,N/A,Unknown,سمیرم,unknown,Unknown,Unknown,2012-12-26,No,2012-12-26,2012-12-26,1.0,success,gpt-4o-mini,,,,
+27691,1826917,راهپیمایی نمازگزاران تهرانی به مناسبت 9 دی,,2012-12-28 11:35:15,جمعه ۸ دی ۱۳۹۱ - ۱۴:۰۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,تهران,Capital,Supreme Leader,Ordinary Citizens,Political,Progovernment,تهران,medium group < 50,مصلای دانشگاه تهران,Public place,2012-12-28,No,,,1.0,success,gpt-4o-mini,,,,
+27700,1826301,تجمع عظیم مردم قم در گرامیداشت حماسه 9 دی برگزار شد,,2012-12-29 11:11:36,شنبه ۹ دی ۱۳۹۱ - ۱۳:۴۱,سرویس استان ها,"
+                        قم
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,قم,City,Government,Formal religious group,Religious,Progovernment,قم,"thousands, +1000",مدرسه فیضیه قم,Public place,2012-12-29,No,,,1.0,success,gpt-4o-mini,,,,
+27701,1825791, تجمع جمعی از طلاب حوزه علمیه قم در سالروز 9 دی,,2012-12-29 11:55:01,شنبه ۹ دی ۱۳۹۱ - ۱۴:۲۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,قم,City,Government,Formal religious group,Religious,Unknown,قم,unknown,Unknown,Unknown,2012-12-29,No,2012-12-29,2012-12-29,1.0,success,gpt-4o-mini,,,,
+27706,1826379,تجمع مردم بندرعباس در سالروز حماسه 9دی,,2012-12-29 16:05:16,شنبه ۹ دی ۱۳۹۱ - ۱۸:۳۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,City,Government,Ordinary Citizens,Political,Unknown,بندرعباس,unknown,Unknown,Unknown,2012-12-29,No,2012-12-29,2012-12-29,1.0,success,gpt-4o-mini,,,,
+27715,1825383,تجمع معترضان به نتایج آزمون وکالت سال 90 و بازداشت برخی از آنها,صبح روز یک‌شنبه و در مقابل ساختمان کانون وکلای مرکز رخ داد,2012-12-30 11:10:08,یکشنبه ۱۰ دی ۱۳۹۱ - ۱۳:۴۰,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,City,Judiciary,Ordinary Citizens,Lawyers,Unknown,تهران,medium group < 50,مقابل کانون وکلای دادگستری مرکز,In front of state buildings,2012-12-30,No,2012-12-30,2012-12-30,1.0,success,gpt-4o-mini,,,,

@@ -28,18 +28,34 @@ st.set_page_config(
 # ============================================================
 @st.cache_data
 def load_data():
-    """Load the coded protest data"""
-    # Try to load CSV first (faster), fallback to Excel
+    """Load the coded protest data from dashboard folder"""
+    # Try Excel first (primary format)
     try:
-        df = pd.read_csv("data/processed/protests_with_coords.csv")
+        df = pd.read_excel("data/dashboard/protests_for_dashboard.xlsx")
+        st.success(f"✅ Loaded {len(df)} protest events from dashboard data")
+        return df
     except FileNotFoundError:
+        # Try CSV as fallback
         try:
-            df = pd.read_excel("data/processed/protests_with_coords.xlsx")
+            df = pd.read_csv("data/dashboard/protests_for_dashboard.csv")
+            st.success(f"✅ Loaded {len(df)} protest events from dashboard data")
+            return df
         except FileNotFoundError:
-            # Fallback to sample data if file not found
-            st.warning("Data file not found. Using sample data for demonstration.")
-            df = create_sample_data()
-    return df
+            # Try old location as fallback
+            try:
+                df = pd.read_csv("data/processed/protests_with_coords.csv")
+                st.success(f"✅ Loaded {len(df)} protest events from processed data")
+                return df
+            except FileNotFoundError:
+                try:
+                    df = pd.read_excel("data/processed/protests_with_coords.xlsx")
+                    st.success(f"✅ Loaded {len(df)} protest events from processed data")
+                    return df
+                except FileNotFoundError:
+                    # Final fallback to sample data
+                    st.warning("Data file not found. Using sample data for demonstration.")
+                    df = create_sample_data()
+                    return df
 
 @st.cache_data
 def load_iran_geojson():
@@ -89,16 +105,21 @@ def create_filters(df):
     """Create sidebar filters"""
     st.sidebar.header("🔍 Filters")
     
-    # Date range filter
-    min_date = df['event_date'].min()
-    max_date = df['event_date'].max()
-    
-    date_range = st.sidebar.date_input(
-        "📅 Date Range",
-        value=[min_date, max_date],
-        min_value=min_date,
-        max_value=max_date
-    )
+    # Date range filter - only if we have valid dates
+    valid_dates = df['event_date'].dropna()
+    if not valid_dates.empty:
+        min_date = valid_dates.min()
+        max_date = valid_dates.max()
+        
+        date_range = st.sidebar.date_input(
+            "📅 Date Range",
+            value=[min_date, max_date],
+            min_value=min_date,
+            max_value=max_date
+        )
+    else:
+        st.sidebar.warning("No valid dates in data")
+        date_range = [pd.Timestamp.now() - pd.Timedelta(days=30), pd.Timestamp.now()]
     
     # Category filter
     categories = sorted(df['protests_categories'].dropna().unique())
@@ -144,8 +165,8 @@ def apply_filters(df, filters):
     """Apply filters to the dataframe"""
     mask = pd.Series([True] * len(df), index=df.index)
     
-    # Date filter
-    if len(filters['date_range']) == 2:
+    # Date filter - only if we have valid dates
+    if len(filters['date_range']) == 2 and not df['event_date'].isna().all():
         start_date, end_date = filters['date_range']
         mask &= (df['event_date'] >= pd.to_datetime(start_date)) & (df['event_date'] <= pd.to_datetime(end_date))
     
@@ -205,7 +226,7 @@ def render_map(df):
     
     # Add markers
     for _, row in df.iterrows():
-        # Create popup HTML with all 18 fields
+        # Create popup HTML with all fields
         popup_html = f"""
         <div style="font-family: 'Segoe UI', Tahoma, sans-serif; max-width: 320px; padding: 5px;">
             <h4 style="margin: 0 0 5px 0; color: #1a3a5c; border-bottom: 2px solid #eee; padding-bottom: 5px;">
@@ -288,8 +309,13 @@ def render_temporal(df):
         index=0
     )
     
-    # Prepare time series data
-    df_copy = df.copy()
+    # Prepare time series data - only use rows with valid dates
+    df_copy = df[df['event_date'].notna()].copy()
+    
+    if df_copy.empty:
+        st.warning("No data with valid dates for time series visualization")
+        return
+    
     df_copy['month'] = df_copy['event_date'].dt.to_period('M').astype(str)
     
     # Group by month and variable
@@ -374,7 +400,7 @@ def render_temporal(df):
     
     with col3:
         # Most active month
-        if 'month' in df_copy.columns:
+        if not df_copy.empty and 'month' in df_copy.columns:
             most_active = df_copy.groupby('month').size()
             if not most_active.empty:
                 top_month = most_active.idxmax()
@@ -402,12 +428,24 @@ def main():
     # Load data
     df = load_data()
     
-    # Convert date column
+    # Convert date column - handle "Unknown" values
     if 'event_date' in df.columns:
-        df['event_date'] = pd.to_datetime(df['event_date'])
+        # Replace "Unknown" with NaN first
+        df['event_date'] = df['event_date'].replace('Unknown', pd.NA)
+        # Convert to datetime, coercing errors to NaT (Not a Time)
+        df['event_date'] = pd.to_datetime(df['event_date'], errors='coerce')
+        
+        # Check if we lost too many rows
+        missing_dates = df['event_date'].isna().sum()
+        if missing_dates > 0:
+            st.warning(f"⚠️ {missing_dates} rows have invalid dates and will be excluded from time-series views")
     else:
         st.error("Data missing 'event_date' column")
         return
+    
+    # Remove duplicates (just in case)
+    if 'duplicate' in df.columns:
+        df = df[df['duplicate'] != 'Yes']
     
     # Create and apply filters
     filters = create_filters(df)

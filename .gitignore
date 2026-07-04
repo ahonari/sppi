@@ -1,24 +1,41 @@
 # Python
 __pycache__/
-*.py[cod]
-*$py.class
-venv/
+*.pyc
+*.pyo
+*.pyd
+.Python
 env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Environment variables
 .env
+.env.local
+
+# Data files (optional - you might want to include small data files)
+# data/processed/
+# data/raw/
 
 # IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Data files (large)
-*.csv
-*.xlsx
-*.db
-
-# API keys
-.env.local
-config.local.py
-
-# OS files
+# OS
 .DS_Store
 Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Geocode cache
+data/geocode_cache.json

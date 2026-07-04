@@ -1,0 +1,621 @@
+﻿Unnamed: 0,id,title,sub_title,date,persian_date,service,category,agency,relevance,duplicate,protests_categories,protest_ritual,violent,protest_form_en,protest_form_fa,issue,issue_specific,local_national_international,issue_location_name,location_category,target,organizer_type,civil_society_sector,main_political_sector,event_location_name,size_of_participants,arena_name,arena_type,event_date,is_multi_day,date_range_start,date_range_end,days_duration,_processing_status,_model_used
+23416,691680,در اعتراض به توقف يا لغو قراردادها در شبكه‌ي مستند  دو صنف سينماي مستند ايران خطاب به ضرغامي نامه‌ي سرگشاده نوشتند,,2012-01-02 07:19:07,دوشنبه ۱۲ دی ۱۳۹۰ - ۰۹:۴۹,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,Local,Unknown,Unknown,Government,Diverse,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-02,No,2012-01-02,2012-01-02,1,success,gpt-4o-mini
+23435,691170,تجمع گروهي از هموطنان كرد در مقابل سفارت تركيه در تهران,,2012-01-03 09:33:23,سه‌شنبه ۱۳ دی ۱۳۹۰ - ۱۲:۰۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Ethnic,N/A,Local,جنوب شرقی ترکیه,Capital,International Institution/Country,Ordinary Citizens,Ethnic,Unknown,تهران,medium group < 50,مقابل سفارت ترکیه,International office/ embassy,2012-01-03,No,2012-01-03,2012-01-03,1,success,gpt-4o-mini
+23436,691159,اعتراض تعدادي از عوامل «مختارنامه» به نحوه‌ي برگزاري مراسم تقدير از عوامل اين سريال,,2012-01-03 10:04:21,سه‌شنبه ۱۳ دی ۱۳۹۰ - ۱۲:۳۴,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,City,Government,Unknown,Cultural,Unknown,Unknown,small group < 15,Unknown,Unknown,2012-01-03,No,2012-01-03,2012-01-03,1,success,gpt-4o-mini
+23468,689725,به دنبال تجمع اعتراضي مقابل مجلس؛  عضو انجمن توليدكنندگان كود اظهار كرد:  به واردات اين محصول از خارج از كشور معترضيم,,2012-01-08 11:51:26,یکشنبه ۱۸ دی ۱۳۹۰ - ۱۴:۲۱,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,Government,Labour Union,Farmers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-01-08,No,2012-01-08,2012-01-08,1,success,gpt-4o-mini
+23469,689697,تجمع جمعي از متقاضيان مسكن مهر چهارمحال‌وبختياري در مقابل استانداري,,2012-01-08 12:04:04,یکشنبه ۱۸ دی ۱۳۹۰ - ۱۴:۳۴,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,چهارمحال و بختیاری,Province Center,Government,Ordinary Citizens,Economic/trade/business,Unknown,مقابل استانداری,medium group < 50,مقابل استانداری,In front of state buildings,2012-01-08,No,2012-01-08,2012-01-08,1,success,gpt-4o-mini
+23475,689475,محكوميت «ميرزايي حكمتي» با اتهام محاربه به اعدام؛  دفتر دادستاني كل كشور: حكم صادره در ديوان عالي قابل اعتراض است,,2012-01-09 09:59:08,دوشنبه ۱۹ دی ۱۳۹۰ - ۱۲:۲۹,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Judiciary,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-09,No,2012-01-09,2012-01-09,1,success,gpt-4o-mini
+23482,703347,تجمع جمعي از كاركنان شوراي اسلامي كار شركت واگن‌سازي پارس در مقابل مجلس,,2012-01-10 07:21:50,سه‌شنبه ۲۰ دی ۱۳۹۰ - ۰۹:۵۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Labour,N/A,Local,Unknown,Capital,Private Companies/organizations,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-01-10,No,2012-01-10,2012-01-10,1,success,gpt-4o-mini
+23490,703481,تجليل از فعالان راهيان نور غرب کشور,,2012-01-10 11:14:02,سه‌شنبه ۲۰ دی ۱۳۹۰ - ۱۳:۴۴,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Ritual,Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,کرمانشاه,Province Center,Unknown,Unknown,Cultural,Unknown,کرمانشاه,unknown,Unknown,Unknown,2012-01-10,No,2012-01-10,2012-01-10,1,success,gpt-4o-mini
+23500,688819,صدر با اشاره به حادثه تروريستي صبح امروز:  ترورهاي كور استكبار موجب عزم راسخ ملت مي‌شود,,2012-01-11 08:56:55,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۱:۲۶,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,International Institution/Country,Unknown,Unknown,Progovernment,تهران,unknown,صحن علنی مجلس,Parliament area,2012-01-11,No,,,1,success,gpt-4o-mini
+23505,703707,بيانيه انجمن دفاع از قربانيان تروريسم در محكوميت ترور شهيد مصطفي احمدي روشن,,2012-01-11 10:40:19,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۳:۱۰,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,Government,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23506,688706,بيانيه اتحاديه انجمن‌هاي اسلامي دانشجويان مستقل در محكوميت ترور شهيد احمدي‌روشن,,2012-01-11 10:53:20,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۳:۲۳,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23507,703721,معاون امنيتي انتظامي استاندار تهران در واكنش به ترور شهيد احمدي روشن:‌   در آستانه انتخابات، تلاش دشمنان اين است که فضا را امنيتي کنند,,2012-01-11 10:59:46,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۳:۲۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,bombing,بمب‌گذاری,Political,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23509,688687,بيانيه بسيج دانشجويي دانشگاه صنعتي‌شريف در محكوميت ترور شهيد احمدي‌روشن,,2012-01-11 11:05:50,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۳:۳۵,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Progovernment,تهران,unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23510,703736,با صدور اطلاعيه‌اي؛  وزارت علوم ترور احمدي‌روشن را محكوم كرد,,2012-01-11 11:41:00,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۴:۱۱,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,تهران,Capital,International Institution/Country,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-01-11,No,,,1,success,gpt-4o-mini
+23511,703739,سازمان تبليغات اسلامي ترور ناجوانمردانه شهيد احمدي‌روشن را محكوم كرد,,2012-01-11 11:44:40,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۴:۱۴,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,bombing,بمب‌گذاری,Political,N/A,National,تهران,Capital,International Institution/Country,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23513,703743,/مراسم دومين سالگرد شهادت دكتر علي‌محمدي/   همسر شهيد علي‌ محمدي:  رژيم صهيونيستي به طور علني به ترور دانشمندان ايراني اعتراف مي‌كند,,2012-01-11 12:12:40,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۴:۴۲,سرویس سیاسی,"
+                        انرژی هسته‎‌ای
+                        
+                    ",isna,Yes,No,Ritual,Ritual,No,public assembly,تجمع / اجتماع,Political,N/A,Local,تهران,Capital,International Institution/Country,Unknown,Unknown,Unknown,دانشکده‌ی فیزیک دانشگاه تهران,unknown,دانشکده‌ی فیزیک دانشگاه تهران,University campuses,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23514,688652,جبهه متحد اصولگرايان ترور احمدي‌روشن را محكوم كرد,,2012-01-11 12:20:48,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۴:۵۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Political Org./Party,Political,Conservative,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23515,688657,/آخرين اخبار از وضعيت مجروحان حادثه تروريستي ميدان كتابي/  همراه ‌40 ساله شهيد احمدي روشن به شهادت رسيد  حال رهگذر حاضر در صحنه انفجار رو به بهبود است,,2012-01-11 12:25:20,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۴:۵۵,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,bombing,بمب‌گذاری,Unknown,N/A,Local,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,ميدان كتابی,Unknown,Unknown,Unknown,2012-01-11,No,,,1,success,gpt-4o-mini
+23523,703782,بيانيه کانون دانشگاهيان ايران اسلامي در محكوميت ترور شهيد احمدي روشن,,2012-01-11 14:24:45,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۶:۵۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Political,Reformist,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23524,703788,بيانيه انجمن اسلامي دانشگاه علامه طباطبايي در محكوميت ترور شهيد احمدي روشن,,2012-01-11 14:29:34,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۶:۵۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Formal student group,Political,Reformist,تهران,unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23525,703790,بيانيه انجمن اسلامي دانشجويان دانشگاه تربيت معلم در محكوميت ترور احمدي‌روشن,,2012-01-11 14:34:08,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۷:۰۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23527,688596,بيانيه سازمان بسيج اساتيد كشور در محكوميت ترور احمدي‌روشن,,2012-01-11 14:39:06,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۷:۰۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,GONGO,Political,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23528,688597,بيانيه دفتر تحكيم وحدت در محكوميت ترور شهيد احمدي روشن,,2012-01-11 14:39:35,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۷:۰۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23529,703799,بيانيه خانواده شهداي ترور در محكوميت ترور شهيد احمدي روشن,,2012-01-11 15:39:09,چهارشنبه ۲۱ دی ۱۳۹۰ - ۱۸:۰۹,سرویس سیاسی,"
+                        انرژی هسته‎‌ای
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-11,No,2012-01-11,2012-01-11,1,success,gpt-4o-mini
+23533,688531,بيانيه جامعه اسلامي دانشگاه لرستان درمحکوميت ترور شهيد احمدي روشن,,2012-01-12 08:14:57,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۰:۴۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-12,No,,,1,success,gpt-4o-mini
+23539,688083,/بيانيه جهاددانشگاهي درمحكوميت ترور شهيد احمدي روشن/  استكبار حقد و عزاي ناكامي خود را با حذف فيزيكي بهترين‌ها برملا مي‌كند,,2012-01-12 13:23:19,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۵:۵۳,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-12,No,2012-01-12,2012-01-12,1,success,gpt-4o-mini
+23540,688053,بيانيه شوراي تبيين مواضع استان تهران در محكوميت ترور دانشمند هسته‌اي,,2012-01-12 14:42:08,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۷:۱۲,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,International Institution/Country,Formal student group,Political,Progovernment,تهران,unknown,Unknown,Unknown,2012-01-12,No,2012-01-12,2012-01-12,1,success,gpt-4o-mini
+23541,688054,ستاد نماز جمعه تهران در بيانيه‌اي ترور شهيد احمدي روشن را محكوم كرد,,2012-01-12 14:55:43,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۷:۲۵,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,International Institution/Country,Formal religious group,Political,Progovernment,تهران,unknown,Unknown,Unknown,2012-01-12,No,,,1,success,gpt-4o-mini
+23542,688057,بيانيه شوراي هماهنگي تبليغات اسلامي در محكوميت ترور شهيد احمدي روشن,,2012-01-12 15:08:44,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۷:۳۸,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,تهران,Capital,International Institution/Country,Formal religious group,Political,Unknown,تهران,unknown,Unknown,Unknown,2012-01-12,No,,,1,success,gpt-4o-mini
+23543,688088,بيانيه سازمان بسيج مهندسين در محكوميت ترور شهيد احمدي روشن,,2012-01-12 15:29:49,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۷:۵۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,GONGO,Political,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-01-12,No,2012-01-12,2012-01-12,1,success,gpt-4o-mini
+23545,688095,بيانيه حوزه بسيج دانشگاه آزاد شهرري در محكوميت ترور شهيد مصطفي احمدي,,2012-01-12 16:40:42,پنجشنبه ۲۲ دی ۱۳۹۰ - ۱۹:۱۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Political,Unknown,شهرری,unknown,Unknown,Unknown,2012-01-12,No,2012-01-12,2012-01-12,1,success,gpt-4o-mini
+23551,688103,بيانيه دانشگاه آزاد اسلامي قزوين در محكوميت ترور شهيد احمدي‌روشن,,2012-01-13 06:52:49,جمعه ۲۳ دی ۱۳۹۰ - ۰۹:۲۲,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,University Officials,Unknown,Unknown,قزوین,unknown,Unknown,Unknown,2012-01-13,No,2012-01-13,2012-01-13,1,success,gpt-4o-mini
+23554,688118,بيانيه مرکز جذب اعضاي هيأت علمي وزارت علوم در محکوميت ترور شهيد احمدي‌روشن,,2012-01-13 08:14:32,جمعه ۲۳ دی ۱۳۹۰ - ۱۰:۴۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-13,No,2012-01-13,2012-01-13,1,success,gpt-4o-mini
+23557,687984,بيانيه بنياد ملي نخبگان در محکوميت ترور شهيد «مصطفي احمدي روشن»,,2012-01-13 10:39:02,جمعه ۲۳ دی ۱۳۹۰ - ۱۳:۰۹,سرویس علمی و دانشگاهی,"
+                        علم و فناوری جهان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-13,No,2012-01-13,2012-01-13,1,success,gpt-4o-mini
+23564,687919,صبح امروز از دانشگاه اميركبير انجام شد؛  تجمع و راهپيمايي دانشجويان در محكوميت ترور شهيد احمدي‌روشن,,2012-01-14 06:53:47,شنبه ۲۴ دی ۱۳۹۰ - ۰۹:۲۳,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,Unknown,University,Government,Formal student group,Student Movement,Reformist,دانشگاه اميركبير,medium group < 50,حسینیه امام خمینی(ره),Public place,2012-01-14,No,,,1,success,gpt-4o-mini
+23568,687879,يادواره‌ شهداي عمليات كربلاي5 در مسجد پنبه‌چي برگزار شد؛  سخنان مقدم‌فر در مورد پيام عمليات، اهداف دشمنان در انتخابات و ترور,,2012-01-14 07:48:16,شنبه ۲۴ دی ۱۳۹۰ - ۱۰:۱۸,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Ritual,Ritual,Unknown,N/A,N/A,Political,N/A,Local,تهران,Capital,Government,Formal religious group,N/A,Unknown,مسجد پنبه‌چی,unknown,مسجد پنبه‌چی,Religious places,2012-01-14,No,,,1,success,gpt-4o-mini
+23569,687850,/بيانيه جهاددانشگاهي درمحكوميت ترور شهيد احمدي روشن/  استكبار حقد و عزاي ناكامي خود را با حذف فيزيكي بهترين‌ها برملا مي‌كند,,2012-01-14 07:58:43,شنبه ۲۴ دی ۱۳۹۰ - ۱۰:۲۸,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Formal student group,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23571,688247,با حضور گسترده در مراسم يادبود شهيد احمدي‌روشن؛  دانشجويان هرگونه اقدام تروريستي و ناجوانمردانه را محكوم كردند,,2012-01-14 08:34:43,شنبه ۲۴ دی ۱۳۹۰ - ۱۱:۰۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,تهران,Capital,International Institution/Country,Formal student group,Student Movement,Progovernment,دانشگاه امیرکبیر,medium group < 50,دانشگاه امیرکبیر,University campuses,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23580,687776,بيانيه هيات‌رئيسه دانشگاه علم‌و‌صنعت درباره ترور شهيد احمدي‌روشن,,2012-01-14 09:32:19,شنبه ۲۴ دی ۱۳۹۰ - ۱۲:۰۲,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,University Officials,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23581,687786,بيانيه بسيج دانشجويي دانشگاه‌ها و مراکز آموزش‌عالي خراسان رضوي:  جوخه‌هاي ترور بار ديگر قلب دانشگاه را هدف قرار داده‌اند,,2012-01-14 09:39:51,شنبه ۲۴ دی ۱۳۹۰ - ۱۲:۰۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23582,688280,جنبش غيرمتعهدها ترور احمدي روشن را محكوم كرد,,2012-01-14 09:49:37,شنبه ۲۴ دی ۱۳۹۰ - ۱۲:۱۹,سرویس سیاسی,"
+                        انرژی هسته‎‌ای
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,تهران,Capital,Government,Campaign,Political,Unknown,تهران,unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23587,687742,بيانيه اتحاديه تشکل‌هاي دانشگاه آزاداسلامي درپي ترور شهيد احمدي‌روشن,,2012-01-14 10:27:58,شنبه ۲۴ دی ۱۳۹۰ - ۱۲:۵۷,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23589,687728,بيانيه حزب موتلفه اسلامي درپي ترور شهيد احمدي‌روشن,,2012-01-14 11:01:17,شنبه ۲۴ دی ۱۳۹۰ - ۱۳:۳۱,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Political Org./Party,Political,Conservative,Unknown,Unknown,Unknown,Unknown,2012-01-14,No,2012-01-14,2012-01-14,1,success,gpt-4o-mini
+23605,687574,با صدور بيانيه‌اي؛  دفتر شمالغرب کميسيون حقوق‌بشر اسلامي ترور دانشمندان ايران را محكوم كرد,,2012-01-15 07:39:38,یکشنبه ۲۵ دی ۱۳۹۰ - ۱۰:۰۹,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Human rights,Unknown,Unknown,Large Group < 200,Unknown,Unknown,2012-01-15,No,2012-01-15,2012-01-15,1,success,gpt-4o-mini
+23617,687445,بيانيه دانشگاهيان دانشگاه ياسوج در محكوميت ترور شهيد احمدي‌روشن,,2012-01-15 09:39:53,یکشنبه ۲۵ دی ۱۳۹۰ - ۱۲:۰۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Political,Unknown,یاسوج,unknown,Unknown,Unknown,2012-01-15,No,2012-01-15,2012-01-15,1,success,gpt-4o-mini
+23624,685260,بيانيه انجمن اسلامي دانشجويان دانشگاه الزهرا(س) در محكوميت ترور شهيد احمدي‌روشن,,2012-01-15 14:17:49,یکشنبه ۲۵ دی ۱۳۹۰ - ۱۶:۴۷,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Reformist,Unknown,Unknown,Unknown,Unknown,2012-01-15,No,2012-01-15,2012-01-15,1,success,gpt-4o-mini
+23638,684776,بيانيه سازمان بسيج حقوقدانان در محکوميت ترور شهيد احمدي روشن,,2012-01-16 09:16:05,دوشنبه ۲۶ دی ۱۳۹۰ - ۱۱:۴۶,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,International Institution/Country,Formal religious group,Political,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-01-16,No,2012-01-16,2012-01-16,1,success,gpt-4o-mini
+23642,685484,/نشست خبري فعالان دانشجويي درباره دانشگاه آزاد/  جمشيدي خبر داد:  تشكيل كميته حفظ و صيانت از اسناد و اموال دانشگاه آزاد,,2012-01-16 11:44:11,دوشنبه ۲۶ دی ۱۳۹۰ - ۱۴:۱۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Reformist,تهران,medium group < 50,Unknown,Unknown,2012-01-16,No,,,1,success,gpt-4o-mini
+23648,685503,در نشست خبري جمعي از فعالان دانشجويي مطرح شد:  تغيير رييس دانشگاه آزاد، آغاز راه اصلاح اين دانشگاه است,,2012-01-16 12:43:11,دوشنبه ۲۶ دی ۱۳۹۰ - ۱۵:۱۳,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Reformist,تهران,medium group < 50,مقابل دانشگاه آزاد,University campuses,2012-01-16,No,2012-01-16,2012-01-16,1,success,gpt-4o-mini
+23650,684601,بيانيه انجمن‌هاي اسلامي دانشجويان دانشگاه‌هاي مشهد در محکوميت ترور دانشمندان ايراني,,2012-01-16 14:34:22,دوشنبه ۲۶ دی ۱۳۹۰ - ۱۷:۰۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,City,International Institution/Country,Formal student group,Student Movement,Unknown,مشهد,unknown,Unknown,Unknown,2012-01-16,No,2012-01-16,2012-01-16,1,success,gpt-4o-mini
+23674,685877,مراسم گرامي‌داشت شهداي روز 27 دي دانشگاه تبريز برگزار شد؛  آيت‌الله مجتهدشبستري: ترور مانع پيشرفت ما نمي‌شود,,2012-01-18 07:34:20,چهارشنبه ۲۸ دی ۱۳۹۰ - ۱۰:۰۴,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Ritual,Ritual,Unknown,N/A,N/A,Political,N/A,Local,تبریز,City,Government,Formal religious group,N/A,Unknown,تبریز,unknown,دانشگاه تبریز,University campuses,2012-01-18,No,,,1,success,gpt-4o-mini
+23699,683451,بيانيه‌ي هنرمندان سينما و نمايش در محکوميت ترور دانشمندان هسته‌يي,,2012-01-20 14:13:33,جمعه ۳۰ دی ۱۳۹۰ - ۱۶:۴۳,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Political,N/A,National,Unknown,NA,Government,Informal Group,Cultural,Unknown,Unknown,medium group < 50,Unknown,Unknown,2012-01-20,No,,,1,success,gpt-4o-mini
+23703,686393,صبح امروز در خرم‌آباد؛  حمله مسلحانه به كاركنان ارتش دو كشته و زخمي برجاي گذاشت,,2012-01-21 09:18:37,شنبه ۱ بهمن ۱۳۹۰ - ۱۱:۴۸,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,خرم‌آباد,City,Military base,Unknown,Unknown,Unknown,خرم‌آباد,unknown,مقابل منازل سازمانی ارتش,Out of residential areas/ Roads,2012-01-21,No,2012-01-21,2012-01-21,1,success,gpt-4o-mini
+23722,683128,با صدور بيانيه‌اي؛  خانواده شهداي ترور کشور ترور امام جمعه اهل سنت راسك را محکوم کرد,,2012-01-22 09:11:58,یکشنبه ۲ بهمن ۱۳۹۰ - ۱۱:۴۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,راسک,Town,International Institution/Country,Formal religious group,Religious,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-22,No,2012-01-22,2012-01-22,1,success,gpt-4o-mini
+23735,682947,"بيانيه سازمان بسيج مستضعفين در محکوميت ترور امام جمعه \راسک\""""",,2012-01-23 15:15:19,دوشنبه ۳ بهمن ۱۳۹۰ - ۱۷:۴۵,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,راسک,City,International Institution/Country,Formal religious group,Religious,Progovernment,راسک,unknown,Unknown,Unknown,2012-01-23,No,,,1,success,gpt-4o-mini
+23772,675928,دستگيري عامل تيراندازي به پرسنل ارتش در خرم‌آباد  فرمانده انتظامي لرستان: مساله امنيتي و تروريستي نبوده است,,2012-01-28 12:12:31,شنبه ۸ بهمن ۱۳۹۰ - ۱۴:۴۲,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,خرم‌آباد,City,Military base,Unknown,Unknown,Unknown,خرم‌آباد,Unknown,Unknown,Unknown,2012-01-28,No,,,1,success,gpt-4o-mini
+23787,676231,تجمع كارگران يك واحد توليدي مقابل استانداري خراسان‌رضوي,,2012-01-29 12:48:15,یکشنبه ۹ بهمن ۱۳۹۰ - ۱۵:۱۸,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,مشهد,City,Government,Labour Union,Labour,Unknown,مشهد,medium group < 50,مقابل استانداري خراسان رضوي,In front of state buildings,2012-01-29,No,2012-01-29,2012-01-29,1,success,gpt-4o-mini
+23806,674500,تجمع جمعي از مهندسين ناظر محصولات كشاورزي مقابل مجلس,,2012-01-31 06:56:08,سه‌شنبه ۱۱ بهمن ۱۳۹۰ - ۰۹:۲۶,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Labour,N/A,National,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-01-31,No,2012-01-31,2012-01-31,1,success,gpt-4o-mini
+23813,676837,در اعتراض به ورود بازرسان آژانس بين‌المللي انرژي اتمي ؛   دانشجويان تجمع سكوت برگزار كردند,,2012-01-31 12:37:06,سه‌شنبه ۱۱ بهمن ۱۳۹۰ - ۱۵:۰۷,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Nuclear Technology,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,small group < 15,مقابل سازمان انرژي اتمي,In front of state buildings,2012-01-31,No,,,1,success,gpt-4o-mini
+23872,678326,در مقابل مجلس؛  دانشجويان اعتراض خود را به ادامه صادرات نفت به اروپا اعلام كردند,,2012-02-06 12:49:49,دوشنبه ۱۷ بهمن ۱۳۹۰ - ۱۵:۱۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-02-06,No,2012-02-06,2012-02-06,1,success,gpt-4o-mini
+23873,678330,بيانيه دانشجويان بسيجي در اعتراض به ادامه صادرات نفت به اروپا,,2012-02-06 13:07:33,دوشنبه ۱۷ بهمن ۱۳۹۰ - ۱۵:۳۷,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-02-06,No,2012-02-06,2012-02-06,1,success,gpt-4o-mini
+23875,672166,/گزارش تصويري/  اعتراض جمعي از دانشجويان بسيجي به ادامه‌ي صادرات نفت ايران به اروپا در مقابل مجلس,,2012-02-06 13:32:25,دوشنبه ۱۷ بهمن ۱۳۹۰ - ۱۶:۰۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,National,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس,In front of state buildings,2012-02-06,No,2012-02-06,2012-02-06,1,success,gpt-4o-mini
+23877,678435,مقابل مجلس انجام شد:  تجمع تعدادي از بهداشت‌كاران اصفهاني   تجمع جمعي از كاركنان نيروي انتظامي استان تهران,,2012-02-07 07:35:55,سه‌شنبه ۱۸ بهمن ۱۳۹۰ - ۱۰:۰۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,اصفهان,Capital,Law Enforcement Force,Labour Union,Labour,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,Parliament area,2012-02-07,No,2012-02-07,2012-02-07,1,success,gpt-4o-mini
+23909,671399,با امضاي طوماري اعلام شد:  حمايت انجمن اسلامي علوم پزشکي لرستان از ادامه راه شهداي هسته‌يي,,2012-02-08 11:29:31,چهارشنبه ۱۹ بهمن ۱۳۹۰ - ۱۳:۵۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Political,N/A,National,Unknown,University,International Institution/Country,Formal student group,Student Movement,Unknown,دانشگاه علوم پزشکی لرستان,unknown,Unknown,University campuses,2012-02-08,No,2012-02-08,2012-02-08,1,success,gpt-4o-mini
+23924,679159,اعتراض كانون وكلاي مركز به رد صلاحيت 28 نفر؛  صلاحيت 88 نامزد براي انتخابات هيات‌مديره كانون تاييد شده است,,2012-02-11 05:32:39,شنبه ۲۲ بهمن ۱۳۹۰ - ۰۸:۰۲,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Judiciary,Formal Group,Lawyers,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,,,1,success,gpt-4o-mini
+23954,679868,"تجمع كشاورزان باغملكي در اعتراض به پرداخت نشدن اجاره‌بهاي زمينهايشان در حوضه آبگيري سد \جره\""""",,2012-02-13 12:39:54,دوشنبه ۲۴ بهمن ۱۳۹۰ - ۱۵:۰۹,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,باغملک,City,Government,Farmers,Farmers,Unknown,باغملک,Mob < 1000,مقابل فرمانداری و اداره منابع طبیعی باغملک,In front of state buildings,2012-02-13,No,2012-02-13,2012-02-13,1,success,gpt-4o-mini
+23976,680460,بيانيه اتحاديه انجمن‌هاي اسلامي دانشجويان مستقل در اعتراض به مماشات با سفارت بحرين,,2012-02-15 14:30:42,چهارشنبه ۲۶ بهمن ۱۳۹۰ - ۱۷:۰۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Politics,National,بحرین,NA,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,unknown,Unknown,Unknown,2012-02-15,No,2012-02-15,2012-02-15,1,success,gpt-4o-mini
+23981,669122,رييس پليس اطلاعات و امنيت شرق استان‌تهران:  انهدام باند بزرگ اشرار مسلح در کشور پس از يك ساعت درگيري مسلحانه,,2012-02-17 08:20:10,جمعه ۲۸ بهمن ۱۳۹۰ - ۱۰:۵۰,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Crime,N/A,Local,Unknown,City,Law Enforcement Force,Unknown,Unknown,Unknown,Unknown,13,مخفی‌گاه این باند,Unknown,2012-02-17,No,2012-02-17,2012-02-17,1,success,gpt-4o-mini
+24014,668017,درپي اعتراض جمعي از دانشجويان به افزايش قيمت غذا در روز پنجشنبه  رييس دانشگاه اراك:   دانشجويان تنها در روزهاي آموزشي، غذا با نرخ يارانه‌اي دريافت مي‌كنند,,2012-02-20 09:38:35,دوشنبه ۱ اسفند ۱۳۹۰ - ۱۲:۰۸,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,اراک,City,University Officials,Formal student group,Student Movement,Unknown,اراک,medium group < 50,Unknown,Unknown,2012-02-20,No,2012-02-20,2012-02-20,1,success,gpt-4o-mini
+24037,660467,طومار دانشمندان هسته‌يي خطاب به رهبر معظم انقلاب,,2012-02-22 18:13:44,چهارشنبه ۳ اسفند ۱۳۹۰ - ۲۰:۴۳,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Petitioning,طومار نویسی,Political,N/A,National,Unknown,Unknown,Supreme Leader,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-02-22,No,2012-02-22,2012-02-22,1,success,gpt-4o-mini
+24085,658721,تجمع اعتراض‌آميز به هتك حرمت قرآن,امشب در حرم مطهر حضرت معصومه(س) برگزار مي‌شود؛  ,2012-02-27 16:36:02,دوشنبه ۸ اسفند ۱۳۹۰ - ۱۹:۰۶,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,افغانستان,City,International Institution/Country,Formal religious group,Religious,Unknown,قم,Large Group < 200,شبستان امام خمینی(ره),Religious places,2012-02-27,No,,,1,success,gpt-4o-mini
+24087,658634,با حضور هزاران نفر؛  تجمع عليه اهانت به قرآن در آستانه مقدسه حضرت معصومه(س) برگزار شد,,2012-02-28 07:10:21,سه‌شنبه ۹ اسفند ۱۳۹۰ - ۰۹:۴۰,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,City,International Institution/Country,Formal religious group,Religious,Unknown,قم,"thousands, +1000",شبستان امام خمینی(ره) حرم مطهر,Religious places,2012-02-28,No,,,1,success,gpt-4o-mini
+24098,662852,با برپايي تجمعي؛  50 تشكل فرهنگي طلاب غيرايراني اهانت به قرآن را محكوم مي‌كنند,,2012-02-28 12:49:01,سه‌شنبه ۹ اسفند ۱۳۹۰ - ۱۵:۱۹,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,افغانستان,City,International Institution/Country,Formal religious group,Religious,Unknown,مسجد مدرسه حجتیه,Large Group < 200,مسجد مدرسه حجتیه,Public place,2012-02-28,No,2012-02-28,2012-02-28,1,success,gpt-4o-mini
+24125,657439,رئيس كميته امنيتي انتظامي ستاد انتخابات استان تهران :  اوضاع امنيتي استان مناسب است  حدود 10 نفر كه قصد اخلال درانتخابات را داشتند دستگيرشدند,,2012-03-02 09:30:30,جمعه ۱۲ اسفند ۱۳۹۰ - ۱۲:۰۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Government,Unknown,Unknown,Unknown,تهران,small group < 15,Unknown,Unknown,2012-03-02,No,,,1,success,gpt-4o-mini
+24145,656918,در واكنش به انحلال فدراسيون بدنسازي و پرورش اندام  500 نفر مقابل وزارت ورزش و جوانان تجمع كردند,,2012-03-03 11:07:53,شنبه ۱۳ اسفند ۱۳۹۰ - ۱۳:۳۷,سرویس ورزشی,"
+                        سایر ورزش‌ها
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Sports Federation Dissolution,N/A,Local,Unknown,Capital,Ministries,Unknown,Sports,Unknown,مقابل وزارت ورزش و جوانان,Mob < 1000,مقابل وزارت ورزش و جوانان,In front of state buildings,2012-03-03,No,2012-03-03,2012-03-03,1,success,gpt-4o-mini
+24146,656923,در واكنش به انحلال فدراسيون بدنسازي و پرورش اندام  تجمع جمعي از اهالي بدنسازي مقابل وزارت ورزش و جوانان,,2012-03-03 11:14:33,شنبه ۱۳ اسفند ۱۳۹۰ - ۱۳:۴۴,سرویس ورزشی,"
+                        فوتبال، فوتسال
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Sports Federation Dissolution,N/A,Local,Unknown,Capital,Ministries,Ordinary Citizens,Sports,Unknown,مقابل وزارت ورزش و جوانان,medium group < 50,مقابل وزارت ورزش و جوانان,In front of state buildings,2012-03-03,No,2012-03-03,2012-03-03,1,success,gpt-4o-mini
+24195,655057,اعتراض دانشجويان دانشگاه شهركرد نسبت به دريافت هزينه اياب‌وذهاب توسط سرويسهاي داخل دانشگاه,,2012-03-07 14:48:12,چهارشنبه ۱۷ اسفند ۱۳۹۰ - ۱۷:۱۸,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,شهركرد,University,University Officials,Formal student group,Student Movement,Unknown,شهركرد,medium group < 50,دانشگاه شهركرد,University campuses,2012-03-07,No,2012-03-07,2012-03-07,1,success,gpt-4o-mini
+24301,1990673,یک تیم تروریستی در جنوب شرق کشور متلاشی شد,روابط عمومی نیروی زمینی سپاه اعلام کرد:,2012-03-28 06:54:13,چهارشنبه ۹ فروردین ۱۳۹۱ - ۰۹:۲۴,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,National,Unknown,Unknown,International Institution/Country,Military base,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2012-03-28,No,2012-03-28,2012-03-28,1,success,gpt-4o-mini
+24305,1990447,تجمع حمايت از مردم فلسطين در خرمشهر برگزار مي‌شود,فردا و همزمان با برگزاري تجمع در مرزهاي فلسطين,2012-03-29 12:47:38,پنجشنبه ۱۰ فروردین ۱۳۹۱ - ۱۵:۱۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,Local,فلسطین,City,International Institution/Country,GONGO,Political,Progovernment,خرمشهر,medium group < 50,مسجد جامع خرمشهر,Religious places,2012-03-30,No,2012-03-30,2012-03-30,1,success,gpt-4o-mini
+24337,1988898,جمعي از دانشجويان پزشكي در مقابل مجلس تجمع كردند,در اعتراض به نحوه طراحي سوالات آزمون پيش‌كارورزي؛,2012-04-04 11:40:56,چهارشنبه ۱۶ فروردین ۱۳۹۱ - ۱۴:۱۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,Capital,Parliament,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-04-04,No,2012-04-04,2012-04-04,1,success,gpt-4o-mini
+24357,1987747, تجمع جمعي از معلمان شركتي مقابل مجلس شوراي اسلامي,,2012-04-08 07:50:09,یکشنبه ۲۰ فروردین ۱۳۹۱ - ۱۰:۲۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-04-08,No,2012-04-08,2012-04-08,1,success,gpt-4o-mini
+24365,1992086,تجمع رانندگان برون‌شهری ایلام به دنبال برگشت کرایه‌ها به قبل از نوروز,,2012-04-08 10:20:21,یکشنبه ۲۰ فروردین ۱۳۹۱ - ۱۲:۵۰,سرویس استان ها,"
+                        ایلام
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Economic,N/A,Local,ایلام,Province Center,Local authorities/agencies,Ordinary Citizens,Labour,Unknown,ایلام,medium group < 50,ترمینال شهدای ایلام,Public place,2012-04-08,No,,,1,success,gpt-4o-mini
+24375,1987236,بيانيه انجمن دفاع از قربانيان تروريسم در سيزدهمين سالگرد ترور شهيد صياد شيرازي ,,2012-04-09 09:34:49,دوشنبه ۲۱ فروردین ۱۳۹۱ - ۱۲:۰۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Terrorism,N/A,National,Unknown,NA,Mujahideen,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2012-04-09,No,2012-04-09,2012-04-09,1,success,gpt-4o-mini
+24392,1985764,تجمع جمعي از دانشجويان پزشكي مقابل مجلس ,,2012-04-10 13:42:50,سه‌شنبه ۲۲ فروردین ۱۳۹۱ - ۱۶:۱۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,National,Unknown,Capital,Parliament,Formal student group,Student Movement,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-04-10,No,,,1,success,gpt-4o-mini
+24405,1985179,وزارت اطلاعات خبر داد: دستگيري عاملان ترور شهيد مولوي مصطفي جنگي‌زهي,,2012-04-11 15:45:06,چهارشنبه ۲۳ فروردین ۱۳۹۱ - ۱۸:۱۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,National,سیستان و بلوچستان,Province Center,Government,Unknown,Unknown,Unknown,Unknown,15,Unknown,Unknown,2012-04-11,No,2012-04-11,2012-04-11,1,success,gpt-4o-mini
+24422,1983413,تجمع برخي از خانواده‌هاي نيروي انتظامي در اعتراض به وضعيت زمين‌هاي خريداري‌شده خود,,2012-04-15 08:35:49,یکشنبه ۲۷ فروردین ۱۳۹۱ - ۱۱:۰۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,Local,تهران,Capital,Government,Ordinary Citizens,Unknown,Unknown,تهران,medium group < 50,مقابل مجلس,Parliament area,2012-04-15,No,,,1,success,gpt-4o-mini
+24479,1978896,وزيربهداشت خطاب به دانشجويان معترض: ازسلامتي مردم كوتاه نمي‌آييم/با تجمع نمي‌شود نمره گرفت,,2012-04-21 12:29:06,شنبه ۲ اردیبهشت ۱۳۹۱ - ۱۴:۵۹,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,Unknown,Unknown,University Officials,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-04-21,No,2012-04-21,2012-04-21,1,success,gpt-4o-mini
+24484,1978785,راهپیمایی کاروان «حجاب و عفاف» در فردیس كرج,,2012-04-21 15:23:13,شنبه ۲ اردیبهشت ۱۳۹۱ - ۱۷:۵۳,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,No,march/ rally,راهپیمایی,Women,Wo_Hijab,Local,فردیس,Town,Unknown,Formal religious group,Women,Unknown,فردیس,unknown,مصلی فردیس,Public place,2012-04-21,No,2012-04-21,2012-04-21,1,success,gpt-4o-mini
+24493,1979151,دانشجويان خارجي مقابل سفارت عربستان تجمع می‌کنند,در اعتراض به سياست‌هاي دوگانه عربستان؛,2012-04-22 09:31:26,یکشنبه ۳ اردیبهشت ۱۳۹۱ - ۱۲:۰۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Politics,Local,سوریه,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,unknown,مقابل سفارت عربستان,International office/ embassy,2012-04-22,No,2012-04-22,2012-04-22,1,success,gpt-4o-mini
+24510,1977739,حمایت جمعی از فعالان بخش خصوصی از غضنفری,ريیس مرکز تجارت جهانی ایران اعلام كرد:,2012-04-23 15:12:08,دوشنبه ۴ اردیبهشت ۱۳۹۱ - ۱۷:۴۲,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,Government,Ordinary Citizens,Economic/trade/business,Progovernment,Unknown,medium group <50,Unknown,Unknown,2012-04-23,No,2012-04-23,2012-04-23,1,success,gpt-4o-mini
+24512,1977713,تجمع دانشجويان مقابل سازمان ملل در حمايت از زندانيان فلسطيني و بحريني,عصر امروز برگزار شد؛,2012-04-23 16:28:57,دوشنبه ۴ اردیبهشت ۱۳۹۱ - ۱۸:۵۸,سرویس سیاسی,"
+                        بیداری اسلامی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,Intl_Palestine-Israel,Local,بحرین,Capital,International Institution/Country,Formal student group,Human rights,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2012-04-23,No,,,1,success,gpt-4o-mini
+24525,1979682,شهادت 4 تن از نیروهای سپاه در درگیری با پژاک در شهرستان پاوه,,2012-04-25 13:45:43,چهارشنبه ۶ اردیبهشت ۱۳۹۱ - ۱۶:۱۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,پاوه,Town,Military base,Armed/Separatist group,Unknown,Unknown,نودشه,unknown,Unknown,Unknown,2012-04-25,No,2012-04-25,2012-04-25,1,success,gpt-4o-mini
+24526,1977164,تجمع عظیم فاطمیون و تشییع پیکر مطهر دو شهید گمنام در مشهد,,2012-04-25 19:57:16,چهارشنبه ۶ اردیبهشت ۱۳۹۱ - ۲۲:۲۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,Unknown,public assembly,تجمع / اجتماع,Unknown,N/A,Local,مشهد,City,Unknown,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-04-25,No,2012-04-25,2012-04-25,1,success,gpt-4o-mini
+24568,1980423,بيانيه انجمن اسلامي دانشجويان مستقل در اعتراض به هتك حرمت قرآن كريم,,2012-04-30 10:52:24,دوشنبه ۱۱ اردیبهشت ۱۳۹۱ - ۱۳:۲۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Religious,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2012-04-30,No,2012-04-30,2012-04-30,1,success,gpt-4o-mini
+24570,1975233,اعتراض شدید دفتر تحکیم وحدت به جنایت فرهنگی قرآن سوزی,,2012-04-30 14:33:22,دوشنبه ۱۱ اردیبهشت ۱۳۹۱ - ۱۷:۰۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-04-30,No,2012-04-30,2012-04-30,1,success,gpt-4o-mini
+24618,1971482,جمعي از بازنشستگان صنعت فولاد و تعدادي از معلمان شركتي در مقابل مجلس تجمع كردند,,2012-05-06 07:42:37,یکشنبه ۱۷ اردیبهشت ۱۳۹۱ - ۱۰:۱۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,اهواز,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2012-05-06,No,2012-05-06,2012-05-06,1,success,gpt-4o-mini
+24632,1970716,تجمع جمعي از معلولان تهراني در مقابل مجلس ,,2012-05-07 11:37:35,دوشنبه ۱۸ اردیبهشت ۱۳۹۱ - ۱۴:۰۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Disability,N/A,Local,تهران,Capital,Government,Unknown,Disability rights,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-07,No,2012-05-07,2012-05-07,1,success,gpt-4o-mini
+24639,1973532,با تجمع مقابل مجلس؛ خانواده مهندسان ربوده شده در سوريه خواستار آزادي فرزندانشان شدند,,2012-05-08 07:41:25,سه‌شنبه ۱۹ اردیبهشت ۱۳۹۱ - ۱۰:۱۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,سوریه,Capital,Government,Ordinary Citizens,Human rights,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-08,No,,,1,success,gpt-4o-mini
+24656,1970233,"تحصن جمعي از والدين دانش‌آموزان مدرسه تير و كمان \آرش و آذر\""""",,2012-05-09 13:06:22,چهارشنبه ۲۰ اردیبهشت ۱۳۹۱ - ۱۵:۳۶,سرویس ورزشی,"
+                        سایر ورزش‌ها
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Children,N/A,Local,Unknown,City,Government,Ordinary Citizens,Children's rights,Unknown,مدرسه دخترانه دختران آذر,medium group < 50,مقابل مدرسه دخترانه دختران آذر,Public place,2012-05-09,No,2012-05-09,2012-05-09,1,success,gpt-4o-mini
+24685,1967184,با تجمع مقابل مجلس؛ معلمان شركتي خواستار تعيين تكليف خود شدند,,2012-05-13 07:32:29,یکشنبه ۲۴ اردیبهشت ۱۳۹۱ - ۱۰:۰۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-13,No,2012-05-13,2012-05-13,1,success,gpt-4o-mini
+24701,1965103,تجمع اعضاي تعاون مسكن وزارت نيرو مقابل مجلس,,2012-05-14 12:30:27,دوشنبه ۲۵ اردیبهشت ۱۳۹۱ - ۱۵:۰۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Housing,N/A,Local,Unknown,Capital,Parliament,Unknown,Unknown,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-14,No,,,1,success,gpt-4o-mini
+24720,1964118,دعوت شورای هماهنگی تبلیغات اسلامی ازمردم براي تظاهرات درمحکومیت طرح الحاق بحرین به عربستان,,2012-05-16 10:01:31,چهارشنبه ۲۷ اردیبهشت ۱۳۹۱ - ۱۲:۳۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Palestine-Israel,National,بحرین,Capital,International Institution/Country,Formal religious group,Political,Other,تهران,unknown,خیابان انقلاب، مقابل درب اصلی دانشگاه تهران,Public place,2012-05-18,No,2012-05-18,2012-05-18,1,success,gpt-4o-mini
+24722,1963966, تجمع تعدادي از اعضاي تعاوني مسكن كاركنان اداره برق تهران در مقابل مجلس,,2012-05-16 12:52:21,چهارشنبه ۲۷ اردیبهشت ۱۳۹۱ - ۱۵:۲۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,هشتگرد,Capital,Government,Labour Union,Labour,Unknown,تهران,Large Group < 200,مقابل مجلس شورای اسلامی,Parliament area,2012-05-16,No,2012-05-16,2012-05-16,1,success,gpt-4o-mini
+24724,1963509,تجمع دانشجويان دانشگاه صنعتی تفرش در اين دانشگاه,در اعتراض به هتک حرمت ساحت امام هادي(ع) انجام شد؛,2012-05-18 07:44:15,جمعه ۲۹ اردیبهشت ۱۳۹۱ - ۱۰:۱۴,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,Unknown,Formal student group,Student Movement,Unknown,دانشگاه صنعتی تفرش,medium group < 50,صحن دانشکده علوم,University campuses,2012-05-18,No,2012-05-18,2012-05-18,1,success,gpt-4o-mini
+24730,1968240,تظاهرات مردمي در محکومیت طرح الحاق بحرین به عربستان - قم,,2012-05-18 14:07:55,جمعه ۲۹ اردیبهشت ۱۳۹۱ - ۱۶:۳۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,City,Government,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-05-18,No,2012-05-18,2012-05-18,1,success,gpt-4o-mini
+24740,1968316,در اعتراض به طرح الحاق بحرين به عربستان؛ دانشجويان بسيجي مقابل سفارت بحرين تجمع مي‌كنند,,2012-05-19 09:21:53,شنبه ۳۰ اردیبهشت ۱۳۹۱ - ۱۱:۵۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Regional,Local,بحرین,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,unknown,مقابل سفارت بحرین,International office/ embassy,2012-05-19,No,2012-05-19,2012-05-19,1,success,gpt-4o-mini
+24752,1962748,تجمع جمعي از مربيان پيش‌دبستاني در مقابل مجلس,,2012-05-20 06:52:33,یکشنبه ۳۱ اردیبهشت ۱۳۹۱ - ۰۹:۲۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-20,No,2012-05-20,2012-05-20,1,success,gpt-4o-mini
+24759,1962641,جزئياتي از پرونده ترور امام‌جمعه راسك از زبان دادستان زاهدان,,2012-05-20 08:10:54,یکشنبه ۳۱ اردیبهشت ۱۳۹۱ - ۱۰:۴۰,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,راسک,Town,Judiciary,Unknown,Unknown,Unknown,راسک,unknown,Unknown,Unknown,2012-05-20,No,,,1,success,gpt-4o-mini
+24763,1962487,تجمع جمعی از دانشجویان غیر ایرانی از ملیت های مختلف در حمایت از مردم بحرین,,2012-05-20 10:26:42,یکشنبه ۳۱ اردیبهشت ۱۳۹۱ - ۱۲:۵۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,City,Government,Formal student group,Student Movement,Unknown,Unknown,medium group < 50,Unknown,Public place,2012-05-20,No,2012-05-20,2012-05-20,1,success,gpt-4o-mini
+24767,1968616,تجمع خودجوش دانشجويان غير ايراني در حمايت از مردم بحرين,امروز در تهران برگزار شد,2012-05-20 11:57:44,یکشنبه ۳۱ اردیبهشت ۱۳۹۱ - ۱۴:۲۷,سرویس سیاسی,"
+                        بیداری اسلامی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,بحرین,Capital,Government,Informal Group,Human rights,Unknown,تهران,medium group < 50,ميدان فلسطين,Public place,2012-05-20,No,2012-05-20,2012-05-20,1,success,gpt-4o-mini
+24770,1962263,تجمع اعتراضي جمعي از دانشجويان به طرح الحاق بحرين به عربستان,در محل شهادت احمدي روشن انجام شد؛,2012-05-20 16:37:31,یکشنبه ۳۱ اردیبهشت ۱۳۹۱ - ۱۹:۰۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,بحرین,City,Government,Formal student group,Student Movement,Unknown,مقابل دانشگاه علوم ارتباطات علامه طباطبايي,medium group < 50,مقابل دانشگاه علوم ارتباطات علامه طباطبايي,Public place,2012-05-20,No,2012-05-20,2012-05-20,1,success,gpt-4o-mini
+24778,1961559,اطلاعیه فرمانداری ارومیه؛ برای تجمع روز دوشنبه ارومیه مجوزی صادر نشده است,,2012-05-21 14:42:23,دوشنبه ۱ خرداد ۱۳۹۱ - ۱۷:۱۲,سرویس استان ها,"
+                        آذربایجان غربی
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,illegal demonstration (if non-violent),تظاهرات بدون مجوز,Political,N/A,Local,ارومیه,City,Local authorities/agencies,Unknown,Unknown,Unknown,ارومیه,unknown,Unknown,Unknown,2012-05-21,No,2012-05-21,2012-05-21,1,success,gpt-4o-mini
+24781,1961046,تجمع جمعي از مربيان پيش دبستاني سراسر كشور مقابل مجلس,,2012-05-22 07:27:34,سه‌شنبه ۲ خرداد ۱۳۹۱ - ۰۹:۵۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-05-22,No,2012-05-22,2012-05-22,1,success,gpt-4o-mini
+24790,1961238,همايش تجليل از فعالان طرح «آرامش بهاري» فارس برگزار شد,,2012-05-22 17:15:28,سه‌شنبه ۲ خرداد ۱۳۹۱ - ۱۹:۴۵,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Unknown,N/A,Local,فارس,Province Center,Unknown,Unknown,Unknown,Unknown,فارس,Large Group < 200,Unknown,Unknown,2012-05-22,No,,,1,success,gpt-4o-mini
+24802,1959911,تعطيلي سایت‌های اينترنتي در اعتراض به هتك حرمت ائمه اطهار,سايت رزمندگان اسلام از فعالان فضاي مجازي دعوت كرد؛,2012-05-23 14:25:18,چهارشنبه ۳ خرداد ۱۳۹۱ - ۱۶:۵۵,سرویس اقتصادی,"
+                        ارتباطات و فناوری اطلاعات
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,Hacking,هک کردن,Religious,N/A,National,Unknown,National,Unknown,Online Community,Religious,Unknown,Unknown,unknown,Unknown,Online,2012-05-23,No,2012-05-23,2012-05-23,1,success,gpt-4o-mini
+24806,1959771,تجمع بسيجيان و رزمندگان دفاع مقدس گيلان برگزار شد,,2012-05-24 07:39:21,پنجشنبه ۴ خرداد ۱۳۹۱ - ۱۰:۰۹,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,گیلان,Province Center,Government,Unknown,Cultural,Progovernment,رشت,unknown,مصلی امام خمینی(ره),Public place,2012-05-24,No,2012-05-24,2012-05-24,1,success,gpt-4o-mini
+24809,1959113,تجمع اعتراض‌آميز مردم قم نسبت به هتک حرمت اهل بیت(ع),پس از نماز جمعه امروز برگزار مي‌شود؛,2012-05-25 06:25:16,جمعه ۵ خرداد ۱۳۹۱ - ۰۸:۵۵,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,Unknown,Formal religious group,Religious,Unknown,قم,unknown,Unknown,Public place,2012-05-25,No,2012-05-25,2012-05-25,1,success,gpt-4o-mini
+24813,1959400,در اعتراض به هتک حرمت امام هادي(ع)؛ تجمع اعتراض آميز بسيجيان دانشگاه آزاد مشهد برگزار شد,,2012-05-25 08:39:02,جمعه ۵ خرداد ۱۳۹۱ - ۱۱:۰۹,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,Unknown,University,Unknown,Formal student group,Student Movement,Unknown,مشهد,medium group < 50,دانشگاه آزاد اسلامی خراسان رضوی,University campuses,2012-05-25,No,2012-05-25,2012-05-25,1,success,gpt-4o-mini
+24838,1957042,اعتراض سوپر‌ماركت‌‌ها به گراني هزينه برق يخچال و سردخانه‌ها ,,2012-05-27 11:38:33,یکشنبه ۷ خرداد ۱۳۹۱ - ۱۴:۰۸,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,تهران,City,Government,Labour Union,Economic/trade/business,Unknown,تهران,unknown,Unknown,Unknown,2012-05-27,No,,,1,success,gpt-4o-mini
+24852,1956486,اعتراض جمعي از معلولان نسبت به كاهش و قطع يارانه سرويس اياب و ذهاب,,2012-05-28 11:19:03,دوشنبه ۸ خرداد ۱۳۹۱ - ۱۳:۴۹,سرویس اجتماعی,"
+                        خانواده
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Disability,N/A,Local,Unknown,Unknown,Government,Ordinary Citizens,Disability rights,Unknown,Unknown,medium group < 50,Unknown,Unknown,2012-05-28,No,2012-05-28,2012-05-28,1,success,gpt-4o-mini
+24872,1957882,طومار دانشجويان دانشگاه حکیم سبزواری در اعتراض به خصوصي‌سازي در دانشگاه‌ها,,2012-05-30 10:58:28,چهارشنبه ۱۰ خرداد ۱۳۹۱ - ۱۳:۲۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Student/university,N/A,Local,سبزوار,City,Ministries,Formal student group,Student Movement,Unknown,سبزوار,"thousands, +1000",Unknown,Unknown,2012-05-30,No,2012-05-30,2012-05-30,1,success,gpt-4o-mini
+24882,1955240,طومار عده‌اي از طرفداران ابومسلم: خداداد عزيزي سرمربي نباشد,,2012-05-31 07:30:26,پنجشنبه ۱۱ خرداد ۱۳۹۱ - ۱۰:۰۰,سرویس ورزشی,"
+                        فوتبال، فوتسال
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Football management,N/A,Local,مشهد,City,Football Club Management,Informal Group,Sports,Unknown,مشهد,Large Group < 200,Unknown,Unknown,2012-05-31,No,2012-05-31,2012-05-31,1,success,gpt-4o-mini
+24883,1955243,دستگیری عامل اخلال در سیستم مخابراتی,ريیس پلیس فتاي استان زنجان خبرداد؛,2012-05-31 07:33:07,پنجشنبه ۱۱ خرداد ۱۳۹۱ - ۱۰:۰۳,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,,Unknown,,,Unknown,N/A,Local,زنجان,Province Center,Unknown,Unknown,Unknown,Unknown,زنجان,Unknown,Unknown,Unknown,2012-05-31,No,2012-05-31,2012-05-31,1,success,gpt-4o-mini
+24888,1955015,سومین همایش فعالان و ممتازان قرآنی استان کرمان برگزار شد,با حضور وزیر فرهنگ و ارشاد اسلامی؛,2012-06-01 07:48:23,جمعه ۱۲ خرداد ۱۳۹۱ - ۱۰:۱۸,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,,Ritual,Unknown,,,Cultural,N/A,Local,کرمان,City,Government,Unknown,Cultural,Unknown,کرمان,unknown,سالن مجتمع چند منظوره هنرستان هنرهاي زیبا,Public place,2012-06-01,No,2012-06-01,2012-06-01,1,success,gpt-4o-mini
+24911,1954224,انهدام يك گروهك تروريستي وابسته به جندالشيطان در سيستان و بلوچستان , فرمانده مرزباني استان سيستان و بلوچستان خبرداد: ,2012-06-05 09:43:21,سه‌شنبه ۱۶ خرداد ۱۳۹۱ - ۱۲:۱۳,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Security,N/A,Local,سیستان و بلوچستان,Province Center,Unknown,Armed/Separatist group,Unknown,Unknown,سیستان و بلوچستان,unknown,Unknown,Unknown,2012-06-05,No,2012-06-05,2012-06-05,1,success,gpt-4o-mini
+24921,1952515,"اعتراض برخي مردم اصفهان از قطع يك درخت در \مادي نياصرم\"" """,,2012-06-06 08:20:06,چهارشنبه ۱۷ خرداد ۱۳۹۱ - ۱۰:۵۰,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Deforestation,Local,اصفهان,City,Municipality/ city councils,Ordinary Citizens,Environmental,Unknown,اصفهان,medium group < 50,مادی نیاصرم,Public place,2012-06-06,No,,,1,success,gpt-4o-mini
+24929,1952078,فرمانده نيروي انتظامي خبر داد: خنثي شدن يك توطئه تروريستي گروهک جندالشيطان در مرز سراوان,,2012-06-07 09:37:53,پنجشنبه ۱۸ خرداد ۱۳۹۱ - ۱۲:۰۷,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Terrorism,N/A,Local,Unknown,National,Terrorist groups,Law Enforcement Force,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2012-06-07,No,2012-06-07,2012-06-07,1,success,gpt-4o-mini
+24970,1949511,بيانيه دفتر تحکیم وحدت فارس در محکومیت عملیات تروریستی در سوریه ,,2012-06-11 09:56:35,دوشنبه ۲۲ خرداد ۱۳۹۱ - ۱۲:۲۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,National,بحرین,NA,Government,Formal student group,Human rights,Reformist,Unknown,Unknown,Unknown,Unknown,2012-06-11,No,2012-06-11,2012-06-11,1,success,gpt-4o-mini
+24971,1949521,نامه خانواده‌های شهدای ترور به نماینده ویژه دبیر کل سازمان ملل در عراق,,2012-06-11 10:03:29,دوشنبه ۲۲ خرداد ۱۳۹۱ - ۱۲:۳۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,International,Unknown,Unknown,International Institution/Country,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2012-06-11,No,2012-06-11,2012-06-11,1,success,gpt-4o-mini
+24975,1949200,تجمع جمعي از کارگران ساختمانی مقابل ساختمان مجلس,,2012-06-12 07:02:49,سه‌شنبه ۲۳ خرداد ۱۳۹۱ - ۰۹:۳۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-06-12,No,,,1,success,gpt-4o-mini
+25023,1945012,مجمع تشكل‌هاي دانشجويان دانشگاه آزاد دستگيري عاملان ترور دانشمندان هسته‌يي را تبريك گفت,در نامه‌اي به وزير اطلاعات,2012-06-19 17:43:09,سه‌شنبه ۳۰ خرداد ۱۳۹۱ - ۲۰:۱۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Formal student group,Student Movement,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-06-19,No,2012-06-19,2012-06-19,1,success,gpt-4o-mini
+25062,1940154,تجمع جمعي از مربيان پيش دبستاني در مقابل مجلس شوراي اسلامي,,2012-06-24 06:58:11,یکشنبه ۴ تیر ۱۳۹۱ - ۰۹:۲۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Teachers,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2012-06-24,No,2012-06-24,2012-06-24,1,success,gpt-4o-mini
+25084,1942122,مراسم تجلیل از فعالان تشییع پیکر پاک 96 شهید دفاع مقدس برگزار شد,,2012-06-25 14:19:41,دوشنبه ۵ تیر ۱۳۹۱ - ۱۶:۴۹,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,,Ritual,No,Unknown,Unknown,Cultural,Wo_Hijab,Local,اراک,City,Government,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-06-25,No,2012-06-25,2012-06-25,1,success,gpt-4o-mini
+25128,1937723,قطع درختان جنگل ابر، از انكار تا اعلام رسمي قطع 465 اصله درخت/اعتراضات همچنان ادامه دارد,مسوولان چرا ضروريات احداث جاده در جنگل ابر را بيان نمي‌كنند؟,2012-06-29 11:59:30,جمعه ۹ تیر ۱۳۹۱ - ۱۴:۲۹,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Deforestation,Local,جنگل ابر,Rural,Government,NGO/Community,Environmental,Unknown,شاهرود,medium group < 50,مقابل فرمانداري شاهرود,In front of state buildings,2012-06-29,No,,,1,success,gpt-4o-mini
+22,660319,درهمايش حاميان ولايت تاكيد شد؛  حضور مردم در پاي صندوق‌هاي راي، وتوي استكبار جهاني است,,2012-02-23 15:27:29,پنجشنبه ۴ اسفند ۱۳۹۰ - ۱۸:۵۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Political,N/A,National,تهران,Capital,Government,Political Org./Party,Political,Progovernment,تهران,unknown,حسینیه فاطمیون,Public place,2012-02-23,No,2012-02-23,2012-02-23,1,success,gpt-4o-mini
+30,661365,/همايش حاميان ولايت/  اظهارات ابوترابي‌فرد، مطهري، افتخاري، هاشمي و زماني,,2012-02-24 06:24:06,جمعه ۵ اسفند ۱۳۹۰ - ۰۹:۵۴,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,Government,Political Org./Party,Political,Progovernment,تهران,unknown,Unknown,Unknown,2012-02-24,No,2012-02-24,2012-02-24,1,success,gpt-4o-mini
+41,667583,نامه جمعي از دانشجويان المپيادي دانشگاه صنعتي شريف به وزير علوم,,2012-02-21 10:49:21,سه‌شنبه ۲ اسفند ۱۳۹۰ - ۱۴:۱۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Student/university,N/A,Local,تهران,University,University Officials,Formal student group,Student Movement,Unknown,تهران,small group < 15,Unknown,Unknown,2012-02-21,No,2012-02-21,2012-02-21,1,success,gpt-4o-mini
+60,670752,/ گزارش تصويري/18  راهپيمايي با شكوه ‌22بهمن - رشت,,2012-02-11 14:26:00,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۷:۵۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,رشت,City,Unknown,Unknown,Unknown,Unknown,رشت,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+61,670753,/ گزارش تصويري/ 19  راهپيمايي با شكوه ‌22بهمن - ياسوج,,2012-02-11 14:33:12,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۸:۰۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,City,Unknown,Unknown,Unknown,Unknown,یاسوج,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+62,670756,/ گزارش تصويري/20  راهپيمايي با شكوه ‌22بهمن - اروميه و زنجان,,2012-02-11 15:10:42,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۸:۴۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,اروميه,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+63,670757,/ عكس خبري /  حضور عروس و داماد ياسوجي در راهپيمايي 22 بهمن,,2012-02-11 15:16:09,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۸:۴۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,یاسوج,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+64,670760,/ گزارش تصويري/21  راهپيمايي با شكوه ‌22بهمن - مشهد,,2012-02-11 15:42:23,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۹:۱۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,مشهد,City,Unknown,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+66,670772,/گزارش تصويري/‌10   راهپيمايي با شكوه ‌22بهمن - اصفهان,,2012-02-11 12:48:42,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۱۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,اصفهان,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+67,670776,/گزارش تصويري/‌11   راهپيمايي با شكوه ‌22بهمن - بوشهر,,2012-02-11 12:56:00,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۲۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,بوشهر,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+68,670779,/گزارش تصويري/‌12   راهپيمايي با شكوه ‌22بهمن - همدان,,2012-02-11 13:01:42,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۳۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,همدان,City,Government,Ordinary Citizens,Political,Unknown,همدان,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+69,670781,/گزارش تصويري/‌13   راهپيمايي با شكوه ‌22بهمن - قم,,2012-02-11 13:10:09,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۴۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+70,670783,/گزارش تصويري/5  راهپيمايي با شكوه ‌22بهمن - تهران,,2012-02-11 11:50:33,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۵:۲۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+71,670784,/گزارش تصويري/6  راهپيمايي با شكوه ‌22بهمن - تهران,,2012-02-11 11:51:02,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۵:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+74,670793,/گزارش تصويري/8   راهپيمايي با شكوه ‌22بهمن - تهران,,2012-02-11 12:14:52,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۵:۴۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+82,670846,/گزارش تصويري/1  راهپيمايي با شكوه 22بهمن - اهواز,,2012-02-11 10:13:40,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۳:۴۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,اهواز,unknown,Unknown,Unknown,2012-02-11,No,,,1,success,gpt-4o-mini
+85,670885,/‌22 بهمن؛ تجديد حيات ملت ايران/   برگزاري راهپيمايي باشکوه 22 بهمن در سيستان و بلوچستان,,2012-02-11 08:23:22,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۱:۵۳,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,سیستان و بلوچستان,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,سیستان و بلوچستان,"thousands, +1000",Unknown,Public place,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+88,670913,آغاز راهپيمايي يوم الله 22 بهمن در کرمانشاه و خوزستان,,2012-02-11 08:08:50,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۱:۳۸,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,کرمانشاه,City,Government,Ordinary Citizens,Political,Unknown,کرمانشاه,"thousands, +1000",چهارراه بسیج,Public place,2012-02-11,No,,,1,success,gpt-4o-mini
+89,670943,رئيس مجلس سخنران مراسم راهپيمايي 22 بهمن در مشهد,,2012-02-11 07:28:08,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۰:۵۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,Local,مشهد,City,Government,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+114,671770,در نشست خبري جبهه حاميان ولايت عنوان شد؛  علي مطهري سرليست جبهه حاميان ولايت   90 درصد افراد ليست اين جبهه با ليست جبهه متحد اصولگرايان مشترك است,,2012-02-07 12:10:39,سه‌شنبه ۱۸ بهمن ۱۳۹۰ - ۱۵:۴۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,Political Party/Politician,Political Org./Party,Political,Conservative,تهران,unknown,Unknown,Unknown,2012-02-07,No,2012-02-07,2012-02-07,1,success,gpt-4o-mini
+135,673308,نامه جمعي از دانشجويان ايران اسلامي به رهبر معظم انقلاب اسلامي,,2012-02-03 12:55:07,جمعه ۱۴ بهمن ۱۳۹۰ - ۱۶:۲۵,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Economic,N/A,National,Unknown,Unknown,International Institution/Country,Formal student group,Student Movement,Progovernment,Unknown,Unknown,Unknown,Unknown,2012-02-03,No,2012-02-03,2012-02-03,1,success,gpt-4o-mini
+173,678992,بيانيه جبهه حاميان ولايت به مناسبت سالروز پيروزي انقلاب اسلامي,,2012-02-08 13:38:59,چهارشنبه ۱۹ بهمن ۱۳۹۰ - ۱۷:۰۸,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Capital,Government,Campaign,Political,Progovernment,تهران,unknown,Unknown,Public place,2012-02-08,No,,,1,success,gpt-4o-mini
+187,679253,/‌22 بهمن؛ تجديد حيات ملت ايران/  راهپيمايي گسترده 22 بهمن در شهرهاي استان مرکزي آغاز شد,,2012-02-11 07:19:36,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۰:۴۹,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,Unknown,Province Center,Government,Ordinary Citizens,Political,Progovernment,اراک,"thousands, +1000",مصلاي بيت‌المقدس اراک,Public place,2012-02-11,No,,,1,success,gpt-4o-mini
+194,679337,/‌22 بهمن؛ تجديد حيات ملت ايران/‌  امام‌جمعه بردسکن:  حضور در راهپيمايي 22 بهمن، تمرين آمادگي براي عصر ظهور است,,2012-02-11 10:27:11,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۳:۵۷,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,N/A,Local,بردسکن,Town,Government,Formal religious group,Religious,Progovernment,بردسکن,unknown,مقابل مجلس شورای اسلامی,Public place,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+196,679355,مديرعامل سازمان مديريت پسماند تهران خبرداد:  نظافت و پاكسازي مسيرهاي راهپيمايي 22 بهمن انجام شد,,2012-02-11 11:13:11,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۴:۴۳,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Environmental,Env_Waste Disposal,Local,تهران,Capital,Municipality/ city councils,Unknown,Environmental,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+202,679382,/22 بهمن؛ تجديد حيات ملت ايران/  استاندار خوزستان:  دشمنان از جمعيت مشتاق و حاضر در راهپيمايي 22 بهمن درس عبرت بگيرند,,2012-02-11 12:39:16,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۰۹,سرویس استان ها,"
+                        دفتر خبری
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,اهواز,City,Government,Unknown,Unknown,Progovernment,اهواز,"thousands, +1000",Unknown,Public place,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+204,679387,/گزارش تصويري/‌14   راهپيمايي با شكوه ‌22بهمن - شيراز,,2012-02-11 13:19:15,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۶:۴۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,شیراز,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+205,679391,/گزارش تصويري/‌15   راهپيمايي با شكوه ‌22بهمن - تبريز,,2012-02-11 13:31:25,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۷:۰۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,تبریز,City,Government,Unknown,Unknown,Unknown,تبریز,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+206,679395,/گزارش تصويري/ 16  راهپيمايي با شكوه ‌22بهمن - تهران,,2012-02-11 13:45:20,شنبه ۲۲ بهمن ۱۳۹۰ - ۱۷:۱۵,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2012-02-11,No,2012-02-11,2012-02-11,1,success,gpt-4o-mini
+218,681911,نامه جمعي از اصناف به دبير جشنواره فيلم فجر,,2012-01-27 15:50:46,جمعه ۷ بهمن ۱۳۹۰ - ۱۹:۲۰,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,National,Unknown,Unknown,Government,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2012-01-27,No,2012-01-27,2012-01-27,1,success,gpt-4o-mini
+227,683812,نامه جمعي از دانشجويان تهران به سفراي 25 کشور اروپايي:  سکوت و سكون شما خيانتي بزرگ به علم و کرامت بشر است,,2012-01-18 12:59:55,چهارشنبه ۲۸ دی ۱۳۹۰ - ۱۶:۲۹,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Human rights,N/A,National,Unknown,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,Unknown,Unknown,2012-01-18,No,2012-01-18,2012-01-18,1,success,gpt-4o-mini
+252,687432,نامه جمعي از اصناف به دبير جشنواره فيلم فجر,,2012-01-27 14:10:25,جمعه ۷ بهمن ۱۳۹۰ - ۱۷:۴۰,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,National,Unknown,Unknown,Ministries,Unknown,Cultural,Unknown,تهران,Unknown,Unknown,Unknown,2012-01-27,No,2012-01-27,2012-01-27,1,success,gpt-4o-mini
+269,689460,نامه جمعي از دانشجويان دانشگاه تهران به گزارشگر ويژه حقوق بشر,,2012-01-09 09:30:08,دوشنبه ۱۹ دی ۱۳۹۰ - ۱۳:۰۰,سرویس سیاسی,"
+                        سیاسی2
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Human rights,N/A,National,تهران,Capital,International Institution/Country,Formal student group,Student Movement,Unknown,تهران,medium group < 50,Unknown,Unknown,2012-01-09,No,2012-01-09,2012-01-09,1,success,gpt-4o-mini
+5003,1959776,برگزاري راهپيمايي نمادين در 22 منطقه تهران,در اولين روز از هفته جهاني بدون دخانيات صورت مي‌گيرد؛ ,2012-05-24 05:45:28,پنجشنبه ۴ خرداد ۱۳۹۱ - ۱۰:۱۵,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,symbolic demonstrations,اعتراضات نمادین,Health,N/A,Local,تهران,Capital,Public Awareness,Government,Health,Unknown,تهران,unknown,Unknown,Public place,2012-05-24,No,2012-05-24,2012-05-24,1,success,gpt-4o-mini
+5008,1961596,نامه جمعي از دانشجويان فعال حقوق بشر خطاب به كميسر عالي حقوق بشر سازمان ملل,,2012-05-21 12:28:37,دوشنبه ۱ خرداد ۱۳۹۱ - ۱۶:۵۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Human rights,N/A,International,بحرین,National,International Institution/Country,Formal student group,Human rights,Unknown,Unknown,unknown,Unknown,Unknown,2012-05-21,No,2012-05-21,2012-05-21,1,success,gpt-4o-mini
+5049,1976782,همايش انتخاباتي جبهه حاميان ولايت برگزار شد,با سخنراني تعدادي از كانديداهاي انتخابات مجلس نهم,2012-04-27 09:06:59,جمعه ۸ اردیبهشت ۱۳۹۱ - ۱۳:۳۶,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,electoral assembly,تجمع انتخاباتی,Political,N/A,Local,Unknown,Capital,Government,Political Org./Party,Political,Progovernment,Unknown,unknown,Unknown,Unknown,2012-04-27,No,2012-04-27,2012-04-27,1,success,gpt-4o-mini

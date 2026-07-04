@@ -1,0 +1,983 @@
+﻿Unnamed: 0,id,title,sub_title,date,persian_date,service,category,agency,relevance,duplicate,protests_categories,protest_ritual,violent,protest_form_en,protest_form_fa,issue,issue_specific,local_national_international,issue_location_name,location_category,target,organizer_type,civil_society_sector,main_political_sector,event_location_name,size_of_participants,arena_name,arena_type,event_date,is_multi_day,date_range_start,date_range_end,days_duration,_processing_status,_model_used,event_day,original_article_id,_is_expanded,duplicate_group_id
+30694,593775,به حکم صادره برای موکلم اعتراض می‌کنیم,وکیل‌مدافع یکی از متهمین پرونده کهریزک:,2013-07-02 10:41:06,سه‌شنبه ۱۱ تیر ۱۳۹۲ - ۱۳:۱۱,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Judiciary,N/A,National,تهران,Capital,Judiciary,Unknown,Lawyers,Unknown,تهران,unknown,Unknown,Unknown,2013-07-02,No,2013-07-02,2013-07-02,1.0,success,gpt-4o-mini,,,,
+30717,593289,یک تحصن عجیب در خیابان پاستور!,,2013-07-03 15:38:35,چهارشنبه ۱۲ تیر ۱۳۹۲ - ۱۸:۰۸,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Human rights,N/A,Local,Unknown,City,Supreme Leader,Ordinary Citizens,Human rights,Unknown,خیابان پاستور,1 person,مقابل ایست و بازرسی نهاد ریاست جمهوری,Public place,2013-07-03,No,2013-07-03,2013-07-03,1.0,success,gpt-4o-mini,,,,
+30721,592559,دیدار جمعی از علما و فعالان سیاسی اهل تسنن با آیت الله هاشمی,,2013-07-04 10:57:29,پنجشنبه ۱۳ تیر ۱۳۹۲ - ۱۳:۲۷,سرویس عکس,,isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-04,No,2013-07-04,2013-07-04,1.0,success,gpt-4o-mini,,,,
+30746,591071,اعتراض کارگردان «قاعده تصادف» برای عدم صدور مجوز «کار ویژه»ی فیلمش,,2013-07-06 09:05:40,شنبه ۱۵ تیر ۱۳۹۲ - ۱۱:۳۵,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Ministries,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-06,No,2013-07-06,2013-07-06,1.0,success,gpt-4o-mini,,,,
+30749,590951,تجمع جمعی از آزادگان و جانبازان مقابل بنیاد شهید,,2013-07-06 11:00:06,شنبه ۱۵ تیر ۱۳۹۲ - ۱۳:۳۰,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,City,Government,Ordinary Citizens,Human rights,Unknown,مقابل بنیاد شهید و امور ایثارگران,medium group < 50,مقابل بنیاد شهید و امور ایثارگران,In front of state buildings,2013-07-06,No,2013-07-06,2013-07-06,1.0,success,gpt-4o-mini,,,,
+30788,592328,ادامه اعتراض به بلند مرتبه سازی در شهر تهران,,2013-07-09 10:09:42,سه‌شنبه ۱۸ تیر ۱۳۹۲ - ۱۲:۳۹,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Urban,N/A,Local,تهران,Capital,Municipality/ city councils,Formal student group,Urban,Reformist,تهران,unknown,Unknown,Unknown,2013-07-09,No,,,1.0,success,gpt-4o-mini,,,,
+30804,588536,گروه موسوم به «انصار سنت» مسوولیت حمله تروریستی در چابهار را برعهده گرفت,,2013-07-10 11:27:01,چهارشنبه ۱۹ تیر ۱۳۹۲ - ۱۳:۵۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,چابهار,City,Government,Armed/Separatist group,Unknown,Unknown,چابهار,unknown,مقر فرماندهی نیروهای امنیتی,In front of state buildings,2013-07-10,No,2013-07-10,2013-07-10,1.0,success,gpt-4o-mini,,,,
+30839,586761,اعتراض رادیولوژیست‌ها به کارت سبز وزارت بهداشت به پزشکان برای انجام سونوگرافی,,2013-07-13 08:39:02,شنبه ۲۲ تیر ۱۳۹۲ - ۱۱:۰۹,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Health regulations,N/A,Local,Unknown,Capital,Ministries,Student Movement,Health,Unknown,مقابل ساختمان وزارت بهداشت,medium group < 50,مقابل ساختمان وزارت بهداشت,In front of state buildings,2013-07-13,No,2013-07-13,2013-07-13,1.0,success,gpt-4o-mini,,,,
+30853,586106,اعتراض‌ «کاوه آفاق» به پخش مستندی در یکی از شبکه‌های ماهواره‌ای,,2013-07-14 07:06:07,یکشنبه ۲۳ تیر ۱۳۹۲ - ۰۹:۳۶,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Private Companies/organizations,Unknown,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2013-07-14,No,,,1.0,success,gpt-4o-mini,,,,
+30857,586943,تجمع کاندیداهای شورای شهر کرمانشاه مقابل مجلس,,2013-07-14 07:45:11,یکشنبه ۲۳ تیر ۱۳۹۲ - ۱۰:۱۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,کرمانشاه,City,Parliament,Ordinary Citizens,Political,Unknown,تهران,medium group < 50,مقابل مجلس,Parliament area,2013-07-14,No,,,1.0,success,gpt-4o-mini,,,,
+30860,586964,تجمع صنفی کارکنان بیمه آسیا در مقابل ساختمان سپهبدقرنی,,2013-07-14 08:16:55,یکشنبه ۲۳ تیر ۱۳۹۲ - ۱۰:۴۶,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,City,Private Companies/organizations,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل ساختمان مرکزی بیمه آسیا,In front of private companies,2013-07-14,No,2013-07-14,2013-07-14,1.0,success,gpt-4o-mini,,,,
+30880,585416,برای دومین روز متوالی کارکنان بیمه آسیا تجمع کردند,,2013-07-15 09:21:32,دوشنبه ۲۴ تیر ۱۳۹۲ - ۱۱:۵۱,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,City,Private Companies/organizations,Labour Union,Labour,Unknown,ساختمان مرکزی بیمه آسیا,Large Group < 200,تقاطع خیابان سپهبد قرنی و طالقانی,Streets,2013-07-15,Yes,2013-07-15,2013-07-15,2.0,success,gpt-4o-mini,1.0,585416.0,Yes,90ce78396533f061a80359eee707a103
+30880,585416,برای دومین روز متوالی کارکنان بیمه آسیا تجمع کردند,,2013-07-15 09:21:32,دوشنبه ۲۴ تیر ۱۳۹۲ - ۱۱:۵۱,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,تقاطع خیابان سپهبد قرنی و طالقانی,,,,,,,success,gpt-4o-mini,2.0,585416.0,Yes,90ce78396533f061a80359eee707a103
+30885,587274,پیشنهاد تشکیل «جنبش مدنی ضد تحریم»,,2013-07-15 13:45:47,دوشنبه ۲۴ تیر ۱۳۹۲ - ۱۶:۱۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,NA,International Institution/Country,Unknown,Economic/trade/business,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-15,No,2013-07-15,2013-07-15,1.0,success,gpt-4o-mini,,,,
+30889,587311,تجمع کارگران کارخانه ذوب آهن کردستان مقابل مجلس,,2013-07-16 05:29:50,سه‌شنبه ۲۵ تیر ۱۳۹۲ - ۰۷:۵۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,کردستان,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,Parliament area,2013-07-16,No,2013-07-16,2013-07-16,1.0,success,gpt-4o-mini,,,,
+30897,587420,تجمع جمعی از اهالی سینما در پی پلمب خانه‌ی سینما,,2013-07-16 10:08:19,سه‌شنبه ۲۵ تیر ۱۳۹۲ - ۱۲:۳۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Government,Unknown,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2013-07-16,No,2013-07-16,2013-07-16,1.0,success,gpt-4o-mini,,,,
+30901,584762,اعتراض کارکنان انجمن آثار و مفاخر فرهنگی/نشست خبری در خیابان,,2013-07-16 12:56:39,سه‌شنبه ۲۵ تیر ۱۳۹۲ - ۱۵:۲۶,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Labour,N/A,Local,Unknown,City,Ministries,Labour Union,Labour,Unknown,خیابان شهید بشیری,medium group < 50,خیابان شهید بشیری,Public place,2013-07-16,No,2013-07-16,2013-07-16,1.0,success,gpt-4o-mini,,,,
+30908,584594, کارگران کارخانه ذوب‌آهن کردستان مقابل مجلس تجمع کردند, برای دومین روز متوالی؛,2013-07-17 07:19:47,چهارشنبه ۲۶ تیر ۱۳۹۲ - ۰۹:۴۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,کردستان,Capital,Government,Labour Union,Labour,Unknown,تهران,unknown,مقابل مجلس شورای اسلامی,Parliament area,2013-07-17,Yes,2013-07-16,2013-07-17,2.0,success,gpt-4o-mini,1.0,584594.0,Yes,2eef55e6ac9932e0f868d1bbd71d1368
+30908,584594, کارگران کارخانه ذوب‌آهن کردستان مقابل مجلس تجمع کردند, برای دومین روز متوالی؛,2013-07-17 07:19:47,چهارشنبه ۲۶ تیر ۱۳۹۲ - ۰۹:۴۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,2.0,584594.0,Yes,2eef55e6ac9932e0f868d1bbd71d1368
+30914,584280,تجمع 64 خانواده نگران مقابل منزل قاچاق‌بر انسان,گزارشی از سرنوشت نامعلوم ده‌ها ایرانی جویای کار در استرالیا,2013-07-17 12:29:59,چهارشنبه ۲۶ تیر ۱۳۹۲ - ۱۴:۵۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,City,Human trafficker,Ordinary Citizens,Human rights,Unknown,یافت‌آباد,Large Group < 200,مقابل منزل قاچاق‌بر,Public place,2013-07-17,No,,,1.0,success,gpt-4o-mini,,,,
+30915,587677,اعتراض یک مستند‌ساز به نحوه پخش فیلمش از شبکه مستند,,2013-07-17 12:34:56,چهارشنبه ۲۶ تیر ۱۳۹۲ - ۱۵:۰۴,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Government,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2013-07-17,No,2013-07-17,2013-07-17,1.0,success,gpt-4o-mini,,,,
+30919,584198,پلیس پایتخت: هرگونه تجمع سینماگران در مقابل خانه سینما منوط به اخذ مجوز از مراجع ذیربط است,در پی فراخوان روز پنجشنبه,2013-07-17 21:37:42,پنجشنبه ۲۷ تیر ۱۳۹۲ - ۰۰:۰۷,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Capital,Government,Unknown,Cultural,Unknown,مقابل خانه سینما,Unknown,مقابل خانه سینما,In front of state buildings,2013-07-17,No,2013-07-17,2013-07-17,1.0,success,gpt-4o-mini,,,,
+30920,584172,اعلام آمادگی کاسه‌ساز برای گفت‌وگو با نمایندگان تجمع‌کنندگان در برابر خانه سینما,,2013-07-18 07:10:00,پنجشنبه ۲۷ تیر ۱۳۹۲ - ۰۹:۴۰,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,City,Government,Unknown,Cultural,Unknown,خانه سینما,unknown,خانه سینما,In front of state buildings,2013-07-18,No,2013-07-18,2013-07-18,1.0,success,gpt-4o-mini,,,,
+30921,584178,اعتراض نماینده بیماران «ام‌ اس» به یک برنامه تلویزیونی+ نامه ضرغامی,«ام اسی‌ها» ناتوان و نیازمند ترحم نیستند,2013-07-18 07:23:27,پنجشنبه ۲۷ تیر ۱۳۹۲ - ۰۹:۵۳,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Disability,N/A,National,تهران,Capital,Government,NGO/Community,Disability rights,Unknown,تهران,unknown,Unknown,Unknown,2013-07-18,No,,,1.0,success,gpt-4o-mini,,,,
+30923,584162,واکنش انجمن آثار و مفاخر فرهنگی به اعتراض کارکنانش,,2013-07-18 08:34:58,پنجشنبه ۲۷ تیر ۱۳۹۲ - ۱۱:۰۴,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,City,Government,Labour Union,Labour,Unknown,خیابان,unknown,مقابل انجمن آثار و مفاخر فرهنگی,Public place,2013-07-18,No,2013-07-18,2013-07-18,1.0,success,gpt-4o-mini,,,,
+30924,584133,تجمع دوباره سینماگران مقابل خانه‌ی سینما,,2013-07-18 09:18:11,پنجشنبه ۲۷ تیر ۱۳۹۲ - ۱۱:۴۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,خانه‌ی سینما,unknown,خانه‌ی سینما,Public place,2013-07-18,No,2013-07-18,2013-07-18,1.0,success,gpt-4o-mini,,,,
+30927,583238,پاسخ تهیه‌کننده «ضیافت الهی» به اعتراض نماینده‌ بیماران ام‌اس,«خود بیماران کلیپ‌ها را ساختند، ما فقط پخش می‌کنیم»,2013-07-19 07:11:19,جمعه ۲۸ تیر ۱۳۹۲ - ۰۹:۴۱,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Disability,N/A,Local,Unknown,Unknown,Government,Unknown,Disability rights,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-19,No,2013-07-19,2013-07-19,1.0,success,gpt-4o-mini,,,,
+30932,583305,همه‌ی آنچه‌ در تجمع 5 ساعته‌ سینماگران گذشت / قول نیروی انتظامی برای محافظت از خانه سینما,ایسنا گزارش کرد:,2013-07-19 09:04:38,جمعه ۲۸ تیر ۱۳۹۲ - ۱۱:۳۴,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,Government,Diverse,Cultural,Unknown,خانه سینما,Large Group < 200,خانه سینما,Public place,2013-07-19,No,,,1.0,success,gpt-4o-mini,,,,
+30952,582685,فرهاد توحیدی: تجمع فردا به خانه‌ی سینما هیچ ارتباطی ندارد,,2013-07-20 11:12:29,شنبه ۲۹ تیر ۱۳۹۲ - ۱۳:۴۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Capital,Ministries,Labour Union,Cultural,Unknown,تهران,unknown,مقابل وزارت ارشاد,In front of state buildings,2013-07-30,No,2013-07-30,2013-07-30,1.0,success,gpt-4o-mini,,,,
+30955,583529,شورای عالی تهیه‌کنندگان سینما در تجمع فردا شرکت نخواهد کرد,,2013-07-20 13:02:46,شنبه ۲۹ تیر ۱۳۹۲ - ۱۵:۳۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Capital,Ministries,Unknown,Cultural,Unknown,تهران,unknown,مقابل وزارت ارشاد,In front of state buildings,2013-07-30,No,2013-07-30,2013-07-30,1.0,success,gpt-4o-mini,,,,
+30967,582315,آغاز تجمع برخی صنوف سینمایی مقابل وزارت ارشاد / «خانه سینما به صنوف قانونی تحویل داده شود»,,2013-07-21 09:27:08,یکشنبه ۳۰ تیر ۱۳۹۲ - ۱۱:۵۷,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,Ministries,Labour Union,Cultural,Unknown,مقابل وزارت فرهنگ و ارشاد اسلامی,Large Group < 200,مقابل وزارت فرهنگ و ارشاد اسلامی,In front of state buildings,2013-07-21,No,2013-07-21,2013-07-21,1.0,success,gpt-4o-mini,,,,
+30970,582215,پایان تجمع 2 ساعته‌ی برخی صنوف سینمایی مقابل وزارت ارشاد,,2013-07-21 10:32:03,یکشنبه ۳۰ تیر ۱۳۹۲ - ۱۳:۰۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,Ministries,Campaign,Cultural,Unknown,مقابل وزارت ارشاد,medium group < 50,مقابل وزارت ارشاد,In front of state buildings,2013-07-21,No,,,1.0,success,gpt-4o-mini,,,,
+30971,582217, تجمع نوازندگان ارکستر سمفونیک تهران در تالار رودکی ,,2013-07-21 10:32:41,یکشنبه ۳۰ تیر ۱۳۹۲ - ۱۳:۰۲,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,تهران,City,Ministries,Labour Union,Labour,Unknown,تالار رودکی,medium group < 50,تالار رودکی,Public place,2013-07-21,No,2013-07-21,2013-07-21,1.0,success,gpt-4o-mini,,,,
+30972,582169,تجمع برخی صنوف سینمایی مقابل وزارت ارشاد,,2013-07-21 11:33:31,یکشنبه ۳۰ تیر ۱۳۹۲ - ۱۴:۰۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,Capital,Ministries,Unknown,Cultural,Unknown,تهران,unknown,مقابل وزارت ارشاد,In front of state buildings,2013-07-21,No,,,1.0,success,gpt-4o-mini,,,,
+30973,582157,گزارش ایسنا از تجمع 30 تیر در مقابل وزارت ارشاد / وکلای دو طرف درگیر خانه سینما چه گفتند؟,«ما سیاهی لشگر نیستیم»,2013-07-21 12:14:02,یکشنبه ۳۰ تیر ۱۳۹۲ - ۱۴:۴۴,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,تهران,Capital,Ministries,Labour Union,Cultural,Unknown,مقابل وزارت فرهنگ و ارشاد اسلامی,Large Group < 200,مقابل وزارت فرهنگ و ارشاد اسلامی,In front of state buildings,2013-07-21,No,2013-07-21,2013-07-21,1.0,success,gpt-4o-mini,,,,
+30984,581939,تجمع کارگران ذوب‌آهن کردستان برای سومین روز مقابل مجلس,,2013-07-22 07:53:53,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۰:۲۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,کردستان,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,Parliament area,2013-07-22,Yes,2013-07-20,2013-07-22,3.0,success,gpt-4o-mini,1.0,581939.0,Yes,5ced87222ff9610038f623ba78cef7e8
+30984,581939,تجمع کارگران ذوب‌آهن کردستان برای سومین روز مقابل مجلس,,2013-07-22 07:53:53,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۰:۲۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,2.0,581939.0,Yes,5ced87222ff9610038f623ba78cef7e8
+30984,581939,تجمع کارگران ذوب‌آهن کردستان برای سومین روز مقابل مجلس,,2013-07-22 07:53:53,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۰:۲۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,مقابل مجلس شورای اسلامی,,,,,,,success,gpt-4o-mini,3.0,581939.0,Yes,5ced87222ff9610038f623ba78cef7e8
+30985,581916,گزارش کامل دلایل تجمع اعتراضی نوازندگان ارکستر سمفونیک,,2013-07-22 08:09:03,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۰:۳۹,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,تهران,Capital,Government,Labour Union,Labour,Unknown,تالار رودکی,small group < 15,تالار رودکی,Public place,2013-07-30,No,2013-07-30,2013-07-30,1.0,success,gpt-4o-mini,,,,
+30990,581807,تجلیل از فعالان و دست‌اندرکاران راهیان نور دریایی نوروز 92,,2013-07-22 09:16:55,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۱:۴۶,سرویس فرهنگی و هنری,"
+                        فرهنگ حماسه
+                        
+                    ",isna,Yes,No,,Ritual,NO,N/A,N/A,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,بوشهر,Unknown,سالن شهدای خلیج فارس,Public place,2013-07-22,No,,,1.0,success,gpt-4o-mini,,,,
+30996,581607,"آغاز به کار کمپین \نه به تحریم\"" از سوی \""سفیران صلح و امید\"" """,حسین نقاشی خبر داد:,2013-07-22 12:35:46,دوشنبه ۳۱ تیر ۱۳۹۲ - ۱۵:۰۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Economic,N/A,National,Unknown,Unknown,International Institution/Country,Campaign,Human rights,Unknown,Unknown,medium group < 50,Unknown,Unknown,2013-07-22,No,,,1.0,success,gpt-4o-mini,,,,
+31005,580865,تجمع جمعی از مدیران عامل تعاونی‌های تولیدی مقابل مجلس,,2013-07-23 08:15:36,سه‌شنبه ۱ مرداد ۱۳۹۲ - ۱۰:۴۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,No,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس,Parliament area,2013-07-23,No,2013-07-23,2013-07-23,1.0,success,gpt-4o-mini,,,,
+31019,580573,بیانیه معاونت بین‌الملل بسیج در محکومیت گنجاندن حزب‌الله لبنان در لیست گروههای تروریستی,,2013-07-23 14:32:22,سه‌شنبه ۱ مرداد ۱۳۹۲ - ۱۷:۰۲,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Palestine-Israel,National,Unknown,NA,International Institution/Country,Formal religious group,Political,Progovernment,Unknown,Unknown,Unknown,Unknown,2013-07-23,No,2013-07-23,2013-07-23,1.0,success,gpt-4o-mini,,,,
+31021,581067,بیانیه نمایندگان در محکومیت قراردادن شاخه نظامی حزب الله در فهرست گروه‌های تروریستی,,2013-07-23 15:01:43,سه‌شنبه ۱ مرداد ۱۳۹۲ - ۱۷:۳۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,International Institution/Country,Parliament,Political,Progovernment,تهران,unknown,Unknown,Unknown,2013-07-23,No,2013-07-23,2013-07-23,1.0,success,gpt-4o-mini,,,,
+31046,581338,تجمع خانواده‌های قربانیان مهاجرت غیرقانونی به استرالیا در مقابل سفارت اندونزی در تهران,از رویای خوشبختی تا واقعیت بدبختی؛,2013-07-25 10:21:04,پنجشنبه ۳ مرداد ۱۳۹۲ - ۱۲:۵۱,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Human rights,Unknown,تهران,small group < 15,مقابل سفارت اندونزی,International office/ embassy,2013-07-25,No,,,1.0,success,gpt-4o-mini,,,,
+31058,579323,"تجمع \مدافعان حرم\"" در اعتراض به هتک حرمت حرم حضرت زینب (س) - قم""",,2013-07-26 09:47:52,جمعه ۴ مرداد ۱۳۹۲ - ۱۲:۱۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2013-07-26,No,,,1.0,success,gpt-4o-mini,,,,
+31072,579534,ارسال پرونده گروهک تروریستی اخلالگر در انتخابات به دادگاه,رییس دادگستری سیستان و بلوچستان خبر داد:,2013-07-27 08:37:27,شنبه ۵ مرداد ۱۳۹۲ - ۱۱:۰۷,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,Unknown,,,Political,N/A,Local,سیستان و بلوچستان,Province Center,Judiciary,Unknown,Unknown,Unknown,سیستان و بلوچستان,unknown,,Unknown,2013-07-27,No,2013-07-27,2013-07-27,1.0,success,gpt-4o-mini,,,,
+31081,578900,تغییر مدیر عامل، خواسته مجدد کارمندان تجمع کننده بیمه آسیا,,2013-07-27 11:15:18,شنبه ۵ مرداد ۱۳۹۲ - ۱۳:۴۵,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,City,State Companies/organizations,Labour Union,Labour,Unknown,تهران,Large Group < 200,مقابل ساختمان مرکزی,In front of private companies,2013-07-27,No,,,1.0,success,gpt-4o-mini,,,,
+31085,578806,اعتراض تعدادی از رانندگان بهشهری به نحوه نوبت‌دهی در بارگیری,,2013-07-27 12:42:58,شنبه ۵ مرداد ۱۳۹۲ - ۱۵:۱۲,سرویس استان ها,"
+                        مازندران
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,بهشهر,City,Local authorities/agencies,Labour Union,Labour,Unknown,بندرامیرآباد,small group < 15,Unknown,Unknown,2013-07-27,No,2013-07-27,2013-07-27,1.0,success,gpt-4o-mini,,,,
+31091,578711,جمعی از مردم شهرستان مهدیشهر مقابل مجلس تجمع کردند,در پی مصوبه دولت،,2013-07-28 07:02:47,یکشنبه ۶ مرداد ۱۳۹۲ - ۰۹:۳۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,مهدیشهر,Town,Government,Ordinary Citizens,Political,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-07-28,No,,,1.0,success,gpt-4o-mini,,,,
+31130,576471,بیانیه جمعیت حامیان آزادی قدس شریف به مناسبت روز جهانی قدس,,2013-07-29 13:36:59,دوشنبه ۷ مرداد ۱۳۹۲ - ۱۶:۰۶,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Palestine-Israel,National,فلسطین,NA,International Institution/Country,Formal religious group,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-29,No,,,1.0,success,gpt-4o-mini,,,,
+31145,576105,«دادگاه اعتراض وزارت ارشاد به رای خانه سینما را نپذیرفت»,وکیل خانه‌ی سینما در گفت‌وگو با ایسنا مطرح کرد:,2013-07-31 07:02:06,چهارشنبه ۹ مرداد ۱۳۹۲ - ۰۹:۳۲,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,تهران,Capital,Government,Unknown,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2013-07-31,No,,,1.0,success,gpt-4o-mini,,,,
+31155,577492,اعتراض توحیدی به نحوه‌ی اهدای کارت‌های هدیه‌ی رمضان به سینماگران,,2013-07-31 09:57:23,چهارشنبه ۹ مرداد ۱۳۹۲ - ۱۲:۲۷,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Ministries,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-31,No,2013-07-31,2013-07-31,1.0,success,gpt-4o-mini,,,,
+31174,575624,دیدار جمعی از فعالان سیاسی و اقتصادی لرستان و کاشان با آیت الله هاشمی رفسنجانی,,2013-07-31 18:34:41,چهارشنبه ۹ مرداد ۱۳۹۲ - ۲۱:۰۴,سرویس عکس,,isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-07-31,No,2013-07-31,2013-07-31,1.0,success,gpt-4o-mini,,,,
+31207,575321,هاشمی رفسنجانی در راهپیمایی روز قدس شرکت کرد,/روز قدس، تداوم بیداری اسلامی/,2013-08-02 09:03:05,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۱:۳۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,تهران,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,میدان انقلاب,Public place,2013-08-02,No,,,1.0,success,gpt-4o-mini,,,,
+31208,575323,حضور پرشور مردم ارومیه در راهپیمایی روز قدس موجب همگرایی ادیان خواهد شد,,2013-08-02 09:03:44,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۱:۳۳,سرویس استان ها,"
+                        آذربایجان غربی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,Intl_Palestine-Israel,Local,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,ارومیه,unknown,Unknown,Public place,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31209,575325,حسن روحانی در راهپیمایی روز قدس حضور یافت,/روز قدس، تداوم بیداری اسلامی/,2013-08-02 09:05:48,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۱:۳۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,تهران,Capital,Government,Unknown,Unknown,Progovernment,تهران,"thousands, +1000",چهارراه ولیعصر,Public place,2013-08-02,No,,,1.0,success,gpt-4o-mini,,,,
+31214,575273,مراسم راهپیمایی روز جهانی قدس در اهواز آغاز شد,/روز قدس، تداوم بیداری اسلامی/,2013-08-02 09:49:00,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۲:۱۹,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,march/ rally,راهپیمایی,Political,Intl_Palestine-Israel,National,Unknown,City,International Institution/Country,Ordinary Citizens,Political,Unknown,اهواز,"thousands, +1000",مسجد آیت الله جزایری,Public place,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31215,575275,راهپیمایی روز قدس در اصفهان آغاز شد,/روز قدس، تداوم بیداری اسلامی/,2013-08-02 09:50:06,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۲:۲۰,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,اصفهان,City,Government,Ordinary Citizens,Political,Unknown,اصفهان,"thousands, +1000",میدان نقش جهان,Public place,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31216,575280,آغاز راهپیمایی روز جهانی قدس در 60 نقطه از استان یزد,,2013-08-02 09:52:44,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۲:۲۲,سرویس استان ها,"
+                        یزد
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,National,یزد,Province Center,Government,Ordinary Citizens,Political,Unknown,یزد,unknown,میدان شهیدبهشتی,Public place,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31226,575240,راهپیمایی روز جهانی قدس - مشهد,,2013-08-02 10:53:36,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۳:۲۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,مشهد,Unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31229,575213,حضور جمعی از مسوولان در راهپیمایی روز جهانی قدس,,2013-08-02 11:27:20,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۳:۵۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31230,575216,برگزاری باشکوه راهپیمایی روزجهانی قدس در کرمان ,/روز قدس، تداوم بیداری اسلامی/,2013-08-02 11:32:24,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۰۲,سرویس استان ها,"
+                        کرمان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,فلسطین,City,International Institution/Country,Ordinary Citizens,Human rights,Unknown,کرمان,"thousands, +1000",مصلی امام علی(ع),Public place,2013-08-02,No,,,1.0,success,gpt-4o-mini,,,,
+31232,575227,راهپیمایی روز جهانی قدس - قم,,2013-08-02 11:43:43,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۱۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,قم,City,Unknown,Unknown,Unknown,Unknown,قم,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31233,575228,راهپیمایی روز جهانی قدس - همدان و قزوین,,2013-08-02 11:44:20,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۱۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,همدان,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31234,577785,راهپیمایی روز جهانی قدس/ ۲,,2013-08-02 11:49:42,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۱۹,سرویس عکس,,isna,Yes,No,,Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-02,No,,,1.0,success,gpt-4o-mini,,,,
+31236,575190,گزارش کامل ایسنا از راهپیمایی روز جهانی قدس در تهران,,2013-08-02 11:52:36,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۲۲,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,National,فلسطین,Capital,International Institution/Country,Ordinary Citizens,Political,Progovernment,تهران,"thousands, +1000",مقابل دانشگاه تهران,Public place,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31237,575200,راهپیمایی روز جهانی قدس,,2013-08-02 11:59:50,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۲۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31239,575205,اعتراض معصومه ابتکار به «ماه عسل»,,2013-08-02 12:07:38,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۴:۳۷,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Collective open letter,نامه جمعی اعتراضی,Children,N/A,Local,Unknown,Unknown,Media,NGO/Community,Children's rights,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31243,575179,راهپیمایی روز جهانی قدس - شیراز و کرمان,,2013-08-02 13:01:00,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۵:۳۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,شیراز,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31245,577800,راهپیمایی روز جهانی قدس - تبریز و اصفهان,,2013-08-02 13:20:01,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۵:۵۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,تبریز,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31247,575149,حضور پرشور مردم زنجان در راهپیمایی روز قدس,,2013-08-02 13:44:06,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۶:۱۴,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Palestine-Israel,Local,فلسطین,City,International Institution/Country,Ordinary Citizens,Political,Unknown,زنجان,"thousands, +1000",میدان مصلای خاتم‌الانبیا,Public place,2013-08-02,No,,,1.0,success,gpt-4o-mini,,,,
+31252,577815,راهپیمایی روز جهانی قدس - بجنورد و یاسوج,,2013-08-02 15:20:37,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۷:۵۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,بجنورد,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31253,575137,راهپیمایی روز جهانی قدس - اهواز و بوشهر,,2013-08-02 16:51:14,جمعه ۱۱ مرداد ۱۳۹۲ - ۱۹:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,اهواز,City,Government,Unknown,Unknown,Unknown,اهواز,unknown,Unknown,Unknown,2013-08-02,No,2013-08-02,2013-08-02,1.0,success,gpt-4o-mini,,,,
+31272,578000,راه‌اندازی کمپین مخالفان رحمانی فضلی + تصاویر,,2013-08-03 13:35:43,شنبه ۱۲ مرداد ۱۳۹۲ - ۱۶:۰۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,Civil campaigning,کمپین مدنی یا پویشگری,Political,N/A,National,Unknown,Unknown,Government,Online Community,Political,Reformist,Unknown,Unknown,Unknown,Online,2013-08-03,No,,,1.0,success,gpt-4o-mini,,,,
+31297,573990,اعتراض فیلم‌نامه‌نویس، نشست فیلم «جابه‌جا» را ناتمام گذاشت ,,2013-08-05 07:57:10,دوشنبه ۱۴ مرداد ۱۳۹۲ - ۱۰:۲۷,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Cultural,N/A,Local,تهران,Capital,Other,Unknown,Cultural,Unknown,فرهنگسرای ارسباران,unknown,فرهنگسرای ارسباران,Public place,2013-08-05,No,,,1.0,success,gpt-4o-mini,,,,
+31305,570564,شاگرد مصباح به کف زدن مجلسیان اعتراض کرد,,2013-08-05 13:39:37,دوشنبه ۱۴ مرداد ۱۳۹۲ - ۱۶:۰۹,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,Parliament,Unknown,Unknown,Conservative,تهران,unknown,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-05,No,2013-08-05,2013-08-05,1.0,success,gpt-4o-mini,,,,
+31308,570592,"اعتراض انجمن داروسازان به \سهم‌خواهی بانک مرکزی از ترخیص دارو\""""",,2013-08-05 22:49:15,سه‌شنبه ۱۵ مرداد ۱۳۹۲ - ۰۱:۱۹,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Financial/banking,N/A,Local,Unknown,Unknown,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-05,No,2013-08-05,2013-08-05,1.0,success,gpt-4o-mini,,,,
+31323,570192,تیراندازی مرگبار در جلسه مدیران شهری ,در پنسیلوانیای آمریکا رخ داد؛,2013-08-06 09:15:03,سه‌شنبه ۱۵ مرداد ۱۳۹۲ - ۱۱:۴۵,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,International,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2013-08-06,No,2013-08-06,2013-08-06,1.0,success,gpt-4o-mini,,,,
+31369,571244,کفالت بیش از 2300 یتیم توسط حامیان زنجانی,,2013-08-10 10:32:42,شنبه ۱۹ مرداد ۱۳۹۲ - ۱۳:۰۲,سرویس استان ها,"
+                        زنجان
+                        
+                    ",isna,Yes,No,,Ritual,No,N/A,N/A,Children,N/A,Local,زنجان,Province Center,Unknown,NGO/Community,Charity,Unknown,زنجان,unknown,Unknown,Unknown,2013-08-10,No,,,1.0,success,gpt-4o-mini,,,,
+31371,568918,نامه جمعی از صنعتگران و تولیدکنندگان به نمایندگان مجلس در حمایت از نعمت‌زاده,,2013-08-10 12:52:50,شنبه ۱۹ مرداد ۱۳۹۲ - ۱۵:۲۲,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Economic,N/A,National,Unknown,NA,Parliament,Diverse,Economic/trade/business,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-10,No,2013-08-10,2013-08-10,1.0,success,gpt-4o-mini,,,,
+31376,568637,اعتراض یک مستندساز به پخش فیلمش از یک شبکه‌ی ماهواره‌ای ,,2013-08-11 09:24:44,یکشنبه ۲۰ مرداد ۱۳۹۲ - ۱۱:۵۴,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Private Companies/organizations,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2013-08-11,No,2013-08-11,2013-08-11,1.0,success,gpt-4o-mini,,,,
+31388,568358,تجمع معلمان حق‌التدریسی مقابل مجلس شورای اسلامی,,2013-08-12 06:40:26,دوشنبه ۲۱ مرداد ۱۳۹۲ - ۰۹:۱۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-12,No,2013-08-12,2013-08-12,1.0,success,gpt-4o-mini,,,,
+31412,567598,اعتراض محمدسعید میرزایی به راه‌اندازی صفحه‌ی فیس‌بوک به‌نام او,,2013-08-13 10:36:28,سه‌شنبه ۲۲ مرداد ۱۳۹۲ - ۱۳:۰۶,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Other,Ordinary Citizens,Cultural,Unknown,Unknown,unknown,Unknown,Unknown,2013-08-13,No,2013-08-13,2013-08-13,1.0,success,gpt-4o-mini,,,,
+31413,567600,جنبش ضدتحریم تشکیل می‌شود,با همت برخی از سازمان‌های غیردولتی,2013-08-13 10:39:30,سه‌شنبه ۲۲ مرداد ۱۳۹۲ - ۱۳:۰۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,International,ایران,National,International Institution/Country,NGO/Community,Human rights,Unknown,Unknown,unknown,Unknown,Unknown,2013-08-13,No,2013-08-13,2013-08-13,1.0,success,gpt-4o-mini,,,,
+31415,567500,تجمع کارکنان سازمان تحقیقات کشاورزی برای افزایش دستمزد,,2013-08-13 13:22:58,سه‌شنبه ۲۲ مرداد ۱۳۹۲ - ۱۵:۵۲,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,City,Government,Labour Union,Labour,Unknown,Unknown,Large Group < 200,محوطه سازمان ترویج، آموزش و تحقیقات کشاورزی,Public place,2013-08-13,No,,,1.0,success,gpt-4o-mini,,,,
+31429,567088,اعتراض ناشران دیجیتال به تبدیل تقدیر به انتقاد,,2013-08-14 11:24:42,چهارشنبه ۲۳ مرداد ۱۳۹۲ - ۱۳:۵۴,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,Local,Unknown,Unknown,Ministries,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-14,No,2013-08-14,2013-08-14,1.0,success,gpt-4o-mini,,,,
+31452,572208,نامه جمعی از اعضای فراکسیون رهروان و اصولگرایان در واکنش به اظهارات ترکان,,2013-08-15 16:57:45,پنجشنبه ۲۴ مرداد ۱۳۹۲ - ۱۹:۲۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Political,N/A,National,Unknown,Capital,Government,Political Org./Party,Political,Conservative,تهران,small group < 15,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-15,No,2013-08-15,2013-08-15,1.0,success,gpt-4o-mini,,,,
+31472,566047,تجمع طلاب غیرایرانی در مدرسه حجتیه قم,در محکومیت جنایات وهابیت انجام شد,2013-08-17 12:07:22,شنبه ۲۶ مرداد ۱۳۹۲ - ۱۴:۳۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,مدینه,City,Wahhabism,Formal religious group,Religious,Unknown,قم,Large Group < 200,مدرسه حجتیه,Public place,2013-08-17,No,,,1.0,success,gpt-4o-mini,,,,
+31488,572802,تجمع مردمی در اعتراض به آلودگی هوا - اراک,,2013-08-18 13:02:44,یکشنبه ۲۷ مرداد ۱۳۹۲ - ۱۵:۳۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Air pollution,Local,اراک,City,Government,Ordinary Citizens,Environmental,Unknown,اراک,unknown,Unknown,Unknown,2013-08-18,No,,,1.0,success,gpt-4o-mini,,,,
+31538,573409,اعتراض بهرام تشکر به توقف 5 روزه‌ی نمایش «بداهه‌گویی»,,2013-08-21 09:21:10,چهارشنبه ۳۰ مرداد ۱۳۹۲ - ۱۱:۵۱,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,City,Ministries,Unknown,Cultural,Unknown,Unknown,medium group < 50,Unknown,Unknown,2013-08-21,No,,,1.0,success,gpt-4o-mini,,,,
+31539,573428,تجمع جمعی از خانواده‌های زندانیان مواد مخدر مقابل مجلس,,2013-08-21 09:55:08,چهارشنبه ۳۰ مرداد ۱۳۹۲ - ۱۲:۲۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,Local,Unknown,Capital,Parliament,Ordinary Citizens,Human rights,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-21,No,,,1.0,success,gpt-4o-mini,,,,
+31570,562814,اعتراض یک نویسنده به پرداخت نشدن حق‌التألیفش و واکنش ناشر,,2013-08-24 09:35:56,شنبه ۲ شهریور ۱۳۹۲ - ۱۲:۰۵,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Financial/banking,N/A,Local,Unknown,Unknown,Private Companies/organizations,Ordinary Citizens,Unknown,Unknown,Unknown,unknown,Unknown,Unknown,2013-08-24,No,2013-08-24,2013-08-24,1.0,success,gpt-4o-mini,,,,
+31580,562069,تجمع جمعی از همسران شهدا مقابل مجلس ,,2013-08-25 06:18:19,یکشنبه ۳ شهریور ۱۳۹۲ - ۰۸:۴۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,National,اصفهان,Capital,Government,Ordinary Citizens,Other,Unknown,تهران,medium group <50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-25,No,2013-08-25,2013-08-25,1.0,success,gpt-4o-mini,,,,
+31590,561705,جمعی فعالان دانشجویی باهاشمی رفسنجانی دیدار می‌کنند,,2013-08-25 11:55:46,یکشنبه ۳ شهریور ۱۳۹۲ - ۱۴:۲۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,Unknown,Capital,Government,Formal student group,Student Movement,Unknown,تهران,medium group < 50,Unknown,Unknown,2013-08-25,No,2013-08-25,2013-08-25,1.0,success,gpt-4o-mini,,,,
+31600,561376,بیانیه مجمع جهانی تقریب مذاهب اسلامی در محکومیت انفجارهای تروریستی لبنان,,2013-08-26 08:46:26,دوشنبه ۴ شهریور ۱۳۹۲ - ۱۱:۱۶,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Palestine-Israel,International,لبنان,NA,International Institution/Country,Formal religious group,Religious,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-26,No,2013-08-26,2013-08-26,1.0,success,gpt-4o-mini,,,,
+31603,563264,"احسان و سوسن شریعتی مهمانان کمپین \ نه به تحریم\""""",,2013-08-26 09:13:45,دوشنبه ۴ شهریور ۱۳۹۲ - ۱۱:۴۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,N/A,National,Unknown,Unknown,International Institution/Country,Campaign,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2013-08-26,No,2013-08-26,2013-08-26,1.0,success,gpt-4o-mini,,,,
+31608,561263,اولین کنگره مردمی 17 هزار شهید ترور از سوی بنیاد هابیلیان برگزار می‌شود,,2013-08-26 10:29:00,دوشنبه ۴ شهریور ۱۳۹۲ - ۱۲:۵۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Ritual,Ritual,No,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,Government,NGO/Community,Political,Unknown,سالن همایش‌های سازمان صدا و سیما,Large Group < 200,سالن همایش‌های سازمان صدا و سیما,Public place,2013-08-26,No,2013-08-26,2013-08-26,1.0,success,gpt-4o-mini,,,,
+31611,561142,اعتراض سینماگران به قطع درختان و آغاز تخریب ورودی دو خانه‌ی تاریخی,,2013-08-26 13:30:00,دوشنبه ۴ شهریور ۱۳۹۲ - ۱۶:۰۰,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Deforestation,Local,همدان,City,Government,Diverse,Cultural,Unknown,همدان,Large Group < 200,Unknown,Public place,2013-08-26,No,,,1.0,success,gpt-4o-mini,,,,
+31614,561008,تجمع جمعی از ایثارگران مقابل مجلس,,2013-08-27 06:27:03,سه‌شنبه ۵ شهریور ۱۳۹۲ - ۰۸:۵۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Parliament,Ordinary Citizens,Unknown,Unknown,تهران,medium group <50,مقابل مجلس,In front of state buildings,2013-08-27,No,2013-08-27,2013-08-27,1.0,success,gpt-4o-mini,,,,
+31627,560760,جلسه جمعی از ایثارگران تجمع‌کننده مقابل مجلس با چند نماینده,,2013-08-27 11:46:08,سه‌شنبه ۵ شهریور ۱۳۹۲ - ۱۴:۱۶,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Financial/banking,N/A,Local,Unknown,Capital,Parliament,Ordinary Citizens,Unknown,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-08-27,No,2013-08-27,2013-08-27,1.0,success,gpt-4o-mini,,,,
+31635,560847,تجمع جمعی از کارگران مخابرات روستایی مقابل مجلس ,,2013-08-28 06:18:00,چهارشنبه ۶ شهریور ۱۳۹۲ - ۰۸:۴۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,medium group <50,مقابل مجلس,In front of state buildings,2013-08-28,No,2013-08-28,2013-08-28,1.0,success,gpt-4o-mini,,,,
+31645,559808,تجمع علیه کلاهبرداری در نمایندگی سایپا,,2013-08-28 09:35:43,چهارشنبه ۶ شهریور ۱۳۹۲ - ۱۲:۰۵,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Financial/banking,N/A,Local,همدان,Province Center,Private Companies/organizations,Ordinary Citizens,Economic/trade/business,Unknown,همدان,medium group < 50,مقابل درب استانداری همدان,In front of state buildings,2013-08-28,No,,,1.0,success,gpt-4o-mini,,,,
+31670,557815,راهپیمایی داوطلبان اعزام به جولان در حاشیه نماز جمعه تهران,,2013-08-30 13:00:10,جمعه ۸ شهریور ۱۳۹۲ - ۱۵:۳۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,International,Intl_Politics,Local,سوریه,Capital,International Institution/Country,Ordinary Citizens,Political,Unknown,تهران,small group < 15,حاشیه نماز جمعه,Public place,2013-08-30,No,2013-08-30,2013-08-30,1.0,success,gpt-4o-mini,,,,
+31702,557155,دو تجمع مقابل مجلس شورای اسلامی,صبح امروز انجام شد:,2013-09-01 09:02:47,یکشنبه ۱۰ شهریور ۱۳۹۲ - ۱۱:۳۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-09-01,No,2013-09-01,2013-09-01,1.0,success,gpt-4o-mini,,,,
+31715,556671,راهپیمایی و مراسم عزاداری خانواده‌های معظم شهدا و ایثارگران در کهف الشهدا (ورزش و نیایش),,2013-09-02 12:51:36,دوشنبه ۱۱ شهریور ۱۳۹۲ - ۱۵:۲۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,No,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,کهف الشهدا,unknown,Unknown,Unknown,2013-09-02,No,2013-09-02,2013-09-02,1.0,success,gpt-4o-mini,,,,
+31731,555897,نامه‌ی جمعی از فعالان ادبیات کودک و نوجوان به مسجدجامعی,,2013-09-04 08:37:03,چهارشنبه ۱۳ شهریور ۱۳۹۲ - ۱۱:۰۷,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Children,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Children's rights,Unknown,تهران,unknown,Unknown,Unknown,2013-09-04,No,2013-09-04,2013-09-04,1.0,success,gpt-4o-mini,,,,
+31778,553506,ماجرای تحصن اساتید در دانشگاه تهران + اسناد,,2013-09-07 16:30:02,شنبه ۱۶ شهریور ۱۳۹۲ - ۱۹:۰۰,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Student/university,N/A,Local,تهران,Capital,University Officials,Formal student group,Student Movement,Unknown,مسجد دانشگاه تهران,unknown,مسجد دانشگاه تهران,University campuses,2013-09-07,No,2013-09-07,2013-09-07,1.0,success,gpt-4o-mini,,,,
+31872,554880,تجمع جمعی از اهالی شهرستان شهمیرزاد در مقابل مجلس ,,2013-09-14 10:20:38,شنبه ۲۳ شهریور ۱۳۹۲ - ۱۲:۵۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,شهمیرزاد,Town,Government,Ordinary Citizens,Political,Unknown,تهران,medium group <50,مقابل مجلس,In front of state buildings,2013-09-14,No,,,1.0,success,gpt-4o-mini,,,,
+31873,554909,شکایت جمعی از فعالان دانشجویی به دیوان عدالت اداری در اعتراض به سهمیه‌بندی جنسیتی,,2013-09-14 11:55:03,شنبه ۲۳ شهریور ۱۳۹۲ - ۱۴:۲۵,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Women,N/A,National,Unknown,Unknown,Judiciary,Formal student group,Women,Unknown,تهران,medium group < 50,دیوان عدالت اداری,In front of state buildings,2013-09-14,No,2013-09-14,2013-09-14,1.0,success,gpt-4o-mini,,,,
+31877,549024,تجمع مقابل دفتر رئیس جدید دانشگاه علامه,,2013-09-14 16:20:50,شنبه ۲۳ شهریور ۱۳۹۲ - ۱۸:۵۰,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,City,University Officials,Formal student group,Student Movement,Unknown,مقابل دانشکده علوم اجتماعی دانشگاه علامه طباطبایی,Large Group < 200,مقابل دفتر رئیس جدید دانشگاه علامه,University campuses,2013-09-14,No,,,1.0,success,gpt-4o-mini,,,,
+31897,555289,نامه‌ی 3 فیلم‌ساز به ایوبی و اعتراض به روند برگزاری جشنواره‌ی فیلم کوتاه,,2013-09-16 08:15:37,دوشنبه ۲۵ شهریور ۱۳۹۲ - ۱۰:۴۵,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Cultural,N/A,Local,تهران,Capital,Ministries,Ordinary Citizens,Cultural,Unknown,تهران,unknown,Unknown,Unknown,2013-09-16,No,,,1.0,success,gpt-4o-mini,,,,
+31910,548018,دانشگاه پادگان نیست / کمپین‌های بزرگ دانشجویی تشکیل می‌شود,سرپرست دانشگاه علامه طباطبائی:,2013-09-16 16:07:16,دوشنبه ۲۵ شهریور ۱۳۹۲ - ۱۸:۳۷,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,N/A,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Student/university,N/A,Local,کرج,City,University Officials,Formal student group,Student Movement,Unknown,کرج,unknown,Unknown,Unknown,2013-09-16,No,2013-09-16,2013-09-16,1.0,success,gpt-4o-mini,,,,
+31913,547684,ایجاد کمپین‌های بزرگ دانشجویی برای دانشجویان دانشگاه علامه طباطبایی,مراسم استقبال از دانشجویان جدید دانشگاه علامه برگزار شد,2013-09-17 06:36:35,سه‌شنبه ۲۶ شهریور ۱۳۹۲ - ۰۹:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,,Ritual,NO,Civil campaigning,کمپین مدنی یا پویشگری,Student/university,N/A,Local,کرج,City,University Officials,Formal student group,Student Movement,Unknown,کرج,unknown,Unknown,Unknown,2013-09-17,No,2013-09-17,2013-09-17,1.0,success,gpt-4o-mini,,,,
+31925,547814,درگیری فیزیکی و تنش در یکی از بزرگترین پروژ‌ه‌های داروسازی,از آتش زدن لاستیک تا پاره کردن پیراهن!,2013-09-17 10:21:05,سه‌شنبه ۲۶ شهریور ۱۳۹۲ - ۱۲:۵۱,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Violent protests,Protest,YES,violent demonstration,تظاهرات خشونت آمیز,Labour,N/A,Local,اصفهان,City,Private Companies/organizations,Unknown,Labour,Unknown,اصفهان,small group < 15,کارخانه داروسازی شیمی داروی ریحانه,Working places,2013-09-17,No,2013-09-17,2013-09-17,1.0,success,gpt-4o-mini,,,,
+31948,543794,بیانیه حمایت از جنبش ضد تحریم در ایران صادر شد,از سوی اقتصاددانان، حقوق‌دان‌ها و مدیران رسانه‌ای،,2013-09-18 11:52:37,چهارشنبه ۲۷ شهریور ۱۳۹۲ - ۱۴:۲۲,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,International,Unknown,NA,International Institution/Country,Campaign,Economic/trade/business,Unknown,Unknown,unknown,Unknown,Unknown,2013-09-18,No,2013-09-18,2013-09-18,1.0,success,gpt-4o-mini,,,,
+31952,543041,توصیه‌ای مهم به فعالان سیاسی آزاد شده,,2013-09-20 07:54:03,جمعه ۲۹ شهریور ۱۳۹۲ - ۱۰:۲۴,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Unknown,Government,Political Org./Party,Political,Reformist,Unknown,Unknown,Unknown,Unknown,2013-09-20,No,2013-09-20,2013-09-20,1.0,success,gpt-4o-mini,,,,
+31980,542241,برگزاری دو تجمع مقابل مجلس ,,2013-09-22 09:22:24,یکشنبه ۳۱ شهریور ۱۳۹۲ - ۱۰:۵۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Government,Labour Union,Teachers,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-09-22,No,2013-09-22,2013-09-22,1.0,success,gpt-4o-mini,,,,
+31986,544500,خطر شکل‌گیری یک تحصن بی‌سابقه!,,2013-09-22 11:16:01,یکشنبه ۳۱ شهریور ۱۳۹۲ - ۱۲:۴۶,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Labour,N/A,Local,تهران,Capital,Government,Labour Union,Labour,Unknown,کانون سردفتران,unknown,کانون سردفتران,Public place,2013-09-22,No,,,1.0,success,gpt-4o-mini,,,,
+31988,542061,توضیحات توفیقی درباره ماجرای عزل دانشجو / رسیدگی به اعتراضات پیام‌نوری‌ها از امروز,,2013-09-22 12:23:04,یکشنبه ۳۱ شهریور ۱۳۹۲ - ۱۳:۵۳,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,Local,Unknown,University,University Officials,Unknown,Student Movement,Unknown,دانشگاه فرهنگیان,unknown,Unknown,University campuses,2013-09-22,No,2013-09-22,2013-09-22,1.0,success,gpt-4o-mini,,,,
+32011,544857,دیدار‌ جمعی از فعالان سیاسی یزد، فارس و خراسان شمالی با آیت الله هاشمی رفسنجانی,,2013-09-23 16:47:24,دوشنبه ۱ مهر ۱۳۹۲ - ۱۸:۱۷,سرویس عکس,,isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-09-23,No,2013-09-23,2013-09-23,1.0,success,gpt-4o-mini,,,,
+32016,541328,اعتراض یک عکاس به نحوه انتشار عکس‌های دفاع مقدس ,,2013-09-24 00:08:14,سه‌شنبه ۲ مهر ۱۳۹۲ - ۰۱:۳۸,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,National,Unknown,Unknown,Government,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-09-24,No,2013-09-24,2013-09-24,1.0,success,gpt-4o-mini,,,,
+32078,539581,حمایت جوانان و دانشجویان از مواضع رییس‌جمهور/مخالفان هم حضور داشتند,با حضور در فرودگاه مهرآباد صورت گرفت,2013-09-28 10:19:44,شنبه ۶ مهر ۱۳۹۲ - ۱۱:۴۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Government,Formal student group,Student Movement,Progovernment,فرودگاه مهرآباد,medium group < 50,فرودگاه مهرآباد,Public place,2013-09-28,No,2013-09-28,2013-09-28,1.0,success,gpt-4o-mini,,,,
+32081,539493,تجمع متقاضیان مسکن مهر پرند به دلیل تاخیر در تحویل واحدها ,,2013-09-28 11:29:48,شنبه ۶ مهر ۱۳۹۲ - ۱۲:۵۹,سرویس اقتصادی,"
+                        عمران و اشتغال
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,YES,public assembly,تجمع / اجتماع,Housing,N/A,Local,پرند,Town,Government,Ordinary Citizens,Housing,Unknown,پرند,medium group < 50,مقابل شرکت عمران شهر جدید پرند,In front of private companies,2013-09-28,No,,,1.0,success,gpt-4o-mini,,,,
+32100,546084,یک دفاع از معترضان دیروز روحانی,,2013-09-29 12:11:10,یکشنبه ۷ مهر ۱۳۹۲ - ۱۳:۴۱,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,City,Government,Student Group,Student Movement,Reformist,Unknown,medium group < 50,Unknown,Public place,2013-09-29,No,2013-09-29,2013-09-29,1.0,success,gpt-4o-mini,,,,
+32104,546103,اعتراض امیر سمواتی برای معرفی «گذشته» به اسکار ,,2013-09-29 13:05:56,یکشنبه ۷ مهر ۱۳۹۲ - ۱۴:۳۵,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,National,Unknown,Unknown,Ministries,Ordinary Citizens,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-09-29,No,2013-09-29,2013-09-29,1.0,success,gpt-4o-mini,,,,
+32106,546127,پیام اعتراض دیروز چه بود؟,,2013-09-29 14:08:58,یکشنبه ۷ مهر ۱۳۹۲ - ۱۵:۳۸,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,Capital,Conservatives,Unknown,Unknown,Reformist,تهران,unknown,Unknown,Unknown,2013-09-29,No,,,1.0,success,gpt-4o-mini,,,,
+32107,538889,کمیته صیانت از منافع ایران مسئولیت برگزاری تجمع در فرودگاه مهرآباد را به عهده گرفت ,,2013-09-29 14:20:27,یکشنبه ۷ مهر ۱۳۹۲ - ۱۵:۵۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Government,Formal student group,Political,Reformist,فرودگاه مهرآباد,unknown,فرودگاه مهرآباد,Public place,2013-09-29,No,2013-09-29,2013-09-29,1.0,success,gpt-4o-mini,,,,
+32108,538843,اعتراض به کاباره دانستن غار علیصدر + پاسخ حجت,,2013-09-29 16:24:17,یکشنبه ۷ مهر ۱۳۹۲ - ۱۷:۵۴,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,علیصدر,City,Government,Unknown,Cultural,Unknown,علیصدر,unknown,Unknown,Unknown,2013-09-29,No,,,1.0,success,gpt-4o-mini,,,,
+32126,546361,اعتراض جمعی از دانشجویان دانشگاه بجنورد به افزایش هزینه‌های صنفی,,2013-09-30 13:25:10,دوشنبه ۸ مهر ۱۳۹۲ - ۱۴:۵۵,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Economic,N/A,Local,بجنورد,City,University Officials,Formal student group,Student Movement,Unknown,مقابل سازمان مرکزی دانشگاه بجنورد,medium group < 50,مقابل سازمان مرکزی دانشگاه بجنورد,University campuses,2013-09-30,No,2013-09-30,2013-09-30,1.0,success,gpt-4o-mini,,,,
+32144,546657,تجمع تعدادی از دانشجویان علوم پزشکی سراسر کشور مقابل مجلس,,2013-10-01 14:25:08,سه‌شنبه ۹ مهر ۱۳۹۲ - ۱۵:۵۵,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,National,Unknown,Capital,Parliament,Formal student group,Student Movement,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,In front of state buildings,2013-10-01,No,2013-10-01,2013-10-01,1.0,success,gpt-4o-mini,,,,
+32150,546725,اعتراض گروه «ترافیک»: هیچ شبکه‌ای آثار ما را بدون مجوز پخش نکند ,,2013-10-02 07:51:21,چهارشنبه ۱۰ مهر ۱۳۹۲ - ۰۹:۲۱,سرویس فرهنگی و هنری,"
+                        تجسمی و موسیقی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Private Companies/organizations,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-02,No,2013-10-02,2013-10-02,1.0,success,gpt-4o-mini,,,,
+32186,536896,انتقاد پورآذری به حواشی و درگیری یک جشنواره‌ی تئاتر استانی ,,2013-10-04 10:39:10,جمعه ۱۲ مهر ۱۳۹۲ - ۱۲:۰۹,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,YES,disturbance of meetings,اخلال در مراسم,Cultural,N/A,Local,چهارمحال و بختیاری,Province Center,Local authorities/agencies,Unknown,Cultural,Unknown,چهارمحال و بختیاری,medium group < 50,Unknown,Unknown,2013-10-04,No,,,1.0,success,gpt-4o-mini,,,,
+32192,535100,نامه جمعی از اعضای هیات علمی دانشگاه صنعتی اصفهان به توفیقی ,,2013-10-04 13:45:24,جمعه ۱۲ مهر ۱۳۹۲ - ۱۵:۱۵,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Political,N/A,Local,اصفهان,City,University Officials,Formal student group,Education,Unknown,اصفهان,unknown,Unknown,Unknown,2013-10-04,No,2013-10-04,2013-10-04,1.0,success,gpt-4o-mini,,,,
+32209,535284,ابتکار: تمام شکایت‌ها علیه خبرنگاران و فعالان محیط زیست پس گرفته می‌شود,,2013-10-05 10:09:58,شنبه ۱۳ مهر ۱۳۹۲ - ۱۱:۳۹,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,N/A,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,N/A,National,Unknown,Unknown,Government,NGO/Community,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-05,No,2013-10-05,2013-10-05,1.0,success,gpt-4o-mini,,,,
+32231,534400,کمپین «موج صلح» اعلام موجودیت کرد,با حمایت از طرح «جهان علیه خشونت و افراطی‌گری» رییس‌جمهور,2013-10-06 10:19:49,یکشنبه ۱۴ مهر ۱۳۹۲ - ۱۱:۴۹,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,International,Intl_Politics,National,Unknown,Unknown,International Institution/Country,Campaign,Human rights,Reformist,Unknown,Unknown,Unknown,Unknown,2013-10-06,No,2013-10-06,2013-10-06,1.0,success,gpt-4o-mini,,,,
+32240,535715,گلستانی‌ها برای تداوم برگزاری جشنواره‌ی اقوام ایرانی در استان طومار ۴۷۰ متری امضاء کردند,,2013-10-07 06:01:07,دوشنبه ۱۵ مهر ۱۳۹۲ - ۰۷:۳۱,سرویس استان ها,"
+                        گلستان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Petitionning,طومار نویسی,Cultural,N/A,Local,گلستان,Province Center,Government,Ordinary Citizens,Cultural,Unknown,گلستان,unknown,Unknown,Unknown,2013-10-07,No,,,1.0,success,gpt-4o-mini,,,,
+32264,533422,پاسخ جامعه راهنمایان به اعتراض انجمن صنفی راهنمایان,,2013-10-08 09:26:39,سه‌شنبه ۱۶ مهر ۱۳۹۲ - ۱۰:۵۶,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Labour,N/A,Local,تهران,Capital,Government,Labour Union,Labour,Unknown,سالن «سعدی» ساختمان همایش‌های برج میلاد,small group < 15,سالن «سعدی» ساختمان همایش‌های برج میلاد,In front of state buildings,2013-10-08,No,2013-10-08,2013-10-08,1.0,success,gpt-4o-mini,,,,
+32270,533235,بیانیه‌ پایانی تجمع زنان در محکومیت کشته شدن یک زن آمریکایی,,2013-10-08 11:55:03,سه‌شنبه ۱۶ مهر ۱۳۹۲ - ۱۳:۲۵,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,National,آمریکا,NA,International Institution/Country,Informal Group,Human rights,Unknown,مقابل کاخ سفید,unknown,مقابل کاخ سفید,Public place,2013-10-08,No,,,1.0,success,gpt-4o-mini,,,,
+32271,533239,تجمع جمعی از زنان بسیجی در محکومیت کشته شدن یک زن آمریکایی ,,2013-10-08 11:56:54,سه‌شنبه ۱۶ مهر ۱۳۹۲ - ۱۳:۲۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Women,N/A,Local,Unknown,City,Government,Unknown,Women,Unknown,Unknown,unknown,Unknown,Unknown,2013-10-08,No,2013-10-08,2013-10-08,1.0,success,gpt-4o-mini,,,,
+32290,532732,دیدار جمعی از فعالان سیاسی با آیت الله هاشمی رفسنجانی,,2013-10-09 13:47:37,چهارشنبه ۱۷ مهر ۱۳۹۲ - ۱۵:۱۷,سرویس عکس,,isna,Yes,No,,Ritual,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Unknown,N/A,National,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-09,No,2013-10-09,2013-10-09,1.0,success,gpt-4o-mini,,,,
+32295,532576,اعتراض اصناف به روند اجرای طرح شبنم,,2013-10-10 09:46:09,پنجشنبه ۱۸ مهر ۱۳۹۲ - ۱۱:۱۶,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,Local,Unknown,Unknown,Government,Labour Union,Economic/trade/business,Unknown,Unknown,unknown,Unknown,Unknown,2013-10-10,No,2013-10-10,2013-10-10,1.0,success,gpt-4o-mini,,,,
+32304,532369,شهادت 5 عضو سپاه کردستان در درگیری با نیروهای ضدانقلاب,/تکمیلی/,2013-10-11 09:07:40,جمعه ۱۹ مهر ۱۳۹۲ - ۱۰:۳۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,کردستان,Province Center,Military base,Armed/Separatist group,Unknown,Unknown,بانه,unknown,نزدیکی روستای ساوان,Out of residential areas/ Roads,2013-10-11,No,2013-10-11,2013-10-11,1.0,success,gpt-4o-mini,,,,
+32307,536679,شهادت پنج عضو سپاه، در درگیری با نیروهای ضدانقلاب بوده است,نماینده بانه با اشاره به تشییع پیکر شهدا به ایسنا خبر داد,2013-10-11 09:49:24,جمعه ۱۹ مهر ۱۳۹۲ - ۱۱:۱۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Armed conflict,Ritual,YES,armed attack,حمله/درگیری مسلحانه,Military conflict,N/A,Local,Unknown,Unknown,Military base,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-11,No,2013-10-11,2013-10-11,1.0,success,gpt-4o-mini,,,,
+32312,532186,راهپیمایی خانواده در رشت,,2013-10-11 20:39:41,جمعه ۱۹ مهر ۱۳۹۲ - ۲۲:۰۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,رشت,City,Unknown,Unknown,Unknown,Unknown,رشت,unknown,Unknown,Unknown,2013-10-11,No,,,1.0,success,gpt-4o-mini,,,,
+32323,531865,نجفی به دبیرکل یونسکو اعتراض کرد,درپی اتخاذ سیاست پارسی‌زدایی توسط جمهوری آذربایجان,2013-10-12 10:11:08,شنبه ۲۰ مهر ۱۳۹۲ - ۱۱:۴۱,سرویس فرهنگی و هنری,"
+                        گردشگری و میراث
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,International,جمهوری آذربایجان,NA,International Institution/Country,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-12,No,2013-10-12,2013-10-12,1.0,success,gpt-4o-mini,,,,
+32343,530312,برگزاری همایش تجلیل از خیرین و فعالان ازدواج ‌اردبیل,,2013-10-13 11:28:17,یکشنبه ۲۱ مهر ۱۳۹۲ - ۱۲:۵۸,سرویس استان ها,"
+                        اردبیل
+                        
+                    ",isna,Yes,No,,Ritual,NO,N/A,N/A,Marriage,N/A,Local,اردبیل,Province Center,Unknown,Unknown,Unknown,Unknown,کانون شهید رجایی,unknown,کانون شهید رجایی,Public place,2013-10-13,No,,,1.0,success,gpt-4o-mini,,,,
+32350,530789,بیانیه چهارده انجمن اسلامی دانشجویان در اعتراض به روند حاکم بر دفتر تحکیم وحدت,,2013-10-13 16:30:58,یکشنبه ۲۱ مهر ۱۳۹۲ - ۱۸:۰۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Student/university,N/A,National,Unknown,Unknown,University Officials,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-13,No,2013-10-13,2013-10-13,1.0,success,gpt-4o-mini,,,,
+32359,529923,درگیری مرزبانان و متجاوزان در صفر مرزی,,2013-10-14 09:53:05,دوشنبه ۲۲ مهر ۱۳۹۲ - ۱۱:۲۳,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Unknown,N/A,Local,سیستان و بلوچستان,Province Center,Law Enforcement Force,Unknown,Unknown,Unknown,سیستان و بلوچستان,unknown,Unknown,Unknown,2013-10-14,No,2013-10-14,2013-10-14,1.0,success,gpt-4o-mini,,,,
+32376,529449,خروج اعتراض‌آمیز مختاباد از کمیسیون فرهنگی شورای پایتخت ,,2013-10-15 12:13:18,سه‌شنبه ۲۳ مهر ۱۳۹۲ - ۱۳:۴۳,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,NO,disturbance of meetings,اخلال در مراسم,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Political,Reformist,تهران,unknown,کمیسیون فرهنگی شورای شهر تهران,In front of state buildings,2013-10-15,No,,,1.0,success,gpt-4o-mini,,,,
+32400,531550,اعتراض مدافعان حقوق بشر به عضویت عربستان در شورای امنیت سازمان ملل,,2013-10-18 10:08:43,جمعه ۲۶ مهر ۱۳۹۲ - ۱۱:۳۸,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,International,عربستان سعودی,NA,International Institution/Country,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-18,No,,,1.0,success,gpt-4o-mini,,,,
+32460,528482,راه‌اندازی کمپین حمایت از زایمان طبیعی,تعرفه پایین زایمان طبیعی از موانع کاهش آمار سزارین,2013-10-21 09:23:43,دوشنبه ۲۹ مهر ۱۳۹۲ - ۱۰:۵۳,سرویس اجتماعی,"
+                        سلامت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Women,N/A,National,Unknown,Unknown,Government,Campaign,Women,Unknown,بیمارستان شهید اکبرآبادی,unknown,Unknown,Unknown,2013-10-21,No,2013-10-21,2013-10-21,1.0,success,gpt-4o-mini,,,,
+32470,528593,اعتراض دانشجویی به انتصابی در دانشگاه آزاد,,2013-10-21 12:28:24,دوشنبه ۲۹ مهر ۱۳۹۲ - ۱۳:۵۸,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Student/university,N/A,Local,Unknown,University,University Officials,Formal student group,Student Movement,Unknown,دانشگاه آزاد,small group < 15,Unknown,University campuses,2013-10-21,No,2013-10-21,2013-10-21,1.0,success,gpt-4o-mini,,,,
+32486,523918,اعتراض مریم جعفری آذرمانی به جایزه‌ی طاهره صفارزاده,,2013-10-22 10:53:39,سه‌شنبه ۳۰ مهر ۱۳۹۲ - ۱۲:۲۳,سرویس فرهنگی و هنری,"
+                        ادبیات و کتاب
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Cultural,N/A,Local,Unknown,Unknown,Judiciary,Ordinary Citizens,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-22,No,2013-10-22,2013-10-22,1.0,success,gpt-4o-mini,,,,
+32530,522782,تجمع مردم اهواز در اعتراض به انتقال آب کارون,,2013-10-25 13:00:22,جمعه ۳ آبان ۱۳۹۲ - ۱۴:۳۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Environmental,Env_Drought/ water scarcity,Local,اهواز,City,Government,Ordinary Citizens,Environmental,Unknown,اهواز,unknown,Unknown,Public place,2013-10-25,No,2013-10-25,2013-10-25,1.0,success,gpt-4o-mini,,,,
+32542,522596,شهادت 14 مرزبان در درگیری با اشرار و گروهک‌های معاند/اشرار کشته‌هایشان را بردند,,2013-10-26 08:58:51,شنبه ۴ آبان ۱۳۹۲ - ۱۰:۲۸,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed Conflicts,Armed conflict,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,سیستان و بلوچستان,Province Center,Government,Unknown,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2013-10-26,No,2013-10-26,2013-10-26,1.0,success,gpt-4o-mini,,,,
+32545,522510,بررسی حادثه تروریستی سراوان در کمیسیون امنیت/ سفر به سراوان,آصفری به ایسنا خبر داد:,2013-10-26 09:49:17,شنبه ۴ آبان ۱۳۹۲ - ۱۱:۱۹,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Human rights,N/A,Local,سراوان,City,Law Enforcement Force,Unknown,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2013-10-26,No,2013-10-26,2013-10-26,1.0,success,gpt-4o-mini,,,,
+32558,522314,تاکید رییس مجلس بر لزوم شناسایی فوری و برخورد قاطع با عوامل حادثه تروریستی سراوان,,2013-10-26 14:44:19,شنبه ۴ آبان ۱۳۹۲ - ۱۶:۱۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,National,سراوان,City,International Institution/Country,Unknown,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2013-10-26,No,,,1.0,success,gpt-4o-mini,,,,
+32562,524737,اعتراض به جمع‌آوری تابلوهای ضدآمریکایی,,2013-10-26 16:53:09,شنبه ۴ آبان ۱۳۹۲ - ۱۸:۲۳,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,تهران,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-10-26,No,2013-10-26,2013-10-26,1.0,success,gpt-4o-mini,,,,
+32576,522083,تشییع پیکر شهدای حادثه تروریستی سراوان,امروز برگزار می شود:,2013-10-27 08:30:35,یکشنبه ۵ آبان ۱۳۹۲ - ۱۱:۰۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Ritual,Ritual,NO,public assembly,تجمع / اجتماع,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,زاهدان,unknown,Unknown,Unknown,2013-10-27,No,,,1.0,success,gpt-4o-mini,,,,
+32585,524911,شکایتی از جانب دختران موسوی به ناجا نرسیده/تشریح حادثه تروریستی سراوان ,احمدی‌مقدم:,2013-10-27 10:01:48,یکشنبه ۵ آبان ۱۳۹۲ - ۱۲:۳۱,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Security,N/A,Local,سراوان,City,Government,Unknown,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2013-10-27,No,2013-10-27,2013-10-27,1.0,success,gpt-4o-mini,,,,
+32598,521778,بیانیه مجمع نمایندگان استان سیستان و بلوچستان در محکومیت حادثه تروریستی سراوان,,2013-10-27 14:53:13,یکشنبه ۵ آبان ۱۳۹۲ - ۱۷:۲۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,سیستان و بلوچستان,Province Center,Government,Political Org./Party,Political,Unknown,تهران,unknown,صحن علنی مجلس شورای اسلامی,Parliament area,2013-10-27,No,2013-10-27,2013-10-27,1.0,success,gpt-4o-mini,,,,
+32599,525033,"تجمع جمعی از کارگران \ فولاد کردستان\"" در مقابل مجلس """,,2013-10-27 15:11:42,یکشنبه ۵ آبان ۱۳۹۲ - ۱۷:۴۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,کردستان,Capital,Parliament,Labour Union,Labour,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-10-27,No,2013-10-27,2013-10-27,1.0,success,gpt-4o-mini,,,,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,1.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,2.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,3.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,4.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,5.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,6.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,7.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,8.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,9.0,521489.0,Yes,
+32611,521489,تجمع دانش‌آموزان عاشورایی در ویژه برنامه محرم «باز باران»,,2013-10-28 09:10:31,دوشنبه ۶ آبان ۱۳۹۲ - ۱۱:۴۰,سرویس فرهنگی و هنری,"
+                        رسانه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Cultural,N/A,Local,Unknown,City,Unknown,Unknown,Cultural,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-28,Yes,2013-10-28,2013-11-06,10.0,success,gpt-4o-mini,10.0,521489.0,Yes,
+32612,525210, تشییع پیکر ۴شهید حادثه تروریستی سراوان در مشهد,,2013-10-28 09:42:26,دوشنبه ۶ آبان ۱۳۹۲ - ۱۲:۱۲,سرویس عکس,,isna,Yes,No,,Ritual,Unknown,,,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,مشهد,Unknown,Unknown,Unknown,2013-10-28,No,,,1.0,success,gpt-4o-mini,,,,
+32623,525349,تجمع هواداران احمدی‌نژاد در روز تولد ۵۷ سالگی‌اش - میدان ۷۲ نارمک,,2013-10-28 20:26:04,دوشنبه ۶ آبان ۱۳۹۲ - ۲۲:۵۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,City,Political Party/Politician,Unknown,Unknown,Unknown,میدان ۷۲ نارمک,unknown,میدان ۷۲ نارمک,Public place,2013-10-28,No,2013-10-28,2013-10-28,1.0,success,gpt-4o-mini,,,,
+32635,525499,تجمع کارگران ذوب آهن کردستان مقابل وزارت کار,,2013-10-29 09:31:40,سه‌شنبه ۷ آبان ۱۳۹۲ - ۱۲:۰۱,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,کردستان,Province Center,Ministries,Labour Union,Labour,Unknown,تهران,small group < 15,مقابل وزارت کار، تعاون و رفاه اجتماعی,In front of state buildings,2013-10-29,No,,,1.0,success,gpt-4o-mini,,,,
+32660,520402,اتحادیه علمای مسلمان حمله تروریستی به مرزبانان ایرانی را محکوم کرد,,2013-10-30 09:29:07,چهارشنبه ۸ آبان ۱۳۹۲ - ۱۱:۵۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Armed conflict,Protest,YES,armed attack,حمله/درگیری مسلحانه,Human rights,N/A,National,سیستان و بلوچستان,Province Center,International Institution/Country,Unknown,Unknown,Unknown,سراوان,unknown,Unknown,Unknown,2013-10-30,No,2013-10-30,2013-10-30,1.0,success,gpt-4o-mini,,,,
+32665,520347,مدیرعامل شرکت: تجمع کارگران شرکت پلی اکریل صحت ندارد,,2013-10-30 10:30:57,چهارشنبه ۸ آبان ۱۳۹۲ - ۱۳:۰۰,سرویس استان ها,"
+                        اصفهان
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Labour,N/A,Local,اصفهان,Province Center,Private Companies/organizations,Unknown,Labour,Unknown,Unknown,Unknown,Unknown,Unknown,2013-10-30,No,2013-10-30,2013-10-30,1.0,success,gpt-4o-mini,,,,
+32716,514003,"شب شعر \از کارون تا زندگی\"" در اعتراض به انتقال آب سرچشمه‌های کارون""",در خوزستان برگزار می‌شود؛,2013-11-02 12:51:38,شنبه ۱۱ آبان ۱۳۹۲ - ۱۵:۲۱,سرویس استان ها,"
+                        خوزستان
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,symbolic demonstrations,اعتراضات نمادین,Environmental,Env_Drought/ water scarcity,Local,خوزستان,Province Center,Government,NGO/Community,Cultural,Unknown,اهواز,medium group < 50,بالکن موزه هنرهای معاصر,Public place,2013-11-02,No,2013-11-02,2013-11-02,1.0,success,gpt-4o-mini,,,,
+32732,513742,دعوت انجمن‌های اسلامی دانشجویان مستقل از وزرای علوم و بهداشت برای شرکت در راهپیمایی 13آبان,,2013-11-03 08:38:07,یکشنبه ۱۲ آبان ۱۳۹۲ - ۱۱:۰۸,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,National,Unknown,NA,Ministries,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2013-11-03,No,2013-11-03,2013-11-03,1.0,success,gpt-4o-mini,,,,
+32747,513408,اطلاعیه دعوت تظاهرات ضداستکباری یوم الله 13آبان,,2013-11-03 19:30:13,یکشنبه ۱۲ آبان ۱۳۹۲ - ۲۲:۰۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,International Institution/Country,Campaign,Political,Progovernment,تهران,unknown,مقابل لانه جاسوسی سابق آمریکا,Public place,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32752,515108,تظاهرات ضداستکباری یوم‌الله 13 آبان آغاز شد,در سراسر کشور و با شعار مرگ بر آمریکا,2013-11-04 07:33:23,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۰:۰۳,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Intl_Politics,National,Unknown,Capital,International Institution/Country,Diverse,Political,Unknown,تهران,"thousands, +1000",مقابل سفارت پیشین آمریکا,International office/ embassy,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32756,515148,متن قطعنامه تظاهرات سراسری یوم‌الله 13 آبان ماه,روز ملی مبارزه با استکبار جهانی,2013-11-04 08:37:11,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۱:۰۷,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,National,Unknown,Capital,International Institution/Country,Campaign,Political,Progovernment,تهران,unknown,Unknown,Public place,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32757,515162,تظاهرات ضداستکباری یوم‌الله 13 آبان در مشهد آغاز شد,با شعارهای کوبنده‌ی «مرگ بر آمریکا»,2013-11-04 08:53:55,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۱:۲۳,سرویس استان ها,"
+                        خراسان رضوی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,مشهد,City,International Institution/Country,Formal student group,Student Movement,Unknown,مشهد,Large Group < 200,میدان شهدا,Public place,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32759,515169,برگزاری راهپیمایی یوم الله 13 آبان در کرمانشاه,,2013-11-04 09:07:10,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۱:۳۷,سرویس استان ها,"
+                        کرمانشاه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Political,N/A,Local,کرمانشاه,Province Center,International Institution/Country,Ordinary Citizens,Political,Unknown,کرمانشاه,Large Group < 200,مقابل مسجد جامع,Public place,2013-11-04,No,,,1.0,success,gpt-4o-mini,,,,
+32761,515187,راهپیمایی ۱۳ آبان /۲,,2013-11-04 09:38:54,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۲:۰۸,سرویس عکس,,isna,Yes,No,,Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-11-04,No,,,1.0,success,gpt-4o-mini,,,,
+32767,513069,راهپیمایی ۱۳آبان - مشهد و قزوین,,2013-11-04 11:04:27,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۳:۳۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,مشهد,unknown,Unknown,Unknown,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32774,512999,تجمع ضد آمریکایی برخی از دانشجویان دانشگاه امیرکبیر,,2013-11-04 12:13:27,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۴:۴۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,University,Government,Formal student group,Student Movement,Unknown,امیرکبیر,unknown,Unknown,University campuses,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32775,513003,راهپیمایی ۱۳ آبان /۱,,2013-11-04 12:17:55,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۴:۴۷,سرویس عکس,,isna,Yes,No,,Protest,Unknown,march/ rally,راهپیمایی,Unknown,N/A,National,Unknown,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-11-04,No,,,1.0,success,gpt-4o-mini,,,,
+32776,512976,تجمع ضد آمریکایی برخی از دانشجویان دانشگاه شریف,,2013-11-04 12:41:04,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۵:۱۱,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,University,Government,Formal student group,Student Movement,Unknown,دانشگاه شریف,medium group <50,Unknown,University campuses,2013-11-04,No,,,1.0,success,gpt-4o-mini,,,,
+32778,512940,راهپیمایی ۱۳آبان - گرگان و شیراز,,2013-11-04 13:40:18,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۶:۱۰,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,گرگان,unknown,Unknown,Unknown,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32779,512955,راهپیمایی ۱۳آبان - اراک و کرمان,,2013-11-04 14:04:05,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۶:۳۴,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,اراک,unknown,Unknown,Unknown,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32780,512924,"راهپیمایی ۱۳آبان - اصفهان , ساری و سمنان",,2013-11-04 14:32:39,دوشنبه ۱۳ آبان ۱۳۹۲ - ۱۷:۰۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,Unknown,City,Unknown,Unknown,Unknown,Unknown,اصفهان,unknown,Unknown,Unknown,2013-11-04,No,2013-11-04,2013-11-04,1.0,success,gpt-4o-mini,,,,
+32797,515487,تجمع جمعی از متقاضیان مسکن ویژه تهرانسر در مقابل مجلس,,2013-11-05 10:11:17,سه‌شنبه ۱۴ آبان ۱۳۹۲ - ۱۲:۴۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Housing,N/A,Local,تهرانسر,City,Parliament,Ordinary Citizens,Housing,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-11-05,No,2013-11-05,2013-11-05,1.0,success,gpt-4o-mini,,,,
+32806,515636,دادستان زابل به شهادت رسید + نحوه ترور,,2013-11-06 06:59:55,چهارشنبه ۱۵ آبان ۱۳۹۲ - ۰۹:۲۹,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Armed Conflicts,Protest,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,Unknown,Unknown,Unknown,2013-11-06,No,2013-11-06,2013-11-06,1.0,success,gpt-4o-mini,,,,
+32809,512292,توضیحات حمیدی درباره نحوه ترور دادستان عمومی و انقلاب زابل,,2013-11-06 07:42:25,چهارشنبه ۱۵ آبان ۱۳۹۲ - ۱۰:۱۲,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,unknown,Unknown,Unknown,2013-11-06,No,2013-11-06,2013-11-06,1.0,success,gpt-4o-mini,,,,
+32833,511906,یک گروهک مسئولیت ترور دادستان زابل را برعهده گرفت,,2013-11-06 18:13:34,چهارشنبه ۱۵ آبان ۱۳۹۲ - ۲۰:۴۳,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Armed/Separatist group,Unknown,Unknown,زابل,unknown,جلو بیمارستان امیرالمومنین,Public place,2013-11-06,No,,,1.0,success,gpt-4o-mini,,,,
+32876,516439,تجمع مدافعان حرم در مشهد,,2013-11-09 19:37:11,شنبه ۱۸ آبان ۱۳۹۲ - ۲۲:۰۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Unknown,N/A,Local,مشهد,City,Unknown,Unknown,Unknown,Unknown,مشهد,Unknown,Unknown,Unknown,2013-11-09,No,2013-11-09,2013-11-09,1.0,success,gpt-4o-mini,,,,
+32880,510890,خانواده جمعی از روحانیون قمی در مقابل مجلس تجمع کردند,در اعتراض به احکام صادره از سوی دادگاه ویژه روحانیت,2013-11-10 06:48:53,یکشنبه ۱۹ آبان ۱۳۹۲ - ۰۹:۱۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Judiciary,N/A,National,قم,Capital,Judiciary,Ordinary Citizens,Religious,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2013-11-10,No,2013-11-10,2013-11-10,1.0,success,gpt-4o-mini,,,,
+32893,516631,توطئه‎ تروریست‎ها در مرزهای شرقی با هوشیاری مرزبانان نقش بر آب شده است,عضو کمیسیون امنیت ملی:,2013-11-10 10:34:15,یکشنبه ۱۹ آبان ۱۳۹۲ - ۱۳:۰۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Security,N/A,National,Unknown,Unknown,International Institution/Country,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-11-10,No,2013-11-10,2013-11-10,1.0,success,gpt-4o-mini,,,,
+32897,510560,تجمع بزرگ حسینیان اردبیل در روزهای تاسوعا و عاشورا,,2013-11-10 13:24:06,یکشنبه ۱۹ آبان ۱۳۹۲ - ۱۵:۵۴,سرویس استان ها,"
+                        اردبیل
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,اردبیل,Province Center,Unknown,Formal religious group,Religious,Unknown,اردبیل,Large Group < 200,میدان عالی‌قاپو,Public place,2013-11-10,Yes,2013-11-09,2013-11-10,2.0,success,gpt-4o-mini,1.0,510560.0,Yes,1db3ad9f5a1773a954486b09fad7aa0b
+32897,510560,تجمع بزرگ حسینیان اردبیل در روزهای تاسوعا و عاشورا,,2013-11-10 13:24:06,یکشنبه ۱۹ آبان ۱۳۹۲ - ۱۵:۵۴,سرویس استان ها,"
+                        اردبیل
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,میدان عالی‌قاپو,,,,,,,success,gpt-4o-mini,2.0,510560.0,Yes,1db3ad9f5a1773a954486b09fad7aa0b
+32961,509023,کلیمیان در حمایت از مواضع هسته‌یی ایران در مقابل دفتر سازمان ملل تجمع می‌کنند,مره‌صدق به ایسنا خبر داد,2013-11-16 09:47:53,شنبه ۲۵ آبان ۱۳۹۲ - ۱۲:۱۷,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Int_Nuclear Technology,National,Unknown,Capital,International Institution/Country,Formal religious group,Religious,Progovernment,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2013-11-16,No,2013-11-16,2013-11-16,1.0,success,gpt-4o-mini,,,,
+32998,507984,تیم ترور دادستان زابل دستگیر شدند,روابط عمومی قرارگاه قدس نیروی زمینی سپاه خبر داد,2013-11-18 12:27:24,دوشنبه ۲۷ آبان ۱۳۹۲ - ۱۴:۵۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,unknown,Unknown,Unknown,2013-11-18,No,2013-11-18,2013-11-18,1.0,success,gpt-4o-mini,,,,
+33000,518201,نماینده زابل: تیم ترور دادستان زابل از باند شرارت منطقه بوده است,,2013-11-18 13:04:25,دوشنبه ۲۷ آبان ۱۳۹۲ - ۱۵:۳۴,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,,Unknown,Unknown,Unknown,Unknown,Judiciary,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,Unknown,Unknown,Unknown,2013-11-18,No,2013-11-18,2013-11-18,1.0,success,gpt-4o-mini,,,,
+33002,518210,دستگیری 4 نفر از عوامل ترور دادستان زابل/ 2 نفر تحت تعقیب,رییس دادگستری سیستان و بلوچستان خبر داد,2013-11-18 13:35:08,دوشنبه ۲۷ آبان ۱۳۹۲ - ۱۶:۰۵,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,Unknown,Unknown,Unknown,2013-11-18,No,2013-11-18,2013-11-18,1.0,success,gpt-4o-mini,,,,
+33003,507904,آخرین جزئیات از دستگیری اعضای تیم ترور دادستان زابل,,2013-11-18 14:33:55,دوشنبه ۲۷ آبان ۱۳۹۲ - ۱۷:۰۳,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,unknown,Unknown,Unknown,2013-11-18,No,,,1.0,success,gpt-4o-mini,,,,
+33004,518241,ترور دادستان زابل توسط اشرار /«خانه احزاب» منعی برای ادامه کار ندارد,وزیر کشور خبرداد,2013-11-18 17:22:38,دوشنبه ۲۷ آبان ۱۳۹۲ - ۱۹:۵۲,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,Unknown,,,Security,N/A,Local,زابل,City,Law Enforcement Force,Unknown,Unknown,Unknown,سراوان,Unknown,Unknown,Unknown,2013-11-18,No,2013-11-18,2013-11-18,1.0,success,gpt-4o-mini,,,,
+33007,507807,ترور دادستان زابل ارتباطی با حادثه سراوان ندارد/امنیت سیستان و بلوچستان، در گرو توسعه است,وزیر کشور:,2013-11-19 06:47:54,سه‌شنبه ۲۸ آبان ۱۳۹۲ - ۰۹:۱۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,Protest,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Security,N/A,National,سیستان و بلوچستان,Province Center,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-11-19,No,,,1.0,success,gpt-4o-mini,,,,
+33013,507594,معاون امنیتی انتظامی وزیر کشور:ترور دادستان زابل ربطی به گروه‌های تروریستی منطقه ندارد,,2013-11-19 10:01:14,سه‌شنبه ۲۸ آبان ۱۳۹۲ - ۱۲:۳۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,,,Unknown,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Security,N/A,National,زابل,City,Government,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-11-19,No,2013-11-19,2013-11-19,1.0,success,gpt-4o-mini,,,,
+33014,507551,اعتراض اعضای شورا به تحولات در معاونت‌های شهرداری به صحن شورا رسید,,2013-11-19 11:16:26,سه‌شنبه ۲۸ آبان ۱۳۹۲ - ۱۳:۴۶,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Formal political group,Political,Unknown,تهران,medium group < 50,صحن شورا,Municipality/ city councils,2013-11-19,No,,,1.0,success,gpt-4o-mini,,,,
+33019,507510,تجمع جمعی از یهودیان در حمایت از مذاکرات هسته‌یی ایران و 1+5,در مقابل دفتر سازمان ملل در تهران برگزار شد,2013-11-19 12:04:36,سه‌شنبه ۲۸ آبان ۱۳۹۲ - ۱۴:۳۴,سرویس سیاسی,"
+                        انرژی هسته‎‌ای
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Int_Nuclear Technology,Local,Unknown,Capital,International Institution/Country,Ordinary Citizens,Religious,Unknown,تهران,medium group < 50,مقابل دفتر سازمان ملل,International office/ embassy,2013-11-19,No,,,1.0,success,gpt-4o-mini,,,,
+33025,518509,تجمع جمعی از یهودیان در حمایت از مذاکرات هسته‌یی مقابل دفتر سازمان ملل تهران,,2013-11-19 14:28:22,سه‌شنبه ۲۸ آبان ۱۳۹۲ - ۱۶:۵۸,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,International,Int_Nuclear Technology,National,Unknown,Capital,International Institution/Country,Ordinary Citizens,N/A,Unknown,تهران,unknown,مقابل دفتر سازمان ملل,International office/ embassy,2013-11-19,No,,,1.0,success,gpt-4o-mini,,,,
+33063,506883,بیانیه مجمع جهانی صلح اسلامی درباره حمله تروریستی بیروت,,2013-11-20 15:06:45,چهارشنبه ۲۹ آبان ۱۳۹۲ - ۱۷:۳۶,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Islamic,International,بیروت,City,International Institution/Country,Formal religious group,Political,Unknown,بیروت,unknown,Unknown,Unknown,2013-11-20,No,2013-11-20,2013-11-20,1.0,success,gpt-4o-mini,,,,
+33070,506745,دبیرکل سازمان همکاری‌های اسلامی انفجارهای تروریستی بیروت را محکوم کرد,,2013-11-21 12:16:21,پنجشنبه ۳۰ آبان ۱۳۹۲ - ۱۴:۴۶,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,International,بیروت,City,International Institution/Country,Unknown,Unknown,Unknown,بیروت,unknown,Unknown,Unknown,2013-11-21,No,2013-11-21,2013-11-21,1.0,success,gpt-4o-mini,,,,
+33071,518932,جامعةالمصطفی انفجار تروریستی در لبنان را محکوم کرد,,2013-11-21 12:29:08,پنجشنبه ۳۰ آبان ۱۳۹۲ - ۱۴:۵۹,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Intl_Politics,International,لبنان,NA,International Institution/Country,Formal religious group,Political,Unknown,Unknown,Unknown,Unknown,Unknown,2013-11-21,No,2013-11-21,2013-11-21,1.0,success,gpt-4o-mini,,,,
+33077,518974,فراخوان فعالان کارگری برای تعیین دستمزد سال 93,,2013-11-22 06:58:15,جمعه ۱ آذر ۱۳۹۲ - ۰۹:۲۸,سرویس اقتصادی,"
+                        عمران و اشتغال
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Labour,N/A,National,Unknown,Unknown,Government,Labour Union,Labour,Unknown,Unknown,unknown,Unknown,Unknown,2013-11-22,No,,,1.0,success,gpt-4o-mini,,,,
+33092,519191,توزیع بازی «ترور روحانی» در تهران!,,2013-11-23 07:33:51,شنبه ۲ آذر ۱۳۹۲ - ۱۰:۰۳,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,,Protest,Unknown,Unknown,Unknown,Cultural,N/A,Local,تهران,Capital,Government,Unknown,Unknown,Unknown,تهران,Unknown,Unknown,Unknown,2013-11-23,No,2013-11-23,2013-11-23,1.0,success,gpt-4o-mini,,,,
+33098,506221,انتقاد جمعی از فعالان دانشجویی علوم پزشکی شیراز از رییس این دانشگاه,در نامه‌ای خطاب به وزیر بهداشت مطرح شد,2013-11-23 08:51:52,شنبه ۲ آذر ۱۳۹۲ - ۱۱:۲۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Student/university,N/A,Local,شیراز,City,University Officials,Formal student group,Student Movement,Unknown,شیراز,small group < 15,Unknown,Unknown,2013-11-23,No,2013-11-23,2013-11-23,1.0,success,gpt-4o-mini,,,,
+33103,506075,شهادت دو نفر از مأموران انتظامی ایرانشهر در درگیری با اشرار,‌معاون سیاسی و امنیتی استاندار سیستان و بلوچستان خبر داد,2013-11-23 11:11:25,شنبه ۲ آذر ۱۳۹۲ - ۱۳:۴۱,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Armed conflict,Armed Conflicts,YES,armed attack,حمله/درگیری مسلحانه,Law Enforcement Force,N/A,Local,ایرانشهر,City,Law Enforcement Force,Unknown,Unknown,Unknown,ایرانشهر,unknown,چهارراه پاستور,Public place,2013-11-23,No,2013-11-23,2013-11-23,1.0,success,gpt-4o-mini,,,,
+33107,505972,اعتراض جمعی از دانشجویان پردیس دانشگاه تهران به فوت یک دانشجو +پاسخ یک مسئول,,2013-11-23 12:58:35,شنبه ۲ آذر ۱۳۹۲ - ۱۵:۲۸,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,البرز,Province Center,University Officials,Formal student group,Student Movement,Unknown,تهران,medium group < 50,میدان اصلی پردیس,University campuses,2013-11-23,No,2013-11-23,2013-11-23,1.0,success,gpt-4o-mini,,,,
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,symbolic demonstrations,اعتراضات نمادین,Health,N/A,Local,تهران,Capital,Public Awareness,Formal student group,Health,Unknown,تهران,Large Group < 200,بلوار کشاورز,Public place,2013-11-26,Yes,2013-11-26,2013-12-07,12.0,success,gpt-4o-mini,1.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,2.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,3.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,4.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,5.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,6.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,7.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,8.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,9.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,10.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,11.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33201,505137,"فعالیت کمپینگ دانشجویی \دیابت\"" با شال و دستبند آبی در تهران""",,2013-11-26 10:36:10,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۳:۰۶,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Demonstrative protests (legal and nonviolent),,,,,,,,,,,,,,,,بلوار کشاورز,,,,,,,success,gpt-4o-mini,12.0,505137.0,Yes,3ded834797cfe2334d1d1dd57919024a
+33216,503509,تجمع کفن‌پوشان مقابل مجلس + تصاویر,,2013-11-26 15:30:32,سه‌شنبه ۵ آذر ۱۳۹۲ - ۱۸:۰۰,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Human rights,N/A,Local,Unknown,Capital,Government,Ordinary Citizens,Human rights,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-11-26,No,2013-11-26,2013-11-26,1.0,success,gpt-4o-mini,,,,
+33238,501780,جزئیات درگیری در ساختمان هلال‌احمر گیلان‌غرب/ناجا امنیت امدادگران را تامین کند,,2013-11-27 14:52:03,چهارشنبه ۶ آذر ۱۳۹۲ - ۱۷:۲۲,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Confrontational protests (illegal and non violent),Protest,YES,public assembly,تجمع / اجتماع,Human rights,N/A,Local,کرمانشاه,City,Local authorities/agencies,Ordinary Citizens,Unknown,Unknown,گیلان‌غرب,medium group < 50,ساختمان جمعیت هلال‌احمر,In front of state buildings,2013-11-27,No,2013-11-27,2013-11-27,1.0,success,gpt-4o-mini,,,,
+33240,501761,تشکیل کمپین تقدیر از دیپلماسی هوشمندانه هسته‌ای کشور,,2013-11-27 16:05:55,چهارشنبه ۶ آذر ۱۳۹۲ - ۱۸:۳۵,سرویس اقتصادی,"
+                        تولید و تجارت
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Economic,N/A,National,Unknown,NA,Government,Campaign,Economic/trade/business,Unknown,Unknown,unknown,Unknown,Unknown,2013-11-27,No,2013-11-27,2013-11-27,1.0,success,gpt-4o-mini,,,,
+33262,501263,تجمع مردم سامان در اعتراض به احداث تونل گلاب بر زاینده رود - چهارمحال و بختیاری,,2013-11-29 22:16:18,شنبه ۹ آذر ۱۳۹۲ - ۰۰:۴۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Environmental,N/A,Local,زاینده رود,Province Center,Government,Ordinary Citizens,Environmental,Unknown,سامان,unknown,Unknown,Unknown,2013-11-29,No,2013-11-29,2013-11-29,1.0,success,gpt-4o-mini,,,,
+33294,502866,تجمع جمعی از چای‌خانه‌داران اصفهانی مقابل مجلس ,,2013-12-01 05:50:17,یکشنبه ۱۰ آذر ۱۳۹۲ - ۰۸:۲۰,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Business,N/A,Local,اصفهان,City,Law Enforcement Force,Labour Union,Economic/trade/business,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,Parliament area,2013-12-01,No,,,1.0,success,gpt-4o-mini,,,,
+33350,498441,10 نفر از عوامل ترور دادستان زابل دستگیر شده‌اند ‌,رییس کل دادگستری سیستان و بلوچستان:,2013-12-03 11:16:57,سه‌شنبه ۱۲ آذر ۱۳۹۲ - ۱۳:۴۶,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,,Armed Conflicts,Unknown,,,Political,N/A,Local,زابل,City,Judiciary,Unknown,Unknown,Unknown,زابل,10,Unknown,Unknown,2013-12-03,No,2013-12-03,2013-12-03,1.0,success,gpt-4o-mini,,,,
+33372,497821,"گروهک تروریستی \جیش العدل\"" حمله به اخیر به نزدیکی سراوان را برعهده گرفت""",,2013-12-04 15:14:57,چهارشنبه ۱۳ آذر ۱۳۹۲ - ۱۷:۴۴,سرویس سیاسی,"
+                        سیاست خارجی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Ethnic,N/A,Local,سراوان,City,Military base,Armed/Separatist group,Unknown,Unknown,سراوان,medium group < 50,Unknown,Unknown,2013-12-04,No,2013-12-04,2013-12-04,1.0,success,gpt-4o-mini,,,,
+33419,496113,"تشبیه تجمع اطراف رییس‌جمهور در مجلس به \میدان تحریر\""""",حاشیه‌های ارائه اولین بودجه دولت یازدهم به مجلس: ,2013-12-08 08:02:36,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۰:۳۲,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Political,N/A,Local,Unknown,Capital,Government,Unknown,Unknown,Unknown,تهران,unknown,مقابل مجلس شورای اسلامی,In front of state buildings,2013-12-08,No,,,1.0,success,gpt-4o-mini,,,,
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Civil campaigning,کمپین مدنی یا پویشگری,Health,N/A,Local,تهران,Capital,Public Awareness,Formal student group,Health,Unknown,تهران,Large Group < 200,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",Public place,2013-12-08,Yes,2013-12-11,2013-12-17,7.0,success,gpt-4o-mini,1.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,2.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,3.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,4.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,5.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,6.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33430,490215,"تشکیل کمپین\آگاهی‌بخشی ایدز\"" توسط دانشجویان دانشگاه علوم پزشکی تهران در هفته جهانی ایدز""",,2013-12-08 13:11:27,یکشنبه ۱۷ آذر ۱۳۹۲ - ۱۵:۴۱,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,Yes,Petitioning,,,,,,,,,,,,,,,,"فروشگاه هایپر استار, پردیس ملت, پردیس سینما آزادی, ایستگاه مترو ترمینال جنوب, مجموعه تفریحی توچال",,,,,,,success,gpt-4o-mini,7.0,490215.0,Yes,d5ad10c5e8d0a14637407c866ae62942
+33459,489617,هلاکت 52 شرور در درگیری با مرزبانان / حمله ناکام تروریست‌ها به یکی از پاسگاه‌های مرزی,جانشین فرمانده مرزبانی ناجا خبر داد,2013-12-10 07:14:08,سه‌شنبه ۱۹ آذر ۱۳۹۲ - ۰۹:۴۴,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed Conflicts,Armed conflict,YES,armed attack,حمله/درگیری مسلحانه,Security,N/A,Local,سیستان و بلوچستان,Province Center,Law Enforcement Force,Armed/Separatist group,N/A,Unknown,سیستان و بلوچستان,unknown,پاسگاه مرزی 167,Out of residential areas/ Roads,2013-12-10,No,,,1.0,success,gpt-4o-mini,,,,
+33467,490757, استعفای دسته جمعی 18 نماینده خوزستان در اعتراض به اعتبارات این استان در بودجه 93 ,,2013-12-10 08:28:14,سه‌شنبه ۱۹ آذر ۱۳۹۲ - ۱۰:۵۸,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,خوزستان,Province Center,Parliament,Political Org./Party,Political,Unknown,تهران,medium group < 50,مقابل مجلس شورای اسلامی,In front of state buildings,2013-12-10,No,,,1.0,success,gpt-4o-mini,,,,
+33471,489393,ادامه اعتراضات شورا به تغییر در چارت شهرداری ,,2013-12-10 10:20:28,سه‌شنبه ۱۹ آذر ۱۳۹۲ - ۱۲:۵۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Political,Unknown,تهران,medium group < 50,Unknown,Unknown,2013-12-10,No,2013-12-10,2013-12-10,1.0,success,gpt-4o-mini,,,,
+33516,491472,پیروزی حامیان محیط زیست بر تولیدکننده جهانی روغن نخل,,2013-12-13 10:13:20,جمعه ۲۲ آذر ۱۳۹۲ - ۱۲:۴۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Environmental,Env_Deforestation,International,Unknown,Unknown,Private Companies/organizations,NGO/Community,Environmental,Unknown,Unknown,Unknown,Unknown,Unknown,2013-12-13,No,2013-12-13,2013-12-13,1.0,success,gpt-4o-mini,,,,
+33557,487640,بیانیه اتحادیه انجمن‌های اسلامی دانشجویان مستقل درباره تحریم‌ها علیه ایران,,2013-12-15 08:17:30,یکشنبه ۲۴ آذر ۱۳۹۲ - ۱۰:۴۷,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,International,Int_Nuclear Technology,National,Unknown,NA,International Institution/Country,Formal student group,Student Movement,Unknown,Unknown,Unknown,Unknown,Unknown,2013-12-15,No,2013-12-15,2013-12-15,1.0,success,gpt-4o-mini,,,,
+33585,487080,همراه با جمعی از فعالان رسانه‌ای، به بزرگ‌ترین تجمع انسانی دنیا بپیوندید,,2013-12-16 09:54:53,دوشنبه ۲۵ آذر ۱۳۹۲ - ۱۲:۲۴,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,No,public assembly,تجمع / اجتماع,Religious,N/A,International,کربلا,City,Unknown,Online Community,Religious,Unknown,کربلا,"thousands, +1000",Unknown,Public place,2013-12-16,No,,,1.0,success,gpt-4o-mini,,,,
+33594,486898,تجمع اعتراضی مقابل وزارت نفت + تصاویر,,2013-12-16 14:59:24,دوشنبه ۲۵ آذر ۱۳۹۲ - ۱۷:۲۹,سرویس ایسنا+,"
+                        رسانه دیگر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,آبادان,City,Ministries,Ordinary Citizens,Labour,Unknown,خیابان طالقانی,small group < 15,مقابل وزارت نفت,In front of state buildings,2013-12-16,No,2013-12-16,2013-12-16,1.0,success,gpt-4o-mini,,,,
+33616,492610,انهدام گروهک تروریستی در مرز و کشف وسایل ارتباطات ماهواره‌ای ,معاون عملیات فرماندهی مرزبانی ناجا خبر داد,2013-12-17 10:17:25,سه‌شنبه ۲۶ آذر ۱۳۹۲ - ۱۲:۴۷,سرویس اجتماعی,"
+                        حوادث، انتظامی
+                        
+                    ",isna,Yes,No,Armed conflict,Unknown,YES,armed attack,حمله/درگیری مسلحانه,Security,N/A,Local,Unknown,Unknown,Terrorist groups,Law Enforcement Force,Unknown,Unknown,جکیگور,Unknown,Unknown,Unknown,2013-12-17,No,2013-12-17,2013-12-17,1.0,success,gpt-4o-mini,,,,
+33642,492998,پیشنهاد جدید طراح نماد کلید؛ کمپین «نه به یارانه نقدی»,,2013-12-18 13:04:39,چهارشنبه ۲۷ آذر ۱۳۹۲ - ۱۵:۳۴,سرویس اقتصادی,"
+                        اقتصاد کلان
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Economic,N/A,National,Unknown,NA,Government,Campaign,Economic/trade/business,Reformist,Unknown,Unknown,Unknown,Unknown,2013-12-18,No,2013-12-18,2013-12-18,1.0,success,gpt-4o-mini,,,,
+33694,484868,پایان یک جشنواره تئاتری با تحصن دانشجویان ,,2013-12-22 09:23:37,یکشنبه ۱ دی ۱۳۹۲ - ۱۱:۵۳,سرویس فرهنگی و هنری,"
+                        سینما و تئاتر
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,vigil,تحصن,Student/university,N/A,Local,تهران,University,University Officials,Formal student group,Student Movement,Unknown,دانشگاه هنر,medium group < 50,حیاط دانشگاه هنر,University campuses,2013-12-22,No,2013-12-22,2013-12-22,1.0,success,gpt-4o-mini,,,,
+33702,493777,راهپیمایی زائران و عزاداران اربعین حسینی از مرز ایران به سمت کربلا - عراق,,2013-12-22 13:29:34,یکشنبه ۱ دی ۱۳۹۲ - ۱۵:۵۹,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,No,march/ rally,راهپیمایی,Unknown,N/A,International,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,2013-12-22,No,2013-12-22,2013-12-22,1.0,success,gpt-4o-mini,,,,
+33707,493862,راهپیمایی مردم تهران به مناسبت اربعین,,2013-12-23 07:56:08,دوشنبه ۲ دی ۱۳۹۲ - ۱۰:۲۶,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,march/ rally,راهپیمایی,Unknown,N/A,Local,تهران,Capital,Unknown,Unknown,Unknown,Unknown,تهران,unknown,Unknown,Unknown,2013-12-23,No,2013-12-23,2013-12-23,1.0,success,gpt-4o-mini,,,,
+33717,484443,تجمع تعدادی از کارگران مخابرات روستایی مقابل مجلس,,2013-12-24 05:41:57,سه‌شنبه ۳ دی ۱۳۹۲ - ۰۸:۱۱,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,National,Unknown,Capital,Government,Labour Union,Labour,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,In front of state buildings,2013-12-24,No,,,1.0,success,gpt-4o-mini,,,,
+33726,494102,جمعی از کارگران و بازنشستگان تامین اجتماعی مقابل مجلس تجمع کردند,با اعلام تقدیر از تحفص سازمان تامین اجتماعی؛,2013-12-24 09:03:41,سه‌شنبه ۳ دی ۱۳۹۲ - ۱۱:۳۳,سرویس سیاسی,"
+                        مجلس
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Labour,N/A,Local,Unknown,Capital,Parliament,Labour Union,Retireds,Unknown,تهران,small group < 15,مقابل مجلس شورای اسلامی,Parliament area,2013-12-24,No,2013-12-24,2013-12-24,1.0,success,gpt-4o-mini,,,,
+33728,494131,اعتراض نسبت به حذف بیمه تعدادی از کارمندان همشهری,,2013-12-24 09:36:35,سه‌شنبه ۳ دی ۱۳۹۲ - ۱۲:۰۶,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Labour,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Labour,Unknown,تهران,Mob < 1000,Unknown,Unknown,2013-12-24,No,,,1.0,success,gpt-4o-mini,,,,
+33729,484191,اعتراض شورا نسبت به مدیریت سرای محلات,,2013-12-24 09:40:56,سه‌شنبه ۳ دی ۱۳۹۲ - ۱۲:۱۰,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Urban,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Urban,Unknown,تهران,small group < 15,Unknown,Unknown,2013-12-24,No,,,1.0,success,gpt-4o-mini,,,,
+33730,484194,اعتراض عضو شورا به سفر بدون اطلاع قالیباف به ترکیه,,2013-12-24 09:42:16,سه‌شنبه ۳ دی ۱۳۹۲ - ۱۲:۱۲,سرویس اجتماعی,"
+                        جامعه، شهری
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Political,N/A,Local,تهران,Capital,Municipality/ city councils,Ordinary Citizens,Political,Unknown,تهران,unknown,شورای شهر تهران,Municipality/ city councils,2013-12-24,No,,,1.0,success,gpt-4o-mini,,,,
+33781,494809,جمعی از فعالان عرصه فرهنگ و هنر خواستار تخصیص یارانه‌هایشان برای حل مشکلات زیست‌محیطی شدند,,2013-12-27 11:23:45,جمعه ۶ دی ۱۳۹۲ - ۱۳:۵۳,سرویس اجتماعی,"
+                        محیط زیست
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Environmental,N/A,National,Unknown,Unknown,Government,Informal Group,Environmental,Unknown,Unknown,medium group <50,Unknown,Unknown,2013-12-27,No,2013-12-27,2013-12-27,1.0,success,gpt-4o-mini,,,,
+33790,482978,تجمع اعتراض‌آمیز جمعی از فارغ‌التحصیلان رشته بهداشت در مقابل وزارت بهداشت,,2013-12-28 07:50:55,شنبه ۷ دی ۱۳۹۲ - ۱۰:۲۰,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,Capital,Ministries,Formal student group,Student Movement,Unknown,مقابل وزارت بهداشت,medium group < 50,مقابل وزارت بهداشت,In front of state buildings,2013-12-28,No,,,1.0,success,gpt-4o-mini,,,,
+33795,482887,طلاب استان تهران تجمع می‌کنند,در سالروز حماسه نهم دی,2013-12-28 09:07:37,شنبه ۷ دی ۱۳۹۲ - ۱۱:۳۷,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,Unknown,Formal religious group,Religious,Unknown,مدرسه عالی شهید مطهری,medium group <50,مدرسه عالی شهید مطهری,Public place,2013-12-28,No,2013-12-28,2013-12-28,1.0,success,gpt-4o-mini,,,,
+33816,495326,تجمع مالباختگان مرکز کنترل ترافیک هوایی مقابل کاخ دادگستری,,2013-12-29 09:48:15,یکشنبه ۸ دی ۱۳۹۲ - ۱۲:۱۸,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Financial/banking,N/A,Local,تهران,Capital,Judiciary,Ordinary Citizens,Labour,Unknown,مقابل کاخ دادگستری,Large Group < 200,مقابل کاخ دادگستری,In front of state buildings,2013-12-29,No,2013-12-29,2013-12-29,1.0,success,gpt-4o-mini,,,,
+33826,495446,تجمع جمعی از مردم رشت در سالروز راهپیمایی ۹ دی,,2013-12-29 14:12:56,یکشنبه ۸ دی ۱۳۹۲ - ۱۶:۴۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,Unknown,public assembly,تجمع / اجتماع,Political,N/A,Local,رشت,City,Government,Ordinary Citizens,Political,Unknown,رشت,unknown,Unknown,Unknown,2013-12-29,No,2013-12-29,2013-12-29,1.0,success,gpt-4o-mini,,,,
+33827,482181,تجمع جمعی از طلاب در سالروز راهپیمایی ۹ دی - قم,,2013-12-29 14:27:58,یکشنبه ۸ دی ۱۳۹۲ - ۱۶:۵۷,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,قم,City,Government,Formal religious group,Religious,Unknown,قم,unknown,Unknown,Unknown,2013-12-29,No,2013-12-29,2013-12-29,1.0,success,gpt-4o-mini,,,,
+33831,482096,تجمع بزرگ طلاب، اساتید و روحانیون حوزه‌های علمیه استان تهران ,به مناسبت بزرگداشت 9 دی برگزار شد,2013-12-30 07:43:02,دوشنبه ۹ دی ۱۳۹۲ - ۱۰:۱۳,سرویس فرهنگی و هنری,"
+                        دین و اندیشه
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Ritual,NO,public assembly,تجمع / اجتماع,Religious,N/A,Local,تهران,Capital,Government,Formal religious group,Religious,Unknown,مدرسه عالی شهید مطهری,Large Group < 200,مدرسه عالی شهید مطهری,Public place,2013-12-30,No,2013-12-30,2013-12-30,1.0,success,gpt-4o-mini,,,,
+33835,495586,تجمع طلاب و اساتید حوزه‌های علمیه استان تهران به مناسبت نهم دی,,2013-12-30 10:32:06,دوشنبه ۹ دی ۱۳۹۲ - ۱۳:۰۲,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,Capital,Government,Formal student group,Student Movement,Unknown,تهران,unknown,Unknown,Unknown,2013-12-30,No,2013-12-30,2013-12-30,1.0,success,gpt-4o-mini,,,,
+33839,481897,نامه جمعی از دانشجویان دانشگاه هنر در اعتراض به مدیریت دانشگاه,,2013-12-30 13:43:20,دوشنبه ۹ دی ۱۳۹۲ - ۱۶:۱۳,سرویس علمی و دانشگاهی,"
+                        آموزش
+                        
+                    ",isna,Yes,No,Petitioning,Protest,NO,Collective open letter,نامه جمعی اعتراضی,Student/university,N/A,Local,تهران,City,University Officials,Formal student group,Student Movement,Unknown,تهران,medium group < 50,Unknown,Unknown,2013-12-30,No,2013-12-30,2013-12-30,1.0,success,gpt-4o-mini,,,,
+33840,481877,تجمع دانشجویی 9 دی در میدان فلسطین برگزار شد/نقدی سخنرانی نکرد,,2013-12-30 14:40:50,دوشنبه ۹ دی ۱۳۹۲ - ۱۷:۱۰,سرویس سیاسی,"
+                        سیاست داخلی
+                        
+                    ",isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,تهران,Capital,Government,Formal student group,Student Movement,Unknown,میدان فلسطین,Large Group < 200,میدان فلسطین,Public place,2013-12-30,No,,,1.0,success,gpt-4o-mini,,,,
+33841,495657,تجمع دانشجویی 9 دی در میدان فلسطین,,2013-12-30 15:13:19,دوشنبه ۹ دی ۱۳۹۲ - ۱۷:۴۳,سرویس عکس,,isna,Yes,No,Demonstrative protests (legal and nonviolent),Protest,NO,public assembly,تجمع / اجتماع,Student/university,N/A,Local,Unknown,City,Government,Formal student group,Student Movement,Unknown,میدان فلسطین,unknown,میدان فلسطین,Public place,2013-12-30,No,2013-12-30,2013-12-30,1.0,success,gpt-4o-mini,,,,
+33853,481668,دیده‌بان حقوق بشر رد قانون مبارزه با تروریسم عربستان را خواستار شد,,2013-12-31 14:24:35,سه‌شنبه ۱۰ دی ۱۳۹۲ - ۱۶:۵۴,سرویس سیاسی,"
+                        حقوقی و قضایی
+                        
+                    ",isna,Yes,No,Petitioning,Protest,No,"Contacting politicians, officials, parliament members, media etc.",تماس با سیاستمداران و مسئولان و رسانه‌ها,Human rights,N/A,International,عربستان,National,Government,NGO/Community,Human rights,Unknown,Unknown,Unknown,Unknown,Unknown,2013-12-31,No,2013-12-31,2013-12-31,1.0,success,gpt-4o-mini,,,,
