@@ -294,15 +294,18 @@ class ProtestCoder:
         if not result_df.empty:
             relevant_count = len(result_df[result_df.get('relevance') == 'Yes'])
             duplicate_count = len(result_df[result_df.get('duplicate') == 'Yes'])
-            expanded_count = len(result_df[result_df.get('_is_expanded') == 'Yes'])
+            
+            # FIX: Check if '_is_expanded' column exists before using it
+            if '_is_expanded' in result_df.columns:
+                expanded_count = len(result_df[result_df['_is_expanded'] == 'Yes'])
+            else:
+                expanded_count = 0
             
             print(f"\n📊 Processing Summary:")
             print(f"   📰 Total articles processed: {len(df)}")
             print(f"   ✅ Events coded: {relevant_count}")
             print(f"   🔄 Duplicates identified: {duplicate_count}")
             print(f"   📅 Expanded multi-day events: {expanded_count}")
-            if errors:
-                print(f"   ❌ Errors: {len(errors)}")
         else:
             print(f"\n📊 Processing Summary:")
             print(f"   📰 Total articles processed: {len(df)}")

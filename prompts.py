@@ -153,6 +153,8 @@ Choose ONE: 'Business', 'Children', 'Cultural', 'Disability', 'Economic', 'Envir
 ### Location
 - **Local/National/International**: 'Local', 'National', 'International'
 - **Location_Category**: 'Capital', 'Province Center', 'City', 'Town', 'Rural', 'National', 'NA'
+- **event_location_name**: CITY/TOWN/VILLAGE name in Persian (e.g., "تهران", not "مقابل مجلس")
+- **issue_location_name**: CITY/TOWN/VILLAGE name in Persian (e.g., "کرمانشاه", not "مقابل مجلس")
 
 ### Size of Participants - Clear Categories
 Use these specific thresholds:
@@ -176,14 +178,14 @@ If the article gives a specific number, use the appropriate category
 - **MainPoliticalSector**: 'Reformist', 'Progovernment', 'Conservative', 'Neutral', 'Other', 'Unknown'
 
 ### Event Arena
-- **arena_name**: Specific location in Persian (e.g., "مقابل مجلس شورای اسلامی", "خیابان طالقانی", "دانشگاه تهران")
+- **arena_name**: Specific PLACE in Persian (e.g., "مقابل مجلس شورای اسلامی", "خیابان طالقانی", not "تهران")
 - **arena_type**: 'In front of private companies', 'In front of state buildings', 'International office/ embassy', 'Municipality/ city councils', 'Online', 'Out of residential areas/ Roads', 'Parliament area', 'Prisons', 'Public place', 'Religious places', 'Streets', 'University campuses', 'Working places', 'Other', 'NA', 'Unknown'
 
 ### Location Coding Rules
 **IMPORTANT: Separate "Issue Location" from "Event Location"**
 
-- **event_location_name**: Where the protest ACTUALLY took place (physical location of the gathering)
-- **issue_location_name**: Where the problem is happening (may be different from event location)
+- **event_location_name**: Where the protest ACTUALLY took place (physical location of the gathering) - should be CITY/TOWN/VILLAGE
+- **issue_location_name**: Where the problem is happening (may be different from event location) - should be CITY/TOWN/VILLAGE
 
 Example: Workers from Kermanshah protest in Tehran → event_location = تهران, issue_location = کرمانشاه
 Example: Teachers protest in their own city → event_location = [city name], issue_location = [same city]
@@ -224,6 +226,7 @@ Return ONLY valid JSON with these keys:
 IMPORTANT: 
 - Location names should be in Persian as written in the article
 - arena_name should be the specific location in Persian (e.g., "مقابل مجلس شورای اسلامی")
+- event_location_name and issue_location_name should be CITY/TOWN/VILLAGE names (e.g., "تهران", "کرمانشاه")
 - If information is not available, use "Unknown" or "N/A"
 - Be thorough - extract EVERY piece of information you can find
 """
