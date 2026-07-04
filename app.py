@@ -105,21 +105,26 @@ def create_filters(df):
     """Create sidebar filters"""
     st.sidebar.header("🔍 Filters")
     
-    # Date range filter - only if we have valid dates
+    # Date range filter - use actual data dates as default
+    min_date = df['event_date'].min()
+    max_date = df['event_date'].max()
+    
+    # Remove any NaN/NaT values before getting min/max
     valid_dates = df['event_date'].dropna()
     if not valid_dates.empty:
         min_date = valid_dates.min()
         max_date = valid_dates.max()
-        
-        date_range = st.sidebar.date_input(
-            "📅 Date Range",
-            value=[min_date, max_date],
-            min_value=min_date,
-            max_value=max_date
-        )
     else:
-        st.sidebar.warning("No valid dates in data")
-        date_range = [pd.Timestamp.now() - pd.Timedelta(days=30), pd.Timestamp.now()]
+        # Fallback if no valid dates
+        min_date = pd.Timestamp('2013-01-01')
+        max_date = pd.Timestamp('2020-01-01')
+    
+    date_range = st.sidebar.date_input(
+        "📅 Date Range",
+        value=[min_date, max_date],  # Default to data range
+        min_value=min_date,
+        max_value=max_date
+    )
     
     # Category filter
     categories = sorted(df['protests_categories'].dropna().unique())
