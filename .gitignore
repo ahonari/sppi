@@ -39,7 +39,7 @@ Thumbs.db
 .streamlit/secrets.toml
 
 # Dashboard data (keep only CSV, exclude Excel)
-data/dashboard/*.xlsx
+data/dashboard/*.csv
 
 # Geocode cache (not needed for deployment)
 data/geocode_cache.json
