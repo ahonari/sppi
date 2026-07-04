@@ -1,18 +1,18 @@
-# Existing dependencies
-pandas>=2.0.0
-openai>=1.0.0
-python-dotenv>=1.0.0
-openpyxl>=3.0.0
-fuzzywuzzy>=0.18.0
-python-Levenshtein>=0.21.0
-tqdm>=4.66.0
-numpy>=1.24.0
-
-# New dependency for geocoding
-googlemaps>=4.10.0
-
-# Visualization dependencies
+# Core
 streamlit>=1.28.0
+pandas>=2.0.0
 plotly>=5.17.0
 folium>=0.14.0
-streamlit-folium>=0.16.0
+openpyxl>=3.0.0
+numpy>=1.24.0
+
+# Data processing (optional)
+openai>=1.0.0
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+requests>=2.31.0
+
+# Geocoding (optional)
+googlemaps>=4.10.0
+
+# Note: fuzzywuzzy and python-Levenshtein removed to avoid build issues
